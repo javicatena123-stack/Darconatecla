@@ -1,174 +1,187 @@
-# Radar tecnológico — 8 de noviembre de 2026
+# Radar tecnológico — 9 de noviembre de 2026
 
-**Elaborado:** domingo 8/11/2026, 23:37 (Europe/Madrid)  
-**Ventana estricta de noticias:** 7/11/2026 23:37 → 8/11/2026 23:37 (Europe/Madrid).  
-**Ventana de vídeos:** referencias localizadas en la búsqueda actual; se indica fecha individual. Las piezas antiguas se etiquetan como ejemplos de rendimiento, no como tendencias nuevas.
+**Elaborado:** lunes 9/11/2026, 07:12:53 (Europe/Madrid).  
+**Ventana estricta de noticias:** 8/11/2026 07:12:53 → 9/11/2026 07:12:53 (Europe/Madrid).  
+**Comparación:** revisado frente a RADAR_ACTUAL.md y al histórico hasta 8/11/2026. No se repiten las referencias de Pixelmente, El Hipster ni Inteligencia Artificial Top del radar anterior.
 
-## 1. Resumen ejecutivo
+## 1. Resumen ejecutivo: cinco hallazgos
 
-1. **Dos noticias relevantes dentro de las últimas 24 horas:** Samsung prepara la beta de One UI 9.5 para Galaxy S26 Ultra (sin anuncio oficial todavía) y Bloomberg informa de presión interna en Apple para acelerar la IA en iPhone.
-2. **No se confirma ningún lanzamiento comercial nuevo** de móvil, portátil o gadget en esta ventana.
-3. **Oportunidad editorial:** convertir los dos temas en vídeos explicativos sin exagerar: qué significa una beta detectada en servidores y qué podría cambiar con una Siri más agéntica.
-4. **Descubrimiento de creadores:** Pixelmente destaca por divulgación visual y métricas de alcance acumulado; El Hipster publicó hoy una explicación sobre IA generativa para crear modelos 3D de videojuegos.
-5. **Acceso parcial:** no se ha podido verificar suficiente muestra de Shorts/Reels/TikToks recientes con enlaces directos y métricas nativas para construir diez fichas rigurosas. Se ofrecen las mejores señales verificables y se evita completar el cupo con referencias dudosas o repetidas.
+1. **Apple quiere que Siri actúe como agente:** The Verge concreta acciones dentro de apps propias con iOS 27.3 e integración de terceros más adelante en primavera. Es información atribuida a Bloomberg, no un anuncio oficial de Apple; amplía el tema del radar anterior, no constituye una noticia independiente.
+2. **Suno afronta nuevas demandas relacionadas con música generada por IA:** representantes de los derechos de Elvis Presley y la editorial de grabaciones de Eminem alegan imitación de voz/letras. Son acusaciones pendientes, no una resolución judicial.
+3. **La comunidad de ingeniería inversa de videojuegos decomp.dev está cerrando su índice principal y las nuevas contribuciones:** su administrador atribuye la decisión al uso abusivo de IA para generar aportaciones rápidas y de baja calidad.
+4. **La señal viral más llamativa localizada es un Short de teclado dividido:** 17,24 M de visualizaciones y +1,12 M frente al día anterior en el último ranking consultado; el canal ronda solo las decenas de miles de suscriptores.
+5. **La muestra española de creadores medianos ofrece más oportunidades de formato que de viralidad inmediata:** destacan MasqueJPG (+1,7% de suscriptores en el periodo medido) y Mundo Samsung (+1,1%). Las cifras de crecimiento son de terceros y no equivalen a crecimiento diario.
 
-## 2. Noticias tecnológicas confirmadas de las últimas 24 horas
+## 2. Noticias verificadas dentro de las últimas 24 horas
 
-### 1) Apple quiere acelerar la IA en iPhone, según Bloomberg
+### 1) Suno recibe nuevas demandas por música generada con IA — noticia nueva
 
-- **Medio:** Gizmodo, a partir de la newsletter Power On de Mark Gurman (Bloomberg).
-- **Publicación original del artículo:** 8/11/2026, 13:04 ET = 19:04 Europe/Madrid.
-- **Qué se sabe:** el CEO John Ternus habría presionado al responsable de software Craig Federighi para acelerar la hoja de ruta de IA más allá de las mejoras de Siri. La información se atribuye a fuentes anónimas citadas por Gurman. También se menciona que Apple quiere hacer Siri más agéntica.
-- **Qué no significa:** no es un anuncio oficial de Apple ni confirma funciones o fechas de lanzamiento.
-- **Enlace:** [Gizmodo — Apple’s New CEO Is Reportedly Pushing to Stuff More AI into iPhones](https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769).
+- **Medio y fecha original:** Engadget, 8/11/2026, 14:42 EST = 20:42 Europe/Madrid.
+- **Qué ha ocurrido:** el grupo que representa derechos musicales de Elvis Presley y Eight Mile Style, editorial que controla numerosas grabaciones de Eminem, han presentado demandas separadas contra Suno. Alegan que el servicio genera canciones que imitan la voz de Presley o reproducen rasgos de las letras de Eminem.
+- **Respuesta de Suno:** la empresa sostiene que prohíbe el uso no autorizado de nombres y canciones de artistas y que aplica controles para detectar abusos.
+- **Lectura para la audiencia:** la IA musical ya no es solo una cuestión de calidad de generación; también entran en juego identidad vocal, licencias y límites de uso.
+- **Cautela:** son alegaciones de las partes; no existe aquí una sentencia que determine responsabilidad.
+- **Fuente:** [Engadget — Suno AI music generator sued again for copyright infringement](https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/).
 
-### 2) La beta de One UI 9.5 aparece en servidores de Samsung
+### 2) Apple prepara una Siri más agéntica — continuidad con detalle nuevo
 
-- **Medio:** Engadget.
-- **Publicación original del artículo:** 7/11/2026, 20:00 EST = 8/11/2026, 02:00 Europe/Madrid.
-- **Qué se sabe:** se ha detectado el firmware S948BXXU6ZZK3 para Galaxy S26 Ultra en servidores de actualización de Samsung en Corea y EE. UU. Suele ser un paso previo a la apertura de registros beta.
-- **Qué no significa:** Samsung no ha anunciado oficialmente ni la beta ni su fecha. El artículo señala que la build observada es para S26 Ultra; la disponibilidad por países y operadores aún no está confirmada para esta beta.
-- **Enlace:** [Engadget — Samsung One UI 9.5 beta may be coming soon](https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/).
+- **Medio y fecha original:** The Verge, 8/11/2026, 19:18 UTC = 20:18 Europe/Madrid.
+- **Qué añade respecto al radar anterior:** el artículo concreta que iOS 27.3 podría permitir a Siri ejecutar acciones más precisas en apps propias —por ejemplo, editar fotos u organizar pestañas de Safari— y que la integración con aplicaciones de terceros llegaría más adelante en primavera. La meta a más largo plazo sería que Siri mantenga objetivos y encadene tareas sin que el usuario tenga que iniciar cada paso.
+- **Fuente original de la información:** Bloomberg, Mark Gurman.
+- **Cautela:** previsiones atribuidas a fuentes periodísticas; Apple no ha anunciado oficialmente estas funciones ni sus fechas.
+- **Fuente:** [The Verge — Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic).
 
-### Excluida por no cumplir la ventana estricta
+### 3) La comunidad de ingeniería inversa de videojuegos decomp.dev limita su actividad — noticia nueva
 
-- **TikTok y los «agujeros de conejo» del algoritmo:** la Comisión Europea publicó sus conclusiones preliminares el **6/11/2026**, fuera de la ventana. Aunque Gizmodo publicó una pieza posterior el 7/11 a las 20:35 ET, no he encontrado una actualización sustancial nueva del expediente dentro de las últimas 24 horas. Se conserva como tema de continuidad, no como noticia nueva. [Comisión Europea — comunicado del 6/11](https://digital-strategy.ec.europa.eu/es/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes).
+- **Medio y fecha original:** Engadget, 8/11/2026, 09:15 EST = 15:15 Europe/Madrid.
+- **Qué ha ocurrido:** el administrador ha iniciado el cierre del índice principal y ha desactivado la incorporación de nuevos proyectos. Las páginas individuales y el histórico de proyectos existentes seguirán disponibles.
+- **Motivo alegado:** el uso de IA para terminar proyectos rápidamente habría atraído contribuciones sin revisión suficiente y ports incompletos, desplazando el objetivo de aprender cómo funcionan los juegos y preservar su código.
+- **Lectura para la audiencia:** debate interesante sobre IA, preservación del videojuego y calidad del software generado.
+- **Fuente:** [Engadget — The game reverse engineering community is the latest casualty of AI](https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/).
 
-## 3. Oportunidades de contenido
+**Sin confirmación en esta ventana:** no se ha localizado un anuncio oficial nuevo de lanzamiento de móvil, portátil o wearable. La beta de One UI 9.5 sigue siendo una pista de firmware ya incluida en el radar anterior; no se ha encontrado confirmación oficial nueva de Samsung.
 
-### A. Vídeos con rendimiento destacado — referencias de formato (no tendencias nacidas hoy)
+## 3. Diez oportunidades de vídeo: 5 señales virales + 5 creadores pequeños/medianos
 
-> No se han encontrado cinco vídeos virales nuevos, recientes y con permalink + métricas verificables en esta ejecución. Las cuatro referencias siguientes son ejemplos de rendimiento anteriores del creador Pixelmente, con métricas de TikTok Studio/Instagram/YouTube declaradas por el propio proyecto a 23/10/2026. No deben presentarse como virales de hoy.
+**Criterio de métricas:** el ranking de YouTube de Digital Creators consultado el 8/11 a las 16:04 muestra visualizaciones acumuladas y variación frente al día anterior. Socialcounts aporta una captura adicional para el Short de Tecnonauta. Las métricas de terceros pueden tener cortes distintos; no se presentan como estadísticas nativas de TikTok o Instagram. Las visualizaciones acumuladas no deben interpretarse por sí solas como velocidad actual.
 
-#### 1) ¿Cómo sigue Starlink a satélites que se mueven sin moverse?
+### A. Cinco vídeos con señales excepcionales
 
-- **Plataformas:** TikTok + Instagram; el proyecto también publica en YouTube.
-- **Creador:** Pixelmente (@pixelmeente).
-- **Referencia:** [Vídeo y explicación](https://pixelmente.es/videos/como-funciona-starlink/).
-- **Fecha:** 9/10/2026.
-- **Métricas verificadas por el creador:** 914 mil visualizaciones combinadas TikTok + Instagram, según su página de resultados consultada (corte 23/10).
-- **No verificado:** desglose por plataforma, likes, comentarios, compartidos y visualizaciones actuales.
-- **Por qué funciona:** pregunta contraintuitiva, animación explicativa y dato cuantificable (cambio de satélite cada 15 segundos).
-- **Gancho basado en el título:** «¿Cómo apunta Starlink a un satélite que se mueve a 27.000 km/h?».
-- **Adaptación original:** explicar cómo funciona el GPS del móvil o cómo sabe el teléfono a qué antena conectarse, con animación propia.
+#### 1. Arya Vale — teclado dividido real
 
-#### 2) ¿Poner el aire acondicionado a 16 °C enfría más rápido?
+- **Plataforma/formato:** YouTube Shorts, 0:13.
+- **Vídeo:** [THIS IS A REAL SPLIT KEYBOARD?!](https://www.youtube.com/shorts/BmglXbDTibM).
+- **Fecha:** 31/10/2026.
+- **Métricas verificables:** 17.242.574 visualizaciones y +1.124.296 frente al día anterior en el ranking de España consultado el 8/11 a las 16:04. El registro del vídeo confirma 13 segundos. No se verificaron likes/comentarios en el mismo corte.
+- **Creador:** Arya Vale; canal pequeño frente al alcance del vídeo, en torno a 20–23 mil suscriptores según capturas de terceros.
+- **Gancho comprobable:** la pregunta del propio título y la demostración visual de un teclado dividido.
+- **Adaptación original:** enseñar tres gestos/posiciones del teclado, probar si realmente ahorra espacio y cerrar con «¿lo usarías o es postureo?». No copiar el vídeo ni su montaje.
 
-- **Plataformas:** TikTok + Instagram.
-- **Creador:** Pixelmente.
-- **Referencia:** [Vídeo y explicación](https://pixelmente.es/videos/aire-acondicionado-16-grados/).
-- **Fecha:** 7/10/2026.
-- **Métrica declarada:** 405 mil visualizaciones combinadas TikTok + Instagram (corte 23/10).
-- **No verificado:** desglose por plataforma ni métricas de interacción.
-- **Por qué funciona:** desmonta un mito cotidiano con una respuesta clara y ahorro económico.
-- **Gancho:** «Poner el aire a 16 grados no hace que enfríe antes».
-- **Adaptación original:** desmontar mitos de batería, carga rápida o cobertura Wi-Fi con una prueba visible.
+#### 2. SCUF PE — reparar una Nintendo Switch comprada en un mercadillo
 
-#### 3) ¿Se puede desbloquear Face ID con una foto?
+- **Plataforma/formato:** YouTube; no se ha podido confirmar si es Short o vídeo largo.
+- **Vídeo:** [Trying to repair a dead Nintendo Switch from a Peruvian flea market](https://www.youtube.com/watch?v=2fRlcG1QmR4).
+- **Fecha:** 3/11/2026.
+- **Métricas verificables:** 5.099.625 visualizaciones y +921.975 frente al día anterior en el ranking consultado el 8/11 a las 16:04. Likes, comentarios y duración no verificados.
+- **Gancho comprobable:** consola supuestamente muerta comprada en un mercadillo y reto de reparación.
+- **Adaptación original:** «Compré una Switch que no enciende por X euros: ¿merece la pena repararla?». Enseñar precio, diagnóstico, coste de piezas y resultado real; no prometer una reparación si no se consigue.
 
-- **Plataformas:** TikTok + Instagram.
-- **Creador:** Pixelmente.
-- **Referencia:** [Vídeo y explicación](https://pixelmente.es/videos/face-id-foto/).
-- **Fecha:** 7/10/2026.
-- **Métrica declarada:** 267 mil visualizaciones combinadas TikTok + Instagram (corte 23/10).
-- **No verificado:** desglose por plataforma, likes, comentarios y compartidos.
-- **Por qué funciona:** seguridad personal, demostración sencilla y comparación entre tecnologías de desbloqueo.
-- **Gancho:** «¿Podrían desbloquear tu iPhone con una foto?».
-- **Adaptación original:** comparar Face ID, huella y reconocimiento facial 2D en móviles actuales, citando modelos concretos y pruebas independientes.
+#### 3. Cris Martínez — Apple Pencil con el iPhone Duo
 
-#### 4) ¿Cómo paga una tarjeta contactless si no tiene batería?
+- **Plataforma/formato:** YouTube; duración y condición de Short no verificadas.
+- **Vídeo:** [What's it like to use the Apple Pencil with the iPhone Duo?](https://www.youtube.com/watch?v=ys7Lq2N3r3A).
+- **Fecha:** 4/11/2026.
+- **Métricas verificables:** 900.861 visualizaciones y +211.313 frente al día anterior en el ranking consultado el 8/11 a las 16:04. Likes y comentarios no disponibles en ese ranking.
+- **Gancho comprobable:** combinación poco habitual de Apple Pencil e iPhone plegable.
+- **Adaptación original:** probar qué usos reales tendría un lápiz en un móvil plegable: notas, edición, precisión y ergonomía. Separar compatibilidad real de hipótesis.
 
-- **Plataformas:** TikTok + Instagram.
-- **Creador:** Pixelmente.
-- **Referencia:** [Biblioteca de vídeos de Pixelmente](https://pixelmente.es/videos/).
-- **Fecha:** la fecha exacta de esta pieza no se ha podido verificar en la página consultada.
-- **Métrica declarada:** 162 mil visualizaciones combinadas TikTok + Instagram (corte 23/10).
-- **No verificado:** permalink individual, fecha exacta y métricas de interacción.
-- **Por qué funciona:** explica una tecnología invisible que usamos a diario.
-- **Gancho sugerido:** «Tu tarjeta no tiene batería… entonces, ¿de dónde sale la energía para pagar?».
-- **Adaptación original:** explicar NFC del móvil, pagos sin contacto y diferencias entre NFC y Bluetooth.
+#### 4. Tecnonauta — supuesto adelanto del iPhone 20
 
-### B. Creadores pequeños/medianos para descubrir o seguir
+- **Plataforma/formato:** YouTube Shorts, 0:57.
+- **Vídeo:** [SE FILTRA el iPHONE 20!!!](https://www.youtube.com/shorts/F_VA75v1lOA).
+- **Fecha:** 5/11/2026.
+- **Métricas verificables:** Socialcounts mostraba 842 mil visualizaciones, 29,4 mil likes y 829 comentarios en la consulta del 9/11; el ranking de España del 8/11 a las 16:04 registraba 711.931 visualizaciones y +94.400 frente al día anterior. Los dos cortes no son simultáneos.
+- **Gancho comprobable:** el término «se filtra» y la promesa de un iPhone futuro.
+- **Adaptación original:** vídeo de verificación: qué parte es rumor, qué parte está respaldada por fuentes y qué no se puede afirmar. No presentar la supuesta filtración como confirmada.
 
-> Se prioriza calidad temática y actividad demostrable. No se atribuye crecimiento reciente si la fuente no ofrece una serie temporal comparable.
+#### 5. CarterPCs — qué es Sticky Keys y cómo quitar el aviso
 
-#### 5) Pixelmente — divulgación tecnológica visual
+- **Plataforma/formato:** YouTube Shorts, 0:30.
+- **Vídeo:** [What is sticky keys?? And how to turn off the popup?](https://www.youtube.com/shorts/eP2rasa1P88).
+- **Fecha:** 4/11/2026.
+- **Métricas verificables:** 6.311.381 visualizaciones y +260.239 frente al día anterior en el ranking consultado el 8/11 a las 16:04. Una captura separada de ViralShooter mostraba aproximadamente 154 mil likes; no se verificaron comentarios ni compartidos.
+- **Gancho comprobable:** resolver un aviso molesto de Windows con una pregunta directa.
+- **Adaptación original:** mostrar el aviso, explicar por qué aparece al pulsar Shift repetidamente y enseñar cómo desactivarlo en Windows 11. Grabar la pantalla y comprobar la ruta exacta antes de publicar.
 
-- **Canales:** [Web y biblioteca de vídeos](https://pixelmente.es/) · perfiles sociales enlazados en su web como @pixelmeente.
-- **Tamaño/señales:** la web declara 110,3 mil seguidores en TikTok y 3,8 millones de visualizaciones acumuladas desde el 28/9; corte de sus cifras: 23/10/2026.
-- **Contenido:** explica cómo funcionan móviles, gadgets, conectividad, IA y tecnología cotidiana mediante animación 3D/pixel art.
-- **Por qué seguirlo:** formato reconocible, fuentes citadas y temas que se prestan a retención. No es una cuenta recién emergente; es un referente mediano de formato.
-- **Qué hace especialmente bien:** convierte una duda simple en una explicación visual por pasos.
-- **Vídeo destacado:** Starlink, 9/10, 914 mil views combinadas (ver referencia 1).
+### B. Cinco creadores pequeños/medianos para monitorizar
 
-#### 6) El Hipster (Manuel Murcia) — IA aplicada y creación de videojuegos
+Las estadísticas de suscriptores y crecimiento proceden de ChannelDB, con actualización visible el 8/11. Las visualizaciones son acumuladas en la ficha del vídeo; no se ha podido verificar su variación diaria ni likes/comentarios. Las fechas «ayer/anteayer» se convierten tomando como referencia la captura del 8/11.
 
-- **Canal:** [YouTube](https://www.youtube.com/@ElHipster).
-- **Tamaño:** 133 mil suscriptores; 108 vídeos en la ficha pública consultada.
-- **Actividad reciente:** vídeo fechado el 8/11/2026 sobre crear modelos 3D para videojuegos con IA.
-- **Vídeo:** [Lo que los desarrolladores de videojuegos no quieren que sepas](https://www.youtube.com/watch?v=sHmJygwRN0g).
-- **Métricas:** visualizaciones, likes y comentarios no visibles en la ficha consultada.
-- **Por qué seguirlo:** conecta herramientas de IA con flujos reales de creación y desarrollo.
-- **Qué hace especialmente bien:** explicar herramientas concretas y el flujo de trabajo; conviene revisar el enfoque comercial/promocional antes de tomarlo como recomendación neutral.
+#### 6. MasqueJPG — fotografía móvil y comparativas visuales
 
-#### 7) Inteligencia Artificial Top — herramientas y experimentos de IA
+- **Plataforma/formato:** YouTube Shorts.
+- **Vídeo reciente:** [NO TIENE SENTIDO el kit en este VIVO X500 Pro Max](https://www.youtube.com/shorts/ldYzaR0Ur8k).
+- **Fecha estimada por la ficha:** 7/11/2026.
+- **Métricas del vídeo:** 572 visualizaciones en la captura; likes, comentarios y velocidad no verificados.
+- **Tamaño/crecimiento del canal:** 11,7 mil suscriptores; +1,7% entre 27/10 y 8/11; unas 15 publicaciones mensuales.
+- **Gancho comprobable:** cuestionar si el kit/accesorio del Vivo X500 Pro Max aporta valor.
+- **Adaptación original:** prueba visual «con accesorio vs. sin accesorio», misma escena y mismo encuadre; cerrar con si compensa pagar por el kit.
 
-- **Canal:** [YouTube](https://www.youtube.com/@inteligencia-artificial-iatop).
-- **Tamaño:** aproximadamente 29,3 mil suscriptores; ChannelDB estima +0,3 % entre 19/10 y 8/11.
-- **Frecuencia:** unas 4,4 publicaciones al mes según la ficha consultada.
-- **Vídeo reciente:** «Edité con IA este video y Claude hizo casi todo (instala esto y listo)», aproximadamente 2/11/2026.
-- **Métricas:** 949 visualizaciones en la captura de ChannelDB; no se verificaron likes, comentarios ni compartidos.
-- **Por qué seguirlo:** canal pequeño con pruebas prácticas de edición y herramientas de IA; el rendimiento de la pieza citada es modesto, por lo que se recomienda observar su evolución, no presentarlo como caso viral.
-- **Qué hace especialmente bien:** mostrar herramientas en uso y explicar el resultado final.
+#### 7. Mundo Samsung — ecosistema Galaxy y tutoriales One UI
 
-### Balance de oportunidades
+- **Plataforma/formato:** YouTube, vídeo largo.
+- **Vídeo reciente:** [Así creé mi ecosistema BARATO de Samsung DEFINITIVO](https://www.youtube.com/watch?v=rpNLE-jxBIc).
+- **Fecha estimada por la ficha:** 6/11/2026.
+- **Métricas del vídeo:** 7,3 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
+- **Tamaño/crecimiento del canal:** 181 mil suscriptores; +1,1% entre 10/10 y 8/11; unas 14 publicaciones mensuales.
+- **Gancho comprobable:** montar un ecosistema Samsung económico, no solo analizar un dispositivo aislado.
+- **Adaptación original:** «Mi ecosistema Galaxy por menos de X € en España»: móvil, reloj, auriculares y tablet reacondicionados/ofertas, con precios y compatibilidades comprobadas.
 
-- **Vídeos recientes con métricas verificables y permalink:** solo se ha localizado una referencia individual reciente suficientemente documentada (El Hipster, 8/11), pero sin métricas de rendimiento.
-- **Ejemplos de rendimiento alto:** cuatro piezas de Pixelmente, pero publicadas en octubre; sirven para estudiar formato, no para medir tendencia de hoy.
-- **Creadores emergentes:** dos candidatos de tamaño pequeño/mediano y un canal mediano de divulgación visual.
-- **No se alcanza el objetivo de diez fichas 5+5:** faltan datos públicos fiables y permalinks recientes de TikTok, Reels y Shorts. No se rellena con vídeos repetidos del informe anterior ni con datos inventados.
+#### 8. Guille Lomener — Apple, Mac y uso real
 
-## 4. Radar editorial: nuevo vs. continuidad
+- **Plataforma/formato:** YouTube Shorts.
+- **Vídeo reciente:** [Llevo 24 horas con el nuevo MacBook Pro y te cuento lo que me ha gustado (y lo que no)](https://www.youtube.com/shorts/WttZ9xMb7dw).
+- **Fecha estimada por la ficha:** 7/11/2026.
+- **Métricas del vídeo:** 6,6 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
+- **Tamaño/crecimiento del canal:** 65,2 mil suscriptores; +0,6% entre 26/10 y 8/11; unas 17 publicaciones mensuales.
+- **Gancho comprobable:** valoración tras 24 horas de uso, con pros y contras.
+- **Adaptación original:** «Lo mejor y lo peor del MacBook Pro táctil después de un día»: tres pruebas concretas y una limitación, sin convertir primeras impresiones en review definitiva.
+
+#### 9. Topes de Gama Unplugged — opinión tecnológica y móviles
+
+- **Plataforma/formato:** YouTube Shorts.
+- **Vídeo reciente:** [El Pixel 11 Pro es solo un amor de verano](https://www.youtube.com/shorts/5oZmx6loJUE).
+- **Fecha estimada por la ficha:** 7/11/2026.
+- **Métricas del vídeo:** 1,4 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
+- **Tamaño/crecimiento del canal:** 79,6 mil suscriptores; +0,5% entre 18/10 y 8/11; unas 17 publicaciones mensuales.
+- **Gancho comprobable:** opinión provocadora que cuestiona el atractivo sostenido de un móvil.
+- **Adaptación original:** «¿Te sigue gustando el Pixel 11 Pro después de una semana?»: separar el efecto novedad de batería, cámara, software y comodidad diaria.
+
+#### 10. Phone Ayuda — análisis de móviles y comparativas
+
+- **Plataforma/formato:** YouTube, vídeo largo.
+- **Vídeo reciente:** [ESTO es un ERROR | iPhone Duo tras 7 días de USO](https://www.youtube.com/watch?v=kzsv3_Hiwdw).
+- **Fecha estimada por la ficha:** alrededor del 1/11/2026.
+- **Métricas del vídeo:** 40 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
+- **Tamaño/crecimiento del canal:** 167 mil suscriptores; +0,6% entre 18/10 y 8/11; unas 6 publicaciones mensuales.
+- **Gancho comprobable:** crítica después de siete días de uso, no solo primeras impresiones.
+- **Adaptación original:** «Tres cosas que solo descubres tras una semana con un plegable»: bisagra, peso, apps y hábitos; probarlas y mostrar ejemplos reales.
+
+## 4. Radar editorial: novedad vs. continuidad
 
 ### Nuevo en esta ventana
+- **Suno y derechos de artistas:** puede funcionar como explicación de qué puede y qué no puede hacer una IA musical, y qué riesgos legales están discutiéndose.
+- **Cierre parcial de decomp.dev:** pieza de videojuegos sobre el choque entre IA rápida, revisión humana y preservación digital.
 
-- **One UI 9.5:** firmware beta para Galaxy S26 Ultra localizado en servidores. Ángulo: qué implica y qué no implica que aparezca una build antes de un anuncio.
-- **IA en iPhone:** reporte sobre la presión interna para acelerar funciones de IA y avanzar hacia Siri más agéntica. Ángulo: Apple frente a Google y Samsung en asistentes que ejecutan tareas.
+### Continuidad / evolución
+- **Siri agéntica:** evolución del tema de Apple incluido en el radar del 8/11. La novedad de detalle es el posible control de apps propias con iOS 27.3 y la integración posterior con terceros. No presentarlo como anuncio de Apple.
+- **One UI 9.5:** continuidad de la detección de builds en servidores; sin calendario ni beta oficial confirmados en esta ejecución.
+- **iPhone Duo y accesorios/plegables:** los vídeos siguen apareciendo en rankings de YouTube, pero no debe confundirse el alcance acumulado con una novedad de producto o una tendencia nacida hoy.
 
-### Continuidad
+## 5. Tres guiones listos para desarrollar
 
-- **Regulación de algoritmos de recomendación:** conclusiones preliminares de la Comisión Europea sobre TikTok publicadas el 6/11; siguen dando conversación, pero no son noticia nueva de esta ventana.
-- **IA para videojuegos:** generación de modelos 3D desde imágenes y dibujos, con herramientas como Tripo; tema para explicar límites de calidad, derechos y uso real en estudios.
-- **Divulgación visual:** el rendimiento acumulado de Pixelmente sugiere que las explicaciones de mecanismos cotidianos pueden funcionar bien en formato corto.
+### Guion 1 — Siri quiere hacer cosas por ti
+- **Gancho:** «¿Y si Siri dejara de limitarse a contestar y empezara a hacer tareas por ti?»
+- **Desarrollo:** explicar en 20–30 segundos la diferencia entre una respuesta y una acción: editar una foto, ordenar pestañas o, más adelante según el informe, interactuar con apps de terceros. Aclarar que son planes atribuidos a Bloomberg y que Apple no ha confirmado fechas.
+- **CTA:** «¿Le dejarías a Siri hacer una compra o prefieres aprobar cada paso?»
 
-## 5. Tres guiones listos para producir
+### Guion 2 — La IA musical y las voces de artistas
+- **Gancho:** «¿Puede una IA generar una canción que suene a tu artista favorito sin permiso?»
+- **Desarrollo:** contar que los titulares de derechos de Elvis Presley y la editorial de Eminem han demandado a Suno; resumir la acusación y la respuesta de la empresa. Diferenciar demanda de sentencia.
+- **CTA:** «¿La IA debería poder imitar cualquier voz o tendría que pedir permiso siempre?»
 
-### Guion 1 — One UI 9.5: ¿está a punto de llegar?
+### Guion 3 — ¿Se ha filtrado el iPhone 20?
+- **Gancho:** «Este vídeo supera las 800.000 visualizaciones, pero ¿hay realmente un iPhone 20 filtrado?»
+- **Desarrollo:** mostrar el titular viral, explicar qué dato concreto se puede verificar y qué parte sigue siendo rumor. Dar tres señales para distinguir una filtración documentada de una especulación: fuente identificable, imágenes/contexto comprobables y confirmación independiente.
+- **CTA:** «¿Quieres que revisemos más filtraciones o prefieres solo novedades confirmadas?»
 
-- **Gancho (0–3 s):** «Samsung ya tiene una build de One UI 9.5 en sus servidores… pero todavía no ha anunciado la beta».
-- **Desarrollo (3–22 s):** explicar qué es una build detectada, mencionar el identificador S948BXXU6ZZK3 y aclarar que la referencia observada corresponde al S26 Ultra. Explicar que aparecer en servidores suele preceder a una beta, pero no confirma fecha ni disponibilidad en España.
-- **Cierre/CTA (22–30 s):** «¿Probarías una beta en tu Galaxy o prefieres esperar a la versión estable?».
-- **Fuente:** [Engadget](https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/).
+## 6. Limitaciones, acceso y control de calidad
 
-### Guion 2 — Apple quiere que Siri deje de ser solo un asistente
+- **TikTok e Instagram Reels:** no se consiguió acceso público suficientemente verificable a una muestra de publicaciones con permalink, fecha y métricas nativas. No se inventan cifras ni se afirma haber escaneado exhaustivamente esas plataformas.
+- **Muestra de vídeos:** las diez fichas de este informe proceden de YouTube. Cinco son señales de alcance/crecimiento; cinco son perfiles de creadores. En dos vídeos virales no se ha podido confirmar si el formato es Short o vídeo largo.
+- **Métricas:** YouTube no expone públicamente compartidos de forma consistente. Los rankings de terceros ofrecen variación diaria en una captura concreta; no es una medición en tiempo real. ChannelDB muestra crecimiento de canal en periodos de varios días, no crecimiento diario de cada vídeo.
+- **Rumores:** el supuesto iPhone 20 se trata como contenido viral especulativo, no como filtración verificada.
+- **Fuentes de vídeo y canales:** [ranking de YouTube España de Digital Creators](https://digitalcreators.jp/en/youtuberanking/trending/spain/spain-science/), [Socialcounts — Tecnonauta](https://socialcounts.org/youtube-video-analytics/F_VA75v1lOA/growth), [ViralShooter — Arya Vale](https://viralshooter.com/v/BmglXbDTibM), [ChannelDB — MasqueJPG](https://channeldb.com/es/c/@masquejpg), [Guille Lomener](https://channeldb.com/es/c/@guillelomener), [Topes de Gama Unplugged](https://channeldb.com/es/c/@topesdegamaunplugged), [Mundo Samsung](https://channeldb.com/es/c/@mundosamsung205) y [Phone Ayuda](https://channeldb.com/es/c/@phoneayuda).
 
-- **Gancho (0–3 s):** «Apple quiere que Siri haga mucho más que responder preguntas».
-- **Desarrollo (3–22 s):** resumir el reporte de Bloomberg sobre la presión de John Ternus para acelerar la IA; explicar qué significa una Siri más agéntica (encadenar tareas y actuar en segundo plano); dejar claro que son planes reportados, no funciones anunciadas.
-- **Cierre/CTA (22–30 s):** «¿Qué tarea real le delegarías a Siri si pudiera hacerla por ti?».
-- **Fuente:** [Gizmodo, basado en Bloomberg](https://gizmodo.com/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones-2000836769).
-
-### Guion 3 — ¿Cómo sabe una antena Starlink a qué satélite apuntar?
-
-- **Gancho (0–3 s):** «Los satélites Starlink se mueven a unos 27.000 km/h… ¿cómo los sigue una antena sin girar?».
-- **Desarrollo (3–22 s):** explicar con animación una antena de fase, el ajuste electrónico del haz y el cambio de satélite. Mantener los datos técnicos vinculados a fuentes contrastables.
-- **Cierre/CTA (22–30 s):** «¿Qué tecnología cotidiana quieres que expliquemos por dentro?».
-- **Inspiración:** formato divulgativo de Pixelmente; crear animación y guion propios.
-
-## 6. Fuentes y limitaciones
-
-- **Fuentes editoriales:** Engadget y Gizmodo para las dos noticias en ventana; Comisión Europea para comprobar la fecha del expediente TikTok; medios españoles consultados como pistas editoriales.
-- **Creadores:** páginas públicas de Pixelmente, Televisiones.net para la ficha/vídeo de El Hipster y ChannelDB para estadísticas de Inteligencia Artificial Top.
-- **Plataformas:** no se ha logrado verificar una muestra suficiente de vídeos nuevos de TikTok, Instagram Reels y YouTube Shorts con enlaces directos y métricas nativas en las tres plataformas.
-- **Métricas:** las cifras de Pixelmente son agregadas entre TikTok e Instagram y declaradas por el propio proyecto con corte 23/10. Las estadísticas de ChannelDB son estimaciones/capturas de terceros. No equivalen a analítica privada ni a contadores en tiempo real.
-- **Formato:** el vídeo de El Hipster aparece en YouTube, pero la ficha no permite confirmar si es Short o vídeo largo. No se clasifica como Short sin verificarlo.
-- **Criterio editorial:** se excluyen noticias fuera de ventana, vídeos ya utilizados en el radar anterior y referencias sin datos suficientes. Si no hay diez oportunidades fiables, se publica un número menor y se explica el motivo.
+---
+**Conclusión operativa:** priorizar hoy una pieza de Siri con cautela sobre las fechas, una explicación de las demandas a Suno y un Short de Windows/teclado con demostración rápida. Para creadores, probar un formato visual de cámara móvil con MasqueJPG y una primera impresión del MacBook Pro con Guille Lomener como referencias de estructura, no como guiones para copiar.
