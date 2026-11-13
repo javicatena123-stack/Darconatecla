@@ -1,187 +1,162 @@
-# Radar tecnológico — 9 de noviembre de 2026
+# Radar tecnológico — viernes 13 de noviembre de 2026
 
-**Elaborado:** lunes 9/11/2026, 07:12:53 (Europe/Madrid).  
-**Ventana estricta de noticias:** 8/11/2026 07:12:53 → 9/11/2026 07:12:53 (Europe/Madrid).  
-**Comparación:** revisado frente a RADAR_ACTUAL.md y al histórico hasta 8/11/2026. No se repiten las referencias de Pixelmente, El Hipster ni Inteligencia Artificial Top del radar anterior.
+**Elaborado:** 13/11/2026, 07:54:51 (Europe/Madrid, CET).  
+**Ventana estricta de noticias:** 12/11/2026 07:54:51 → 13/11/2026 07:54:51 (hora peninsular española).  
+**Comparación:** leído `RADAR_ACTUAL.md` (último radar disponible: 9/11). No se reutilizan sus diez vídeos ni los de 8/11 identificados en la comparación. **Cobertura parcial:** el ranking de Shorts accesible conserva una captura del **8/11** y las fichas de creadores tienen cortes diferentes; por ello las diez referencias son **ideas monitorizadas, no diez tendencias nuevas confirmadas hoy**.
 
-## 1. Resumen ejecutivo: cinco hallazgos
+## 1. Cinco hallazgos prioritarios
 
-1. **Apple quiere que Siri actúe como agente:** The Verge concreta acciones dentro de apps propias con iOS 27.3 e integración de terceros más adelante en primavera. Es información atribuida a Bloomberg, no un anuncio oficial de Apple; amplía el tema del radar anterior, no constituye una noticia independiente.
-2. **Suno afronta nuevas demandas relacionadas con música generada por IA:** representantes de los derechos de Elvis Presley y la editorial de grabaciones de Eminem alegan imitación de voz/letras. Son acusaciones pendientes, no una resolución judicial.
-3. **La comunidad de ingeniería inversa de videojuegos decomp.dev está cerrando su índice principal y las nuevas contribuciones:** su administrador atribuye la decisión al uso abusivo de IA para generar aportaciones rápidas y de baja calidad.
-4. **La señal viral más llamativa localizada es un Short de teclado dividido:** 17,24 M de visualizaciones y +1,12 M frente al día anterior en el último ranking consultado; el canal ronda solo las decenas de miles de suscriptores.
-5. **La muestra española de creadores medianos ofrece más oportunidades de formato que de viralidad inmediata:** destacan MasqueJPG (+1,7% de suscriptores en el periodo medido) y Mundo Samsung (+1,1%). Las cifras de crecimiento son de terceros y no equivalen a crecimiento diario.
+1. **NVIDIA cambia de dirección:** la compañía confirmó el 12/11 la salida de Jensen Huang como CEO y el nombramiento interino de Colette Kress. Es la noticia tecnológica más importante del periodo; no especular sobre motivos personales.
+2. **Meta Muse ya puede llamar a negocios por sus usuarios**, pero la función anunciada se limita a suscriptores de pago y negocios de EE. UU.; no atribuir disponibilidad a España.
+3. **Microsoft 365 sufrió una incidencia multiservicio** que afectó a Outlook, Teams y otros productos. No afirmar recuperación completa sin una confirmación posterior.
+4. **Apple HomeView y el nuevo Apple TV 4K** concentran interés de consumo: primeras reseñas del 12/11, con críticas a la dependencia del ecosistema y al precio, respectivamente.
+5. **Las ideas de vídeo más aprovechables** de la muestra disponible son batería del móvil, autoconsumo solar, reparación y gadgets útiles; las cifras virales son de una captura histórica, no de crecimiento reciente comprobado.
 
-## 2. Noticias verificadas dentro de las últimas 24 horas
+## 2. Noticias publicadas dentro de las últimas 24 horas (por relevancia)
 
-### 1) Suno recibe nuevas demandas por música generada con IA — noticia nueva
+### 1) NVIDIA: Jensen Huang deja la dirección y Colette Kress asume interinamente — confirmado
+- **Fecha/hora verificable:** comunicado oficial de NVIDIA **12/11/2026** (la web oficial no muestra hora); cobertura de TechCrunch **12/11, 06:10 PST = 15:10 CET**, dentro de la ventana.
+- **Hecho:** Jensen Huang deja los puestos de presidente ejecutivo, CEO y consejero; Colette Kress, directora financiera, asume la dirección interina mientras se busca sucesor. Harvey Jones pasa a presidir el consejo.
+- **Interés para España:** NVIDIA es clave en GPUs, videojuegos e infraestructura de IA. **No se ha anunciado en este comunicado un cambio de precios, GPUs o calendario de productos.**
+- **Fuentes:** [NVIDIA — comunicado oficial](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) · [TechCrunch — 12/11 06:10 PST](https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/).
 
-- **Medio y fecha original:** Engadget, 8/11/2026, 14:42 EST = 20:42 Europe/Madrid.
-- **Qué ha ocurrido:** el grupo que representa derechos musicales de Elvis Presley y Eight Mile Style, editorial que controla numerosas grabaciones de Eminem, han presentado demandas separadas contra Suno. Alegan que el servicio genera canciones que imitan la voz de Presley o reproducen rasgos de las letras de Eminem.
-- **Respuesta de Suno:** la empresa sostiene que prohíbe el uso no autorizado de nombres y canciones de artistas y que aplica controles para detectar abusos.
-- **Lectura para la audiencia:** la IA musical ya no es solo una cuestión de calidad de generación; también entran en juego identidad vocal, licencias y límites de uso.
-- **Cautela:** son alegaciones de las partes; no existe aquí una sentencia que determine responsabilidad.
-- **Fuente:** [Engadget — Suno AI music generator sued again for copyright infringement](https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/).
+### 2) Meta Muse puede realizar llamadas a negocios — confirmado como función anunciada, limitada geográficamente
+- **Publicación:** Engadget, **12/11/2026 18:32 EST = 13/11 00:32 CET**; TechCrunch, **12/11 14:22 PST = 23:22 CET**.
+- **Hecho:** el agente Muse puede llamar a empresas para reservas, citas y gestiones telefónicas; se ofrece a suscriptores de pago para llamar a **negocios estadounidenses**.
+- **Cautela:** no se ha verificado despliegue en España ni rendimiento generalizado.
+- **Fuentes:** [Engadget](https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/) · [TechCrunch](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/).
 
-### 2) Apple prepara una Siri más agéntica — continuidad con detalle nuevo
+### 3) Incidencia en Microsoft 365 — confirmado como incidencia, resolución no verificada
+- **Publicación/actualización:** Engadget, **12/11/2026 17:55 EST = 23:55 CET**.
+- **Hecho:** se notificaron problemas de acceso en Outlook, Teams, SharePoint y otros servicios; Microsoft relacionó los errores con carga elevada de infraestructura en varias regiones.
+- **Cautela:** el estado de recuperación puede cambiar. Evitar afirmar que sigue caído o ya funciona para todos sin consulta nueva.
+- **Fuente:** [Engadget — Microsoft 365 outage](https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/).
 
-- **Medio y fecha original:** The Verge, 8/11/2026, 19:18 UTC = 20:18 Europe/Madrid.
-- **Qué añade respecto al radar anterior:** el artículo concreta que iOS 27.3 podría permitir a Siri ejecutar acciones más precisas en apps propias —por ejemplo, editar fotos u organizar pestañas de Safari— y que la integración con aplicaciones de terceros llegaría más adelante en primavera. La meta a más largo plazo sería que Siri mantenga objetivos y encadene tareas sin que el usuario tenga que iniciar cada paso.
-- **Fuente original de la información:** Bloomberg, Mark Gurman.
-- **Cautela:** previsiones atribuidas a fuentes periodísticas; Apple no ha anunciado oficialmente estas funciones ni sus fechas.
-- **Fuente:** [The Verge — Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic).
+### 4) Primer análisis de Apple HomeView — reseña nueva, no anuncio de producto nuevo
+- **Publicación:** Engadget, **12/11/2026 09:00 EST = 15:00 CET**.
+- **Qué aporta:** reseña del hub doméstico HomeView: buena pantalla y sonido, pero dependencia de iPhone/iPad y soporte de terceros aún limitado. El artículo menciona precio estadounidense de **299 USD**, no precio español verificado.
+- **Fuente:** [Engadget — HomeView review](https://www.engadget.com/2313999/apple-homeview-review/).
 
-### 3) La comunidad de ingeniería inversa de videojuegos decomp.dev limita su actividad — noticia nueva
+### 5) Nuevo Apple TV 4K: buenas prestaciones, subida de precio — reseña nueva
+- **Publicación:** Engadget, **12/11/2026 09:00 EST = 15:00 CET**.
+- **Qué aporta:** análisis del Apple TV 4K de cuarta generación: chip A19, localización precisa del mando y funciones de hogar conectado, con crítica a la subida de **150 USD** respecto al modelo anterior en el mercado analizado. No extrapolar precios a España.
+- **Fuente:** [Engadget — Apple TV 4K review](https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/).
 
-- **Medio y fecha original:** Engadget, 8/11/2026, 09:15 EST = 15:15 Europe/Madrid.
-- **Qué ha ocurrido:** el administrador ha iniciado el cierre del índice principal y ha desactivado la incorporación de nuevos proyectos. Las páginas individuales y el histórico de proyectos existentes seguirán disponibles.
-- **Motivo alegado:** el uso de IA para terminar proyectos rápidamente habría atraído contribuciones sin revisión suficiente y ports incompletos, desplazando el objetivo de aprender cómo funcionan los juegos y preservar su código.
-- **Lectura para la audiencia:** debate interesante sobre IA, preservación del videojuego y calidad del software generado.
-- **Fuente:** [Engadget — The game reverse engineering community is the latest casualty of AI](https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/).
+**No se incluye como noticia nueva:** la retirada del inicio de sesión de Google/Apple en Nintendo a partir del **26/01/2027**, porque hay cobertura publicada el **11/11** y la fecha original del anuncio no se ha podido situar inequívocamente dentro de esta ventana. Es un **tema de servicio útil en continuidad**, confirmado por [Nintendo España](https://www.nintendo.com/es-es/Ayuda/Cuenta-Nintendo/Cese-de-la-vinculacion-de-cuentas-de-Google-y-Apple-con-cuentas-Nintendo-3239447.html).
 
-**Sin confirmación en esta ventana:** no se ha localizado un anuncio oficial nuevo de lanzamiento de móvil, portátil o wearable. La beta de One UI 9.5 sigue siendo una pista de firmware ya incluida en el radar anterior; no se ha encontrado confirmación oficial nueva de Samsung.
+## 3. Diez oportunidades: cinco referencias virales + cinco creadores pequeños/medianos
 
-## 3. Diez oportunidades de vídeo: 5 señales virales + 5 creadores pequeños/medianos
+**Reglas de lectura:** para los cinco virales, las métricas proceden de [Veedio — Shorts Ciencia y Tecnología, España](https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech), **captura fechada 8/11/2026**, no de hoy. Su campo «views/day» es **media desde la publicación**, NO incremento observado en las últimas 24 h. Fechas de publicación aproximadas cuando la ficha solo dice «hace X días». No se verificaron compartidos ni comentarios. La ficha puede mostrar cifras redondeadas. En los cinco emergentes, las visualizaciones son acumuladas de ChannelDB y **no prueban viralidad**.
 
-**Criterio de métricas:** el ranking de YouTube de Digital Creators consultado el 8/11 a las 16:04 muestra visualizaciones acumuladas y variación frente al día anterior. Socialcounts aporta una captura adicional para el Short de Tecnonauta. Las métricas de terceros pueden tener cortes distintos; no se presentan como estadísticas nativas de TikTok o Instagram. Las visualizaciones acumuladas no deben interpretarse por sí solas como velocidad actual.
+### A. Cinco referencias virales históricas, sin repetir el radar del 9/11
 
-### A. Cinco vídeos con señales excepcionales
+**1. Absurdario — «Cargar el CELULAR toda la noche NO arruina la batería»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/MTVMiK_4IMc), 0:32; español/LATAM, tema relevante para España.
+- **Fecha:** aprox. **5/11** (Veedio indicaba «hace 3 días» el 8/11).
+- **Métricas de la captura 8/11:** **1,4 M** de vistas; **22 mil** likes; **539,2 mil vistas/día de media desde publicación**, no crecimiento reciente. Comentarios/compartidos no verificados.
+- **Gancho verificable:** desmontar una creencia sobre carga nocturna.
+- **Adaptación original:** grabar ajustes reales de carga optimizada de Android/iPhone, explicar calor y límites de carga sin afirmar que cualquier carga nocturna es inocua en todas las condiciones.
 
-#### 1. Arya Vale — teclado dividido real
+**2. Stupy Doo — «Si se va la luz, tus paneles solares también se apagan, aunque haya sol»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/3Y1qtFrYEac), 2:38; español/LATAM.
+- **Fecha:** aprox. **5/11**.
+- **Métricas captura 8/11:** **1,4 M** vistas, **96,6 mil** likes, **495,7 mil vistas/día de media desde publicación**; comentarios/compartidos no verificados.
+- **Gancho verificable:** paradoja entre tener placas y quedarse sin luz.
+- **Adaptación original:** explicar diferencia entre inversor conectado a red, función de respaldo y batería; mostrar un esquema propio y recordar que depende de la instalación.
 
-- **Plataforma/formato:** YouTube Shorts, 0:13.
-- **Vídeo:** [THIS IS A REAL SPLIT KEYBOARD?!](https://www.youtube.com/shorts/BmglXbDTibM).
-- **Fecha:** 31/10/2026.
-- **Métricas verificables:** 17.242.574 visualizaciones y +1.124.296 frente al día anterior en el ranking de España consultado el 8/11 a las 16:04. El registro del vídeo confirma 13 segundos. No se verificaron likes/comentarios en el mismo corte.
-- **Creador:** Arya Vale; canal pequeño frente al alcance del vídeo, en torno a 20–23 mil suscriptores según capturas de terceros.
-- **Gancho comprobable:** la pregunta del propio título y la demostración visual de un teclado dividido.
-- **Adaptación original:** enseñar tres gestos/posiciones del teclado, probar si realmente ahorra espacio y cerrar con «¿lo usarías o es postureo?». No copiar el vídeo ni su montaje.
+**3. Ryan HD — «Phones Now VS Phones In 2050»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/1Hs03mhfZGE), 0:13; inglés, adaptación visual posible.
+- **Fecha:** aprox. **4/11**.
+- **Métricas captura 8/11:** **4,4 M** vistas, **133,6 mil** likes, **1,1 M vistas/día de media desde publicación**; comentarios/compartidos no verificados.
+- **Gancho verificable:** contraste visual entre móviles actuales y futuros.
+- **Adaptación original:** «3 cosas que sí podrían cambiar en los móviles de 2035» separando prototipos reales de imaginación; evitar presentar 2050 como predicción fiable.
 
-#### 2. SCUF PE — reparar una Nintendo Switch comprada en un mercadillo
+**4. Phone Repair Guru — «Apple Doesn't Want You To Do This...»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/dsXsO2I2h5c), 0:26; inglés, reparación de móviles.
+- **Fecha:** aprox. **23/10**.
+- **Métricas captura 8/11:** **12,9 M** vistas, **93,4 mil** likes, **832,2 mil vistas/día de media desde publicación**; comentarios/compartidos no verificados.
+- **Gancho verificable:** titular de prohibición/curiosidad, **sin poder verificar la afirmación concreta del vídeo**.
+- **Adaptación original:** «¿Qué reparaciones de iPhone puedes hacer y cuáles tienen limitaciones?» con documentación oficial y advertencia de seguridad, sin copiar procedimientos peligrosos.
 
-- **Plataforma/formato:** YouTube; no se ha podido confirmar si es Short o vídeo largo.
-- **Vídeo:** [Trying to repair a dead Nintendo Switch from a Peruvian flea market](https://www.youtube.com/watch?v=2fRlcG1QmR4).
-- **Fecha:** 3/11/2026.
-- **Métricas verificables:** 5.099.625 visualizaciones y +921.975 frente al día anterior en el ranking consultado el 8/11 a las 16:04. Likes, comentarios y duración no verificados.
-- **Gancho comprobable:** consola supuestamente muerta comprada en un mercadillo y reto de reparación.
-- **Adaptación original:** «Compré una Switch que no enciende por X euros: ¿merece la pena repararla?». Enseñar precio, diagnóstico, coste de piezas y resultado real; no prometer una reparación si no se consigue.
+**5. ForgeCore — «A phone that fixes brainrot?»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/MOBZ8LqHMQE), 0:12; inglés, bienestar digital.
+- **Fecha:** aprox. **30/10**.
+- **Métricas captura 8/11:** **6,6 M** vistas, **61,6 mil** likes, **743,2 mil vistas/día de media desde publicación**; comentarios/compartidos no verificados.
+- **Gancho verificable:** pregunta provocadora sobre dependencia del móvil; no se ha comprobado que el producto «cure» nada.
+- **Adaptación original:** probar modo concentración, escala de grises y límites de apps durante un día; explicar lo observado, sin promesas médicas.
 
-#### 3. Cris Martínez — Apple Pencil con el iPhone Duo
+### B. Cinco creadores pequeños/medianos: referencias de formato, no tendencias nuevas confirmadas
 
-- **Plataforma/formato:** YouTube; duración y condición de Short no verificadas.
-- **Vídeo:** [What's it like to use the Apple Pencil with the iPhone Duo?](https://www.youtube.com/watch?v=ys7Lq2N3r3A).
-- **Fecha:** 4/11/2026.
-- **Métricas verificables:** 900.861 visualizaciones y +211.313 frente al día anterior en el ranking consultado el 8/11 a las 16:04. Likes y comentarios no disponibles en ese ranking.
-- **Gancho comprobable:** combinación poco habitual de Apple Pencil e iPhone plegable.
-- **Adaptación original:** probar qué usos reales tendría un lápiz en un móvil plegable: notas, edición, precisión y ergonomía. Separar compatibilidad real de hipótesis.
+**6. El Valenciano Tech — «El milagro de Motorola: 6500 mAh en 7,2 mm y solo 183 g»**
+- **Plataforma:** [YouTube vídeo](https://www.youtube.com/watch?v=FTBxkrLTJUw), **no Short confirmado**; España.
+- **Fecha:** aprox. **8/11**, inferida de «hace 4 días» en ficha del 12/11.
+- **Métricas ChannelDB (corte 12/11):** **13,4 mil vistas** del vídeo; canal **24,4 mil suscriptores**, **+1,7 %** entre 25/10 y 12/11. Likes/comentarios/compartidos y crecimiento diario del vídeo: no verificados.
+- **Gancho:** batería grande en un móvil delgado y ligero (especificaciones citadas por el creador, no comprobadas independientemente).
+- **Adaptación:** «¿De verdad caben 6.500 mAh en un móvil fino?» contrastar ficha oficial, peso real y autonomía medida.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@elvalencianotech).
 
-#### 4. Tecnonauta — supuesto adelanto del iPhone 20
+**7. Javi Tech — «WUBEN G5»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/P-YEtQytst8); España.
+- **Fecha:** aprox. **5/11** (corte ChannelDB 12/11).
+- **Métricas:** **255 vistas** del Short; canal **23,8 mil suscriptores**, **+0,4 %** entre 28/10 y 12/11. Likes/comentarios/compartidos/velocidad del Short: no verificados.
+- **Gancho:** título basado en el nombre del gadget; **gancho visual real no comprobado**.
+- **Adaptación:** demostrar una linterna compacta con tres pruebas reales de alcance, autonomía y utilidad, sin atribuir características no comprobadas.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@javi-tech).
 
-- **Plataforma/formato:** YouTube Shorts, 0:57.
-- **Vídeo:** [SE FILTRA el iPHONE 20!!!](https://www.youtube.com/shorts/F_VA75v1lOA).
-- **Fecha:** 5/11/2026.
-- **Métricas verificables:** Socialcounts mostraba 842 mil visualizaciones, 29,4 mil likes y 829 comentarios en la consulta del 9/11; el ranking de España del 8/11 a las 16:04 registraba 711.931 visualizaciones y +94.400 frente al día anterior. Los dos cortes no son simultáneos.
-- **Gancho comprobable:** el término «se filtra» y la promesa de un iPhone futuro.
-- **Adaptación original:** vídeo de verificación: qué parte es rumor, qué parte está respaldada por fuentes y qué no se puede afirmar. No presentar la supuesta filtración como confirmada.
+**8. Reyes en Tecnología — «Bocina XIAOMI Sound Play — Unboxing ASMR y características»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/HsfDW7FgSRs); México, aplicable a España si el producto se vende aquí.
+- **Fecha:** aprox. **5/11** (corte 12/11).
+- **Métricas:** **139 vistas** del Short; canal **16,3 mil suscriptores**, **+1,2 %** entre 10/10 y 12/11. Likes/comentarios/compartidos/velocidad: no verificados.
+- **Gancho:** sonido ASMR del desempaquetado, deducible del título; contenido audiovisual no visionado.
+- **Adaptación:** prueba ciega de audio de altavoz económico con grabación propia, precio español comprobado y limitaciones del micrófono.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@reyesentecnologia).
 
-#### 5. CarterPCs — qué es Sticky Keys y cómo quitar el aviso
+**9. Explora Gadgets — «5 TABLETS que YA pueden REEMPLAZAR tu LAPTOP en 2026»**
+- **Plataforma:** [YouTube vídeo largo](https://www.youtube.com/watch?v=9sR5gJ8wLXI), **no Short**; México.
+- **Fecha:** aprox. **24/10**, inferida de «hace 15 días» en corte 8/11.
+- **Métricas (corte 8/11):** **94,2 mil vistas**; canal **66,4 mil suscriptores**, **+2,2 %** entre 11/10 y 8/11. Likes/comentarios/compartidos y crecimiento reciente del vídeo: no verificados.
+- **Gancho:** sustituir el portátil por una tablet.
+- **Adaptación:** reto «24 horas trabajando solo con tablet» con teclado, hojas de cálculo, multitarea y costes en España.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@exploragadgets).
 
-- **Plataforma/formato:** YouTube Shorts, 0:30.
-- **Vídeo:** [What is sticky keys?? And how to turn off the popup?](https://www.youtube.com/shorts/eP2rasa1P88).
-- **Fecha:** 4/11/2026.
-- **Métricas verificables:** 6.311.381 visualizaciones y +260.239 frente al día anterior en el ranking consultado el 8/11 a las 16:04. Una captura separada de ViralShooter mostraba aproximadamente 154 mil likes; no se verificaron comentarios ni compartidos.
-- **Gancho comprobable:** resolver un aviso molesto de Windows con una pregunta directa.
-- **Adaptación original:** mostrar el aviso, explicar por qué aparece al pulsar Shift repetidamente y enseñar cómo desactivarlo en Windows 11. Grabar la pantalla y comprobar la ruta exacta antes de publicar.
+**10. Somos Android — «¿Google sabe demasiado de ti? Prueba estas 4 apps open source»**
+- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/PKTZYarHRAY); España.
+- **Fecha:** aprox. **6/10**, inferida de «hace 37 días» en corte 12/11. **Referencia de fondo, no publicación reciente.**
+- **Métricas:** **359 vistas** del Short; canal **58,9 mil suscriptores**, **+0,2 %** entre 10/10 y 12/11. Likes/comentarios/compartidos/velocidad: no verificados.
+- **Gancho:** privacidad y alternativas a Google, según título.
+- **Adaptación:** comparar tres apps abiertas para notas, mapas y fotos con pros, contras, permisos y facilidad de uso; verificar las apps antes de recomendar.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@somosandroidfacil).
 
-### B. Cinco creadores pequeños/medianos para monitorizar
+## 4. Radar editorial: nuevo frente a continuidad
 
-Las estadísticas de suscriptores y crecimiento proceden de ChannelDB, con actualización visible el 8/11. Las visualizaciones son acumuladas en la ficha del vídeo; no se ha podido verificar su variación diaria ni likes/comentarios. Las fechas «ayer/anteayer» se convierten tomando como referencia la captura del 8/11.
+**Nuevo en la ventana:** transición de CEO en NVIDIA (prioridad 1); llamadas de Meta Muse para suscriptores en EE. UU.; incidencia de Microsoft 365; reseñas HomeView y Apple TV 4K. Son hechos/notas de prensa y reseñas, **no métricas virales de vídeo**.
 
-#### 6. MasqueJPG — fotografía móvil y comparativas visuales
+**Continuidad:** Nintendo retirará inicio de sesión Google/Apple en enero de 2027 (anuncio original fuera de ventana no verificado); Siri agéntica y One UI 9.5 siguen como temas del radar anterior, **sin nueva confirmación oficial comprobada en esta ejecución**. Los vídeos de carga nocturna, paneles solares y reparaciones son **formatos evergreen**: las métricas de 8/11 no prueban aceleración el 13/11.
 
-- **Plataforma/formato:** YouTube Shorts.
-- **Vídeo reciente:** [NO TIENE SENTIDO el kit en este VIVO X500 Pro Max](https://www.youtube.com/shorts/ldYzaR0Ur8k).
-- **Fecha estimada por la ficha:** 7/11/2026.
-- **Métricas del vídeo:** 572 visualizaciones en la captura; likes, comentarios y velocidad no verificados.
-- **Tamaño/crecimiento del canal:** 11,7 mil suscriptores; +1,7% entre 27/10 y 8/11; unas 15 publicaciones mensuales.
-- **Gancho comprobable:** cuestionar si el kit/accesorio del Vivo X500 Pro Max aporta valor.
-- **Adaptación original:** prueba visual «con accesorio vs. sin accesorio», misma escena y mismo encuadre; cerrar con si compensa pagar por el kit.
+**Prioridad editorial para hoy:** 1) NVIDIA y el futuro de las GPU; 2) Meta Muse y llamadas por IA, aclarando que no está verificado para España; 3) incidencia Microsoft 365 con estado a comprobar antes de publicar.
 
-#### 7. Mundo Samsung — ecosistema Galaxy y tutoriales One UI
+## 5. Tres guiones originales para Shorts/Reels/TikTok
 
-- **Plataforma/formato:** YouTube, vídeo largo.
-- **Vídeo reciente:** [Así creé mi ecosistema BARATO de Samsung DEFINITIVO](https://www.youtube.com/watch?v=rpNLE-jxBIc).
-- **Fecha estimada por la ficha:** 6/11/2026.
-- **Métricas del vídeo:** 7,3 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
-- **Tamaño/crecimiento del canal:** 181 mil suscriptores; +1,1% entre 10/10 y 8/11; unas 14 publicaciones mensuales.
-- **Gancho comprobable:** montar un ecosistema Samsung económico, no solo analizar un dispositivo aislado.
-- **Adaptación original:** «Mi ecosistema Galaxy por menos de X € en España»: móvil, reloj, auriculares y tablet reacondicionados/ofertas, con precios y compatibilidades comprobadas.
+**Guion 1 — «NVIDIA se queda sin su CEO histórico» (30–40 s)**
+- **Gancho:** «La empresa que domina las GPU de IA acaba de cambiar de jefe.»
+- **Desarrollo:** «NVIDIA confirmó el 12 de noviembre que Jensen Huang deja la dirección. La CFO Colette Kress asume interinamente y se abre la búsqueda de sucesor. ¿Cambiarán las GeForce o los chips de IA? Por ahora no se ha anunciado ningún cambio de producto.» Mostrar fuente oficial, no especular sobre causas personales.
+- **CTA:** «¿Qué te preocupa más: las gráficas para jugar o el futuro de la IA?»
 
-#### 8. Guille Lomener — Apple, Mac y uso real
+**Guion 2 — «La IA ya llama por teléfono por ti» (25–35 s)**
+- **Gancho:** «¿Te imaginas una IA esperando en línea para pedirte una cita?»
+- **Desarrollo:** «Meta ha anunciado que Muse puede llamar a negocios, gestionar reservas y esperar al teléfono. Hay dos condiciones importantes: es para usuarios de pago y la disponibilidad anunciada se centra en negocios de Estados Unidos. No está confirmada en España.»
+- **CTA:** «¿Le darías permiso para hablar en tu nombre?»
 
-- **Plataforma/formato:** YouTube Shorts.
-- **Vídeo reciente:** [Llevo 24 horas con el nuevo MacBook Pro y te cuento lo que me ha gustado (y lo que no)](https://www.youtube.com/shorts/WttZ9xMb7dw).
-- **Fecha estimada por la ficha:** 7/11/2026.
-- **Métricas del vídeo:** 6,6 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
-- **Tamaño/crecimiento del canal:** 65,2 mil suscriptores; +0,6% entre 26/10 y 8/11; unas 17 publicaciones mensuales.
-- **Gancho comprobable:** valoración tras 24 horas de uso, con pros y contras.
-- **Adaptación original:** «Lo mejor y lo peor del MacBook Pro táctil después de un día»: tres pruebas concretas y una limitación, sin convertir primeras impresiones en review definitiva.
+**Guion 3 — «Tener placas solares no garantiza luz en un apagón» (30–40 s)**
+- **Gancho:** «Tienes placas, hace sol… ¿y aun así puedes quedarte sin electricidad?»
+- **Desarrollo:** explicar con esquema original que muchos inversores conectados a red se desconectan por seguridad al caer el suministro; para disponer de respaldo hacen falta equipos y configuración específicos. No afirmar que todas las instalaciones se comportan igual.
+- **CTA:** «¿Quieres una guía de qué comprobar antes de instalar placas?»
 
-#### 9. Topes de Gama Unplugged — opinión tecnológica y móviles
+## 6. Acceso, verificaciones y límites
 
-- **Plataforma/formato:** YouTube Shorts.
-- **Vídeo reciente:** [El Pixel 11 Pro es solo un amor de verano](https://www.youtube.com/shorts/5oZmx6loJUE).
-- **Fecha estimada por la ficha:** 7/11/2026.
-- **Métricas del vídeo:** 1,4 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
-- **Tamaño/crecimiento del canal:** 79,6 mil suscriptores; +0,5% entre 18/10 y 8/11; unas 17 publicaciones mensuales.
-- **Gancho comprobable:** opinión provocadora que cuestiona el atractivo sostenido de un móvil.
-- **Adaptación original:** «¿Te sigue gustando el Pixel 11 Pro después de una semana?»: separar el efecto novedad de batería, cámara, software y comodidad diaria.
-
-#### 10. Phone Ayuda — análisis de móviles y comparativas
-
-- **Plataforma/formato:** YouTube, vídeo largo.
-- **Vídeo reciente:** [ESTO es un ERROR | iPhone Duo tras 7 días de USO](https://www.youtube.com/watch?v=kzsv3_Hiwdw).
-- **Fecha estimada por la ficha:** alrededor del 1/11/2026.
-- **Métricas del vídeo:** 40 mil visualizaciones en la captura; likes, comentarios y velocidad no verificados.
-- **Tamaño/crecimiento del canal:** 167 mil suscriptores; +0,6% entre 18/10 y 8/11; unas 6 publicaciones mensuales.
-- **Gancho comprobable:** crítica después de siete días de uso, no solo primeras impresiones.
-- **Adaptación original:** «Tres cosas que solo descubres tras una semana con un plegable»: bisagra, peso, apps y hábitos; probarlas y mostrar ejemplos reales.
-
-## 4. Radar editorial: novedad vs. continuidad
-
-### Nuevo en esta ventana
-- **Suno y derechos de artistas:** puede funcionar como explicación de qué puede y qué no puede hacer una IA musical, y qué riesgos legales están discutiéndose.
-- **Cierre parcial de decomp.dev:** pieza de videojuegos sobre el choque entre IA rápida, revisión humana y preservación digital.
-
-### Continuidad / evolución
-- **Siri agéntica:** evolución del tema de Apple incluido en el radar del 8/11. La novedad de detalle es el posible control de apps propias con iOS 27.3 y la integración posterior con terceros. No presentarlo como anuncio de Apple.
-- **One UI 9.5:** continuidad de la detección de builds en servidores; sin calendario ni beta oficial confirmados en esta ejecución.
-- **iPhone Duo y accesorios/plegables:** los vídeos siguen apareciendo en rankings de YouTube, pero no debe confundirse el alcance acumulado con una novedad de producto o una tendencia nacida hoy.
-
-## 5. Tres guiones listos para desarrollar
-
-### Guion 1 — Siri quiere hacer cosas por ti
-- **Gancho:** «¿Y si Siri dejara de limitarse a contestar y empezara a hacer tareas por ti?»
-- **Desarrollo:** explicar en 20–30 segundos la diferencia entre una respuesta y una acción: editar una foto, ordenar pestañas o, más adelante según el informe, interactuar con apps de terceros. Aclarar que son planes atribuidos a Bloomberg y que Apple no ha confirmado fechas.
-- **CTA:** «¿Le dejarías a Siri hacer una compra o prefieres aprobar cada paso?»
-
-### Guion 2 — La IA musical y las voces de artistas
-- **Gancho:** «¿Puede una IA generar una canción que suene a tu artista favorito sin permiso?»
-- **Desarrollo:** contar que los titulares de derechos de Elvis Presley y la editorial de Eminem han demandado a Suno; resumir la acusación y la respuesta de la empresa. Diferenciar demanda de sentencia.
-- **CTA:** «¿La IA debería poder imitar cualquier voz o tendría que pedir permiso siempre?»
-
-### Guion 3 — ¿Se ha filtrado el iPhone 20?
-- **Gancho:** «Este vídeo supera las 800.000 visualizaciones, pero ¿hay realmente un iPhone 20 filtrado?»
-- **Desarrollo:** mostrar el titular viral, explicar qué dato concreto se puede verificar y qué parte sigue siendo rumor. Dar tres señales para distinguir una filtración documentada de una especulación: fuente identificable, imágenes/contexto comprobables y confirmación independiente.
-- **CTA:** «¿Quieres que revisemos más filtraciones o prefieres solo novedades confirmadas?»
-
-## 6. Limitaciones, acceso y control de calidad
-
-- **TikTok e Instagram Reels:** no se consiguió acceso público suficientemente verificable a una muestra de publicaciones con permalink, fecha y métricas nativas. No se inventan cifras ni se afirma haber escaneado exhaustivamente esas plataformas.
-- **Muestra de vídeos:** las diez fichas de este informe proceden de YouTube. Cinco son señales de alcance/crecimiento; cinco son perfiles de creadores. En dos vídeos virales no se ha podido confirmar si el formato es Short o vídeo largo.
-- **Métricas:** YouTube no expone públicamente compartidos de forma consistente. Los rankings de terceros ofrecen variación diaria en una captura concreta; no es una medición en tiempo real. ChannelDB muestra crecimiento de canal en periodos de varios días, no crecimiento diario de cada vídeo.
-- **Rumores:** el supuesto iPhone 20 se trata como contenido viral especulativo, no como filtración verificada.
-- **Fuentes de vídeo y canales:** [ranking de YouTube España de Digital Creators](https://digitalcreators.jp/en/youtuberanking/trending/spain/spain-science/), [Socialcounts — Tecnonauta](https://socialcounts.org/youtube-video-analytics/F_VA75v1lOA/growth), [ViralShooter — Arya Vale](https://viralshooter.com/v/BmglXbDTibM), [ChannelDB — MasqueJPG](https://channeldb.com/es/c/@masquejpg), [Guille Lomener](https://channeldb.com/es/c/@guillelomener), [Topes de Gama Unplugged](https://channeldb.com/es/c/@topesdegamaunplugged), [Mundo Samsung](https://channeldb.com/es/c/@mundosamsung205) y [Phone Ayuda](https://channeldb.com/es/c/@phoneayuda).
-
----
-**Conclusión operativa:** priorizar hoy una pieza de Siri con cautela sobre las fechas, una explicación de las demandas a Suno y un Short de Windows/teclado con demostración rápida. Para creadores, probar un formato visual de cámara móvil con MasqueJPG y una primera impresión del MacBook Pro con Guille Lomener como referencias de estructura, no como guiones para copiar.
+- **TikTok e Instagram Reels:** sin acceso fiable a publicaciones concretas con permalink, fecha y métricas nativas; **no se incluyen vídeos inventados**. Los diez enlaces de oportunidad son de YouTube (algunos son vídeos largos, expresamente señalados).
+- **Ranking viral:** fuente Veedio con captura **8/11**, cinco días anterior a este radar; el dato «views/day» es **media acumulada desde publicación**, no velocidad reciente ni aumento en 24 horas. No se puede certificar cuáles siguen virales hoy.
+- **Creadores:** fichas ChannelDB con cortes entre **8/11 y 12/11**; cifras de suscriptores y vistas redondeadas, crecimiento de canal en periodos de varios días. Las fechas de los vídeos son aproximadas cuando la fuente solo indica antigüedad relativa. No se verificaron likes/comentarios de los cinco vídeos emergentes.
+- **Verificación audiovisual:** los enlaces directos se extrajeron de enlaces públicos de las fichas/ranking, pero YouTube limitó la lectura del vídeo; los ganchos proceden de títulos, **no de visionado de los primeros segundos**.
+- **Noticias:** el filtro de 24 horas se aplica a las horas originales visibles de publicación/actualización, no a rastreo. Los hechos antiguos presentados en artículos nuevos se separan de noticias nuevas. El estado en vivo de incidencias puede haber cambiado.
+- **Pistas editoriales:** Xataka, Topes de Gama, Andro4all, Applesfera, ComputerHoy, Hipertextual, El Output, ProAndroid, tuexperto, MuyComputer, Geeknetic, HardZone y medios internacionales. **No se afirma escaneo exhaustivo**. Engadget, TechCrunch y la fuente oficial de NVIDIA sustentan las noticias priorizadas.
