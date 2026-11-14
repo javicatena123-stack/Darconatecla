@@ -1,162 +1,166 @@
-# Radar tecnológico — viernes 13 de noviembre de 2026
+# Radar tecnológico — sábado 14 de noviembre de 2026
 
-**Elaborado:** 13/11/2026, 07:54:51 (Europe/Madrid, CET).  
-**Ventana estricta de noticias:** 12/11/2026 07:54:51 → 13/11/2026 07:54:51 (hora peninsular española).  
-**Comparación:** leído `RADAR_ACTUAL.md` (último radar disponible: 9/11). No se reutilizan sus diez vídeos ni los de 8/11 identificados en la comparación. **Cobertura parcial:** el ranking de Shorts accesible conserva una captura del **8/11** y las fichas de creadores tienen cortes diferentes; por ello las diez referencias son **ideas monitorizadas, no diez tendencias nuevas confirmadas hoy**.
+**Elaboración:** 14/11/2026, 07:56:18 (Europe/Madrid, CET).  
+**Ventana estricta de noticias:** desde **13/11/2026 07:56:18** hasta **14/11/2026 07:56:18** (CET).  
+**Comparación:** consultado el `RADAR_ACTUAL.md` del 13/11 y sus diez vídeos; las referencias de este informe son distintas. Se ha consultado un ranking de Shorts con **última actualización el 13/11**, no el 14/11. No se presentan métricas acumuladas ni medias históricas como incrementos de las últimas 24 horas.
 
-## 1. Cinco hallazgos prioritarios
+## 1. Hasta cinco hallazgos prioritarios
 
-1. **NVIDIA cambia de dirección:** la compañía confirmó el 12/11 la salida de Jensen Huang como CEO y el nombramiento interino de Colette Kress. Es la noticia tecnológica más importante del periodo; no especular sobre motivos personales.
-2. **Meta Muse ya puede llamar a negocios por sus usuarios**, pero la función anunciada se limita a suscriptores de pago y negocios de EE. UU.; no atribuir disponibilidad a España.
-3. **Microsoft 365 sufrió una incidencia multiservicio** que afectó a Outlook, Teams y otros productos. No afirmar recuperación completa sin una confirmación posterior.
-4. **Apple HomeView y el nuevo Apple TV 4K** concentran interés de consumo: primeras reseñas del 12/11, con críticas a la dependencia del ecosistema y al precio, respectivamente.
-5. **Las ideas de vídeo más aprovechables** de la muestra disponible son batería del móvil, autoconsumo solar, reparación y gadgets útiles; las cifras virales son de una captura histórica, no de crecimiento reciente comprobado.
+1. **La IA entra en los pagos y en el análisis financiero:** OpenAI anunció ChatGPT Wallet y Google integró Wallet en Gemini el 13/11. Son productos distintos y **sus despliegues iniciales están restringidos a EE. UU.**; no atribuir disponibilidad en España.
+2. **GTA VI está tensionando el tráfico de descarga:** la cobertura del 13/11 recoge récords de redes europeos asociados a la precarga iniciada el 10/11. Es un buen vídeo explicativo, pero los picos no son cifras específicas de España.
+3. **Microsoft 365: nueva información sobre la incidencia del día anterior.** El 13/11 Microsoft comunicó recuperación amplia y una causa ligada a cambios de capacidad/red; no equiparar «recuperación amplia» con disponibilidad universal.
+4. **Apple HomeView se comercializa desde el 13/11 en ocho países, no en España.** La restricción geográfica es el ángulo más útil para la audiencia local.
+5. **Cinco Shorts virales medibles y cinco canales pequeños/medianos monitorizados.** Los primeros tienen cifras acumuladas en la captura del 13/11; los segundos tienen cifras de vídeos y tamaño del canal, pero **no hay evidencia suficiente para llamarlos cinco virales emergentes recientes**.
 
-## 2. Noticias publicadas dentro de las últimas 24 horas (por relevancia)
+## 2. Noticias verificadas en las últimas 24 horas — orden de relevancia
 
-### 1) NVIDIA: Jensen Huang deja la dirección y Colette Kress asume interinamente — confirmado
-- **Fecha/hora verificable:** comunicado oficial de NVIDIA **12/11/2026** (la web oficial no muestra hora); cobertura de TechCrunch **12/11, 06:10 PST = 15:10 CET**, dentro de la ventana.
-- **Hecho:** Jensen Huang deja los puestos de presidente ejecutivo, CEO y consejero; Colette Kress, directora financiera, asume la dirección interina mientras se busca sucesor. Harvey Jones pasa a presidir el consejo.
-- **Interés para España:** NVIDIA es clave en GPUs, videojuegos e infraestructura de IA. **No se ha anunciado en este comunicado un cambio de precios, GPUs o calendario de productos.**
-- **Fuentes:** [NVIDIA — comunicado oficial](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) · [TechCrunch — 12/11 06:10 PST](https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/).
+**1) ChatGPT Wallet: pagos por agentes con aprobación humana — anuncio confirmado.**
+- **Fecha/hora:** anuncio oficial de OpenAI fechado **13/11/2026** (sin hora visible); cobertura de Engadget **13/11 12:17 EST = 18:17 CET**, dentro de la ventana.
+- **Qué cambia:** el usuario añade su tarjeta y revisa/aprueba cada compra mediante comprobación de seguridad; el agente no recibe el número real. Colaboración con American Express, Mastercard y Visa.
+- **Disponibilidad:** despliegue inicial en **dots para ChatGPT Pro mayores de 18 años en EE. UU., con tarjetas estadounidenses elegibles**. No disponible de forma general en España.
+- **Fuentes:** [OpenAI, anuncio oficial](https://openai.com/index/introducing-chatgpt-wallet/) · [Engadget, publicación con hora](https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/).
 
-### 2) Meta Muse puede realizar llamadas a negocios — confirmado como función anunciada, limitada geográficamente
-- **Publicación:** Engadget, **12/11/2026 18:32 EST = 13/11 00:32 CET**; TechCrunch, **12/11 14:22 PST = 23:22 CET**.
-- **Hecho:** el agente Muse puede llamar a empresas para reservas, citas y gestiones telefónicas; se ofrece a suscriptores de pago para llamar a **negocios estadounidenses**.
-- **Cautela:** no se ha verificado despliegue en España ni rendimiento generalizado.
-- **Fuentes:** [Engadget](https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/) · [TechCrunch](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/).
+**2) Gemini conecta Google Wallet para explicar gastos — anuncio confirmado.**
+- **Fecha/hora:** anuncio oficial de Google **13/11/2026** (sin hora visible); Engadget **13/11 14:15 EST = 20:15 CET**.
+- **Qué cambia:** conexión voluntaria de Wallet y, opcionalmente, cuentas financieras mediante Plaid; análisis de suscripciones, presupuestos y gráficos. **Solo lectura**, no mueve ni invierte dinero.
+- **Disponibilidad:** Google especifica **usuarios de Gemini en EE. UU.**, en web, Android e iOS. No dar por hecho despliegue español.
+- **Fuentes:** [Google, anuncio oficial](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/) · [Engadget, publicación con hora](https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/).
 
-### 3) Incidencia en Microsoft 365 — confirmado como incidencia, resolución no verificada
-- **Publicación/actualización:** Engadget, **12/11/2026 17:55 EST = 23:55 CET**.
-- **Hecho:** se notificaron problemas de acceso en Outlook, Teams, SharePoint y otros servicios; Microsoft relacionó los errores con carga elevada de infraestructura en varias regiones.
-- **Cautela:** el estado de recuperación puede cambiar. Evitar afirmar que sigue caído o ya funciona para todos sin consulta nueva.
-- **Fuente:** [Engadget — Microsoft 365 outage](https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/).
+**3) GTA VI: precarga y picos de tráfico de internet — nueva cobertura, hechos de días anteriores.**
+- **Fecha/hora del artículo:** Xataka **13/11/2026 15:31 UTC = 16:31 CET**. La precarga empezó **10/11**; no presentar esa apertura como noticia ocurrida ayer.
+- **Datos citados por operadores:** Virgin Media O2 reporta récords de tráfico; DE-CIX comunicó un pico en Fráncfort de **22,30 Tb/s** el 10/11, un **19,06 %** por encima de su máximo anterior. Instalación de hasta **212 GB**, según plataforma.
+- **Fuente:** [Xataka — tráfico y precarga](https://www.xataka.com/videojuegos/hay-videojuego-que-pueda-romper-internet-ese-gta-vi-su-precarga-esta-dejando-picos-record-trafico). Las cifras corresponden a redes concretas, no a España en su conjunto.
 
-### 4) Primer análisis de Apple HomeView — reseña nueva, no anuncio de producto nuevo
-- **Publicación:** Engadget, **12/11/2026 09:00 EST = 15:00 CET**.
-- **Qué aporta:** reseña del hub doméstico HomeView: buena pantalla y sonido, pero dependencia de iPhone/iPad y soporte de terceros aún limitado. El artículo menciona precio estadounidense de **299 USD**, no precio español verificado.
-- **Fuente:** [Engadget — HomeView review](https://www.engadget.com/2313999/apple-homeview-review/).
+**4) Microsoft 365: avance de recuperación y explicación de la caída — actualización sustancial.**
+- **Fecha/hora de actualización:** Engadget **13/11/2026 13:28 EST = 19:28 CET**.
+- **Cambio respecto al radar del 13/11:** de incidencia sin resolución verificada a **recuperación amplia** comunicada por Microsoft, con causa atribuida a una actualización de capacidad de red anterior que afloró tras otro cambio. Microsoft dice haber abordado la causa subyacente.
+- **Cautela:** no se verifica recuperación de todos los usuarios y regiones.
+- **Fuente:** [Engadget — actualización del 13/11](https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/).
 
-### 5) Nuevo Apple TV 4K: buenas prestaciones, subida de precio — reseña nueva
-- **Publicación:** Engadget, **12/11/2026 09:00 EST = 15:00 CET**.
-- **Qué aporta:** análisis del Apple TV 4K de cuarta generación: chip A19, localización precisa del mando y funciones de hogar conectado, con crítica a la subida de **150 USD** respecto al modelo anterior en el mercado analizado. No extrapolar precios a España.
-- **Fuente:** [Engadget — Apple TV 4K review](https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/).
+**5) Apple HomeView: lanzamiento comercial sin España — hecho de consumo confirmado por cobertura local.**
+- **Fecha/hora del artículo:** Applesfera **13/11/2026 13:01 UTC = 14:01 CET**.
+- **Qué cambia:** el dispositivo se pone a la venta en **ocho países**, entre ellos Reino Unido y EE. UU.; **España y el resto de la UE no están incluidos**. El producto ya se había anunciado en octubre: **no es una presentación nueva**.
+- **Fuente:** [Applesfera — lanzamiento y países](https://www.applesfera.com/accesorios/hoy-sale-a-venta-homeview-espana-olemos-me-he-pagado-vuelo-a-londres-para-ir-a-verlo).
 
-**No se incluye como noticia nueva:** la retirada del inicio de sesión de Google/Apple en Nintendo a partir del **26/01/2027**, porque hay cobertura publicada el **11/11** y la fecha original del anuncio no se ha podido situar inequívocamente dentro de esta ventana. Es un **tema de servicio útil en continuidad**, confirmado por [Nintendo España](https://www.nintendo.com/es-es/Ayuda/Cuenta-Nintendo/Cese-de-la-vinculacion-de-cuentas-de-Google-y-Apple-con-cuentas-Nintendo-3239447.html).
+**Señal aún no confirmada (NO noticia factual):** Engadget publicó el **13/11 17:50 EST = 14/11 00:50 CET** reportes sobre códigos de descarga de ciertas cajas de GTA VI presuntamente visibles sin abrirlas. Basado en pocas fotos y publicaciones de usuarios; no hay confirmación de alcance ni respuesta de Take-Two en el artículo. [Fuente y cautelas](https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/).
 
-## 3. Diez oportunidades: cinco referencias virales + cinco creadores pequeños/medianos
+## 3. Diez oportunidades ordenadas: 5 virales + 5 creadores pequeños/medianos
 
-**Reglas de lectura:** para los cinco virales, las métricas proceden de [Veedio — Shorts Ciencia y Tecnología, España](https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech), **captura fechada 8/11/2026**, no de hoy. Su campo «views/day» es **media desde la publicación**, NO incremento observado en las últimas 24 h. Fechas de publicación aproximadas cuando la ficha solo dice «hace X días». No se verificaron compartidos ni comentarios. La ficha puede mostrar cifras redondeadas. En los cinco emergentes, las visualizaciones son acumuladas de ChannelDB y **no prueban viralidad**.
+**Cómo interpretar las cifras.** Las cinco fichas virales proceden de [Veedio, ranking YouTube Shorts Ciencia y Tecnología visible en España](https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech), **actualizado el viernes 13/11/2026** (24 Shorts). «Vistas/día» es **media acumulada desde la publicación**, NO variación observada en el último día. Fechas aproximadas calculadas a partir de «hace X días» en la captura; no son marcas horarias originales verificadas. Los vídeos de canales pequeños/medianos proceden de fichas de ChannelDB actualizadas el 13–14/11; sus cifras son acumuladas, no señales de aceleración reciente. **Todos los enlaces son permalinks directos a Shorts identificados por los proveedores; el visionado nativo de YouTube quedó limitado.** En todos los casos: comentarios, compartidos, retención, reproducciones nativas y velocidad real 24 h **no verificables**; los ganchos son inferidos del título y formato, no del primer segundo visual.
 
-### A. Cinco referencias virales históricas, sin repetir el radar del 9/11
+### A. Cinco referencias virales (métricas de captura 13/11)
 
-**1. Absurdario — «Cargar el CELULAR toda la noche NO arruina la batería»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/MTVMiK_4IMc), 0:32; español/LATAM, tema relevante para España.
-- **Fecha:** aprox. **5/11** (Veedio indicaba «hace 3 días» el 8/11).
-- **Métricas de la captura 8/11:** **1,4 M** de vistas; **22 mil** likes; **539,2 mil vistas/día de media desde publicación**, no crecimiento reciente. Comentarios/compartidos no verificados.
-- **Gancho verificable:** desmontar una creencia sobre carga nocturna.
-- **Adaptación original:** grabar ajustes reales de carga optimizada de Android/iPhone, explicar calor y límites de carga sin afirmar que cualquier carga nocturna es inocua en todas las condiciones.
+**1. Blintax — «O meu telemóvel não está a carregar...»**
+- **Plataforma/enlace:** [YouTube Short, 0:16](https://www.youtube.com/shorts/PfxSwhY27GQ). Idioma portugués; el problema de carga se adapta bien a España.
+- **Fecha:** el ranking dice «publicado hoy» el 13/11; hora original no comprobada.
+- **Métricas 13/11:** **2,6 M vistas**, **11,4 mil likes**; **2,6 M vistas/día de media desde publicación**, no subida diaria medida.
+- **Gancho según título:** «mi móvil no está cargando»; secuencia visual no verificada.
+- **Adaptación original:** «Tu móvil no carga: tres comprobaciones seguras antes de comprar un cargador» (cable, enchufe, aviso de humedad; no introducir objetos metálicos en el puerto).
 
-**2. Stupy Doo — «Si se va la luz, tus paneles solares también se apagan, aunque haya sol»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/3Y1qtFrYEac), 2:38; español/LATAM.
-- **Fecha:** aprox. **5/11**.
-- **Métricas captura 8/11:** **1,4 M** vistas, **96,6 mil** likes, **495,7 mil vistas/día de media desde publicación**; comentarios/compartidos no verificados.
-- **Gancho verificable:** paradoja entre tener placas y quedarse sin luz.
-- **Adaptación original:** explicar diferencia entre inversor conectado a red, función de respaldo y batería; mostrar un esquema propio y recordar que depende de la instalación.
+**2. Juanl — «Cartoon data cable protective case»**
+- **Plataforma/enlace:** [YouTube Short, 0:24](https://www.youtube.com/shorts/lKmOjvJ2S0Q). Internacional, concepto visual sin barrera de idioma.
+- **Fecha:** aprox. **11/11**.
+- **Métricas 13/11:** **5,7 M vistas**, **28,3 mil likes**; **3 M vistas/día de media desde publicación**, no crecimiento observado.
+- **Gancho según título:** protector de cable con forma de dibujo animado; demostración exacta no visionada.
+- **Adaptación:** probar tres protectores de cables con test propio de comodidad y flexión; distinguir estética de durabilidad real.
 
-**3. Ryan HD — «Phones Now VS Phones In 2050»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/1Hs03mhfZGE), 0:13; inglés, adaptación visual posible.
+**3. CarterPCs — «My RAM stick microphone..»**
+- **Plataforma/enlace:** [YouTube Short, 0:20](https://www.youtube.com/shorts/vHORf5coOQs). Inglés; público de PC y gaming.
+- **Fecha:** aprox. **9/11**.
+- **Métricas 13/11:** **6,9 M vistas**, **237,5 mil likes**; **1,9 M vistas/día de media desde publicación**.
+- **Gancho según título:** micrófono con aspecto de módulo de RAM; no se verificó funcionamiento ni construcción.
+- **Adaptación:** «Tres accesorios de escritorio que parecen otra cosa» con pruebas propias y precios españoles comprobados antes de publicar.
+
+**4. JerryRigEverything — «My favorite Smartphone of 2026 (wait to see the insides)»**
+- **Plataforma/enlace:** [YouTube Short, 2:18](https://www.youtube.com/shorts/FDNbcfMaF6o). Inglés; interés para aficionados a reparación.
+- **Fecha:** aprox. **11/11**.
+- **Métricas 13/11:** **1,7 M vistas**, **96,4 mil likes**; **834,4 mil vistas/día de media desde publicación**.
+- **Gancho según título:** sorpresa por el interior del móvil; **modelo exacto y contenido visual no comprobados**.
+- **Adaptación:** explicar qué hace reparable un móvil con despieces autorizados y documentación técnica, sin desmontajes inseguros.
+
+**5. Stupy Doo — «Esos foquitos rojos alrededor de la cámara NO están de adorno»**
+- **Plataforma/enlace:** [YouTube Short, 2:18](https://www.youtube.com/shorts/JYWtaI64t_I). Español/LATAM, reutilizable como explicación propia.
+- **Fecha:** aprox. **8/11**.
+- **Métricas 13/11:** **3,9 M vistas**, **176,5 mil likes**; **768,1 mil vistas/día de media desde publicación**.
+- **Gancho según título:** explicar la función de luces rojas cercanas a una cámara; no se ha verificado a qué dispositivo se refiere.
+- **Adaptación:** «Por qué algunas cámaras ven de noche» con ejemplo propio de infrarrojos y límites del sensor, sin copiar escenas.
+
+### B. Cinco creadores pequeños/medianos a seguir (no cinco éxitos virales comprobados)
+
+**6. Predi (España) — «Así es el estudio de IA GRATIS de Google en Tokio»**
+- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/IpIMD9gBEfo).
+- **Fecha:** **13/11 aprox.** («ayer» en ficha del 14/11); hora no verificada.
+- **Métricas ChannelDB 13/11:** **210 vistas** del vídeo; canal **98,7 mil suscriptores**, **+0,1 %** en el intervalo 4–13/11. No demuestra despegue del Short.
+- **Gancho según título:** experiencia en estudio gratuito de IA; condiciones y acceso no contrastados.
+- **Adaptación:** «Qué puedes hacer gratis con la IA de Google desde España» con demostración propia y disponibilidad comprobada.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@predigeek).
+
+**7. Pacheco Gadget (República Dominicana) — «Escanea documento en iPhone sin descargar aplicaciones»**
+- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/d_vqvyLmOVs).
+- **Fecha:** aprox. **7/11** («hace 7 días» en ficha del 14/11).
+- **Métricas ChannelDB 13/11:** **140 vistas**; canal **29,2 mil suscriptores**, **+0,3 %** entre 23/10 y 13/11.
+- **Gancho según título:** resolver una necesidad sin instalar apps; no se verificó la ruta exacta mostrada.
+- **Adaptación:** grabar en iOS español cómo escanear y firmar un PDF, indicando versión de sistema.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@pachecogadget).
+
+**8. clipsetplus (español; canal localizado en EE. UU.) — «Apple MacBook prOLED XDR TÁCTIL pero no tanto»**
+- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/3_Q430zMpMo).
+- **Fecha:** aprox. **8/11**.
+- **Métricas ChannelDB 14/11:** **1,2 mil vistas**; canal **11,5 mil suscriptores**, **+0,9 %** entre 18/10 y 14/11.
+- **Gancho según título:** contraste entre promesa táctil y límites; no se verificó el vídeo ni las especificaciones.
+- **Adaptación:** «Qué puedes y qué no puedes hacer con la pantalla táctil del Mac» con pruebas verificadas, no rumores.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@clipsetplus).
+
+**9. Fran Mobile (España) — «Mis móviles de gama alta tienen mote»**
+- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/iMPaiKIqm8Y).
+- **Fecha:** aprox. **29/10**; referencia de formato, no novedad del día.
+- **Métricas ChannelDB 13/11:** **449 vistas**; canal **24,4 mil suscriptores**, **+0,8 %** entre 13/10 y 13/11.
+- **Gancho según título:** personalidad y humor aplicados a modelos premium; ejecución no visionada.
+- **Adaptación:** «Si cada móvil fuera un compañero de trabajo» con personajes originales y datos de uso reales.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@franmobile).
+
+**10. Cris Espinosa | Tecnología (Colombia) — «¿Cómo rastrear el teléfono de tus amigos?»**
+- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/TdPVKqjV7ig).
 - **Fecha:** aprox. **4/11**.
-- **Métricas captura 8/11:** **4,4 M** vistas, **133,6 mil** likes, **1,1 M vistas/día de media desde publicación**; comentarios/compartidos no verificados.
-- **Gancho verificable:** contraste visual entre móviles actuales y futuros.
-- **Adaptación original:** «3 cosas que sí podrían cambiar en los móviles de 2035» separando prototipos reales de imaginación; evitar presentar 2050 como predicción fiable.
-
-**4. Phone Repair Guru — «Apple Doesn't Want You To Do This...»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/dsXsO2I2h5c), 0:26; inglés, reparación de móviles.
-- **Fecha:** aprox. **23/10**.
-- **Métricas captura 8/11:** **12,9 M** vistas, **93,4 mil** likes, **832,2 mil vistas/día de media desde publicación**; comentarios/compartidos no verificados.
-- **Gancho verificable:** titular de prohibición/curiosidad, **sin poder verificar la afirmación concreta del vídeo**.
-- **Adaptación original:** «¿Qué reparaciones de iPhone puedes hacer y cuáles tienen limitaciones?» con documentación oficial y advertencia de seguridad, sin copiar procedimientos peligrosos.
-
-**5. ForgeCore — «A phone that fixes brainrot?»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/MOBZ8LqHMQE), 0:12; inglés, bienestar digital.
-- **Fecha:** aprox. **30/10**.
-- **Métricas captura 8/11:** **6,6 M** vistas, **61,6 mil** likes, **743,2 mil vistas/día de media desde publicación**; comentarios/compartidos no verificados.
-- **Gancho verificable:** pregunta provocadora sobre dependencia del móvil; no se ha comprobado que el producto «cure» nada.
-- **Adaptación original:** probar modo concentración, escala de grises y límites de apps durante un día; explicar lo observado, sin promesas médicas.
-
-### B. Cinco creadores pequeños/medianos: referencias de formato, no tendencias nuevas confirmadas
-
-**6. El Valenciano Tech — «El milagro de Motorola: 6500 mAh en 7,2 mm y solo 183 g»**
-- **Plataforma:** [YouTube vídeo](https://www.youtube.com/watch?v=FTBxkrLTJUw), **no Short confirmado**; España.
-- **Fecha:** aprox. **8/11**, inferida de «hace 4 días» en ficha del 12/11.
-- **Métricas ChannelDB (corte 12/11):** **13,4 mil vistas** del vídeo; canal **24,4 mil suscriptores**, **+1,7 %** entre 25/10 y 12/11. Likes/comentarios/compartidos y crecimiento diario del vídeo: no verificados.
-- **Gancho:** batería grande en un móvil delgado y ligero (especificaciones citadas por el creador, no comprobadas independientemente).
-- **Adaptación:** «¿De verdad caben 6.500 mAh en un móvil fino?» contrastar ficha oficial, peso real y autonomía medida.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@elvalencianotech).
-
-**7. Javi Tech — «WUBEN G5»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/P-YEtQytst8); España.
-- **Fecha:** aprox. **5/11** (corte ChannelDB 12/11).
-- **Métricas:** **255 vistas** del Short; canal **23,8 mil suscriptores**, **+0,4 %** entre 28/10 y 12/11. Likes/comentarios/compartidos/velocidad del Short: no verificados.
-- **Gancho:** título basado en el nombre del gadget; **gancho visual real no comprobado**.
-- **Adaptación:** demostrar una linterna compacta con tres pruebas reales de alcance, autonomía y utilidad, sin atribuir características no comprobadas.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@javi-tech).
-
-**8. Reyes en Tecnología — «Bocina XIAOMI Sound Play — Unboxing ASMR y características»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/HsfDW7FgSRs); México, aplicable a España si el producto se vende aquí.
-- **Fecha:** aprox. **5/11** (corte 12/11).
-- **Métricas:** **139 vistas** del Short; canal **16,3 mil suscriptores**, **+1,2 %** entre 10/10 y 12/11. Likes/comentarios/compartidos/velocidad: no verificados.
-- **Gancho:** sonido ASMR del desempaquetado, deducible del título; contenido audiovisual no visionado.
-- **Adaptación:** prueba ciega de audio de altavoz económico con grabación propia, precio español comprobado y limitaciones del micrófono.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@reyesentecnologia).
-
-**9. Explora Gadgets — «5 TABLETS que YA pueden REEMPLAZAR tu LAPTOP en 2026»**
-- **Plataforma:** [YouTube vídeo largo](https://www.youtube.com/watch?v=9sR5gJ8wLXI), **no Short**; México.
-- **Fecha:** aprox. **24/10**, inferida de «hace 15 días» en corte 8/11.
-- **Métricas (corte 8/11):** **94,2 mil vistas**; canal **66,4 mil suscriptores**, **+2,2 %** entre 11/10 y 8/11. Likes/comentarios/compartidos y crecimiento reciente del vídeo: no verificados.
-- **Gancho:** sustituir el portátil por una tablet.
-- **Adaptación:** reto «24 horas trabajando solo con tablet» con teclado, hojas de cálculo, multitarea y costes en España.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@exploragadgets).
-
-**10. Somos Android — «¿Google sabe demasiado de ti? Prueba estas 4 apps open source»**
-- **Plataforma:** [YouTube Short](https://www.youtube.com/shorts/PKTZYarHRAY); España.
-- **Fecha:** aprox. **6/10**, inferida de «hace 37 días» en corte 12/11. **Referencia de fondo, no publicación reciente.**
-- **Métricas:** **359 vistas** del Short; canal **58,9 mil suscriptores**, **+0,2 %** entre 10/10 y 12/11. Likes/comentarios/compartidos/velocidad: no verificados.
-- **Gancho:** privacidad y alternativas a Google, según título.
-- **Adaptación:** comparar tres apps abiertas para notas, mapas y fotos con pros, contras, permisos y facilidad de uso; verificar las apps antes de recomendar.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@somosandroidfacil).
+- **Métricas ChannelDB 14/11:** **46 vistas**; canal **8,5 mil suscriptores**, **+0,2 %** entre 27/10 y 14/11.
+- **Gancho según título:** curiosidad sobre localización; **no se verificó el procedimiento del vídeo**.
+- **Adaptación original y segura:** «Compartir ubicación con consentimiento: cómo activarlo y quitarlo en iPhone/Android»; nunca presentar seguimiento oculto como truco.
+- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@crisespinosatech).
 
 ## 4. Radar editorial: nuevo frente a continuidad
 
-**Nuevo en la ventana:** transición de CEO en NVIDIA (prioridad 1); llamadas de Meta Muse para suscriptores en EE. UU.; incidencia de Microsoft 365; reseñas HomeView y Apple TV 4K. Son hechos/notas de prensa y reseñas, **no métricas virales de vídeo**.
+**NUEVO y verificable en la ventana:** ChatGPT Wallet (13/11, inicialmente EE. UU.); Google Wallet dentro de Gemini (13/11, EE. UU.); actualización sustancial de la recuperación de Microsoft 365 (13/11); cobertura con datos de la precarga de GTA VI (13/11, cifras originadas el 10/11); disponibilidad comercial del HomeView en ocho países (13/11).
 
-**Continuidad:** Nintendo retirará inicio de sesión Google/Apple en enero de 2027 (anuncio original fuera de ventana no verificado); Siri agéntica y One UI 9.5 siguen como temas del radar anterior, **sin nueva confirmación oficial comprobada en esta ejecución**. Los vídeos de carga nocturna, paneles solares y reparaciones son **formatos evergreen**: las métricas de 8/11 no prueban aceleración el 13/11.
+**CONTINUIDAD, no noticia recién anunciada:** salida de Jensen Huang de NVIDIA (anuncio del 12/11 ya cubierto en el radar anterior); características y reseñas de Apple HomeView/Apple TV 4K; rumores y análisis de hardware; juegos de comparativas iPhone/Android. **EN OBSERVACIÓN, sin confirmar:** supuesta visibilidad de códigos de GTA VI a través de cajas físicas (reportes de usuarios; falta verificación independiente y alcance).
 
-**Prioridad editorial para hoy:** 1) NVIDIA y el futuro de las GPU; 2) Meta Muse y llamadas por IA, aclarando que no está verificado para España; 3) incidencia Microsoft 365 con estado a comprobar antes de publicar.
+**Prioridad para España:** (1) qué IA puede tocar datos financieros y qué NO está disponible aquí; (2) cuántos GB pesa GTA VI y cómo prepararse para descargarlo; (3) por qué HomeView no se vende en España; (4) trucos útiles de iPhone/Android probados en castellano; (5) gadgets demostrables, no titulares sobre dispositivos ficticios. No convertir los vídeos de «Galaxy S29» del ranking en lanzamientos reales.
 
-## 5. Tres guiones originales para Shorts/Reels/TikTok
+## 5. Tres guiones originales para Reels/Shorts/TikTok
 
-**Guion 1 — «NVIDIA se queda sin su CEO histórico» (30–40 s)**
-- **Gancho:** «La empresa que domina las GPU de IA acaba de cambiar de jefe.»
-- **Desarrollo:** «NVIDIA confirmó el 12 de noviembre que Jensen Huang deja la dirección. La CFO Colette Kress asume interinamente y se abre la búsqueda de sucesor. ¿Cambiarán las GeForce o los chips de IA? Por ahora no se ha anunciado ningún cambio de producto.» Mostrar fuente oficial, no especular sobre causas personales.
-- **CTA:** «¿Qué te preocupa más: las gráficas para jugar o el futuro de la IA?»
+**Guion A — «Dos IA quieren mirar tus gastos. ¿Qué diferencia hay?» (35–45 s)**
+- **Gancho (0–4 s):** «Google y ChatGPT han presentado dos cosas que suenan parecidas, pero no hacen lo mismo».
+- **Desarrollo:** «Gemini conecta Wallet para analizar gastos y suscripciones: acceso de lectura. ChatGPT Wallet permite que un agente prepare una compra y tú la apruebes antes de pagar. Ambas novedades han empezado en EE. UU.; no se han anunciado para todos los usuarios de España». Visual: dos columnas con iconos propios, sin pantallas falsas.
+- **CTA:** «¿Confiarías en una IA para revisar tus gastos, para comprar, o para ninguna?».
+- **Verificar antes de publicar:** condiciones y países oficiales de cada producto.
 
-**Guion 2 — «La IA ya llama por teléfono por ti» (25–35 s)**
-- **Gancho:** «¿Te imaginas una IA esperando en línea para pedirte una cita?»
-- **Desarrollo:** «Meta ha anunciado que Muse puede llamar a negocios, gestionar reservas y esperar al teléfono. Hay dos condiciones importantes: es para usuarios de pago y la disponibilidad anunciada se centra en negocios de Estados Unidos. No está confirmada en España.»
-- **CTA:** «¿Le darías permiso para hablar en tu nombre?»
+**Guion B — «GTA VI pesa tanto que ya está poniendo a prueba internet» (30–40 s)**
+- **Gancho:** «Todavía no ha salido GTA VI y algunas redes europeas ya han batido récords».
+- **Desarrollo:** «La precarga empezó el 10 de noviembre. Según operadores citados por Xataka, DE-CIX registró 22,30 terabits por segundo en Fráncfort. La instalación puede llegar a 212 GB según plataforma. Eso no significa que internet en España esté colapsado». Visual: barra de tamaño y comparación con espacio libre, sin inventar velocidades de descarga.
+- **CTA:** «¿Ya has liberado espacio en tu consola?».
+- **Verificar:** tamaño por plataforma y estado de precarga en la fecha de publicación.
 
-**Guion 3 — «Tener placas solares no garantiza luz en un apagón» (30–40 s)**
-- **Gancho:** «Tienes placas, hace sol… ¿y aun así puedes quedarte sin electricidad?»
-- **Desarrollo:** explicar con esquema original que muchos inversores conectados a red se desconectan por seguridad al caer el suministro; para disponer de respaldo hacen falta equipos y configuración específicos. No afirmar que todas las instalaciones se comportan igual.
-- **CTA:** «¿Quieres una guía de qué comprobar antes de instalar placas?»
+**Guion C — «Apple ha lanzado un producto que no puedes comprar en España» (30–40 s)**
+- **Gancho:** «Apple ya vende HomeView, pero en España no».
+- **Desarrollo:** «El 13 de noviembre empezó a venderse en ocho países, incluido Reino Unido. España y la UE no están en la lista inicial. Es un centro para el hogar con pantalla, pero su disponibilidad y las funciones de Siri AI varían según país». Visual: mapa simple de países confirmados y capturas oficiales.
+- **CTA:** «¿Lo comprarías si llegase a España o prefieres controlar la casa desde el móvil?».
+- **Verificar:** disponibilidad en Apple España antes de grabar.
 
-## 6. Acceso, verificaciones y límites
+## 6. Advertencias y metodología
 
-- **TikTok e Instagram Reels:** sin acceso fiable a publicaciones concretas con permalink, fecha y métricas nativas; **no se incluyen vídeos inventados**. Los diez enlaces de oportunidad son de YouTube (algunos son vídeos largos, expresamente señalados).
-- **Ranking viral:** fuente Veedio con captura **8/11**, cinco días anterior a este radar; el dato «views/day» es **media acumulada desde publicación**, no velocidad reciente ni aumento en 24 horas. No se puede certificar cuáles siguen virales hoy.
-- **Creadores:** fichas ChannelDB con cortes entre **8/11 y 12/11**; cifras de suscriptores y vistas redondeadas, crecimiento de canal en periodos de varios días. Las fechas de los vídeos son aproximadas cuando la fuente solo indica antigüedad relativa. No se verificaron likes/comentarios de los cinco vídeos emergentes.
-- **Verificación audiovisual:** los enlaces directos se extrajeron de enlaces públicos de las fichas/ranking, pero YouTube limitó la lectura del vídeo; los ganchos proceden de títulos, **no de visionado de los primeros segundos**.
-- **Noticias:** el filtro de 24 horas se aplica a las horas originales visibles de publicación/actualización, no a rastreo. Los hechos antiguos presentados en artículos nuevos se separan de noticias nuevas. El estado en vivo de incidencias puede haber cambiado.
-- **Pistas editoriales:** Xataka, Topes de Gama, Andro4all, Applesfera, ComputerHoy, Hipertextual, El Output, ProAndroid, tuexperto, MuyComputer, Geeknetic, HardZone y medios internacionales. **No se afirma escaneo exhaustivo**. Engadget, TechCrunch y la fuente oficial de NVIDIA sustentan las noticias priorizadas.
+- **Cobertura parcial de redes:** se exploraron referencias de TikTok, Instagram Reels y YouTube Shorts; **no se pudieron obtener enlaces directos con métricas contrastables de TikTok ni Reels**. Las diez fichas verificables provienen de YouTube Shorts. No se afirma escaneo exhaustivo.
+- **Última captura de viralidad: 13/11, no 14/11.** El ranking regional de Veedio muestra medias «views/day since publish», que no permiten calcular aceleración reciente. Un vídeo puede tener millones de vistas y estar desacelerando.
+- **Creadores emergentes:** «pequeños/medianos a seguir» se refiere al tamaño del canal; sus vídeos seleccionados tienen entre decenas y miles de vistas y **no prueban crecimiento excepcional**. Algunos son antiguos y se incluyen como formatos aprovechables, no como novedades.
+- **Fechas de vídeo:** aproximadas si el proveedor muestra «hace X días». No se verificaron marcas horarias de publicación ni métricas de interacción de YouTube nativo; la plataforma limitó la consulta directa.
+- **Ganchos:** deducidos de títulos; no se afirma haber visionado los primeros segundos ni transcrito escenas. Adaptaciones propuestas son originales.
+- **Fuentes editoriales:** Xataka y Applesfera son medios, no creadores emergentes; Engadget es medio internacional. Los canales de YouTube se identifican por separado. Los medios españoles citados como pistas no equivalen a cobertura exhaustiva de sus portadas.
+- **Comparación:** ningún permalink de vídeo seleccionado coincide con las diez fichas del `RADAR_ACTUAL.md` de 13/11. No se han reutilizado referencias del radar previo sin cambio sustancial.
