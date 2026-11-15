@@ -1,166 +1,141 @@
-# Radar tecnológico — sábado 14 de noviembre de 2026
+# Radar tecnológico — domingo 15 de noviembre de 2026
 
-**Elaboración:** 14/11/2026, 07:56:18 (Europe/Madrid, CET).  
-**Ventana estricta de noticias:** desde **13/11/2026 07:56:18** hasta **14/11/2026 07:56:18** (CET).  
-**Comparación:** consultado el `RADAR_ACTUAL.md` del 13/11 y sus diez vídeos; las referencias de este informe son distintas. Se ha consultado un ranking de Shorts con **última actualización el 13/11**, no el 14/11. No se presentan métricas acumuladas ni medias históricas como incrementos de las últimas 24 horas.
+**Elaboración:** 15/11/2026, aproximadamente 07:48–08:00 (Europe/Madrid, CET; hora exacta de finalización no comprobada).  
+**Ventana estricta de noticias:** 14/11/2026 07:48:35 a 15/11/2026 07:48:35 CET.  
+**Comparación:** leído `RADAR_ACTUAL.md` del 14/11 y `historial/2026-11-14.md` (ambos idénticos); ninguna de las diez URL de vídeos de hoy se repite respecto a las diez de ayer. No se ha revisado exhaustivamente todo el histórico.
 
-## 1. Hasta cinco hallazgos prioritarios
+## 1. Cinco hallazgos prioritarios
 
-1. **La IA entra en los pagos y en el análisis financiero:** OpenAI anunció ChatGPT Wallet y Google integró Wallet en Gemini el 13/11. Son productos distintos y **sus despliegues iniciales están restringidos a EE. UU.**; no atribuir disponibilidad en España.
-2. **GTA VI está tensionando el tráfico de descarga:** la cobertura del 13/11 recoge récords de redes europeos asociados a la precarga iniciada el 10/11. Es un buen vídeo explicativo, pero los picos no son cifras específicas de España.
-3. **Microsoft 365: nueva información sobre la incidencia del día anterior.** El 13/11 Microsoft comunicó recuperación amplia y una causa ligada a cambios de capacidad/red; no equiparar «recuperación amplia» con disponibilidad universal.
-4. **Apple HomeView se comercializa desde el 13/11 en ocho países, no en España.** La restricción geográfica es el ángulo más útil para la audiencia local.
-5. **Cinco Shorts virales medibles y cinco canales pequeños/medianos monitorizados.** Los primeros tienen cifras acumuladas en la captura del 13/11; los segundos tienen cifras de vídeos y tamaño del canal, pero **no hay evidencia suficiente para llamarlos cinco virales emergentes recientes**.
+1. **Las ofertas tecnológicas de Black Friday ya se están adelantando:** Engadget publicó una selección de televisores rebajados el **14/11 a las 08:30 EST (14:30 CET)**, dentro de la ventana. Los precios estadounidenses no deben trasladarse a España. [Engadget](https://www.engadget.com/2316107/deep-discounts-tvs-before-black-friday-deals/).
+2. **La UE debate restricciones a cajas de botín y monedas virtuales:** la cobertura del 14/11 vuelve sobre una propuesta presentada el **11/11**; es continuidad, **no anuncio nuevo**. [Análisis del 14/11](https://www.alextech.ai/en/news/eu-wants-to-ban-loot-boxes-for-minors-and-show-real-prices-for-currencies/).
+3. **IA para domótica:** Tuya presentó el 13/11 una integración de dispositivos con Muse; el comunicado original es **13/11 12:18 ET (18:18 CET), fuera de la ventana**. Muse se describe disponible en EE. UU. y Canadá, no confirmado en España. [Comunicado Tuya](https://www.prnewswire.com/news-releases/tuya-veroffentlicht-open-source-skill-meta-muse-zur-steuerung-von-smart-geraten-in-uber-3-000-kategorien-302939178.html).
+4. **Las cifras virales disponibles están desactualizadas:** la clasificación de Shorts de ciencia y tecnología para España consultada sigue fechada **13/11**, por lo que sus vistas acumuladas no prueban crecimiento hoy. [Ranking Veedio](https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech).
+5. **Señales en creadores españoles de nicho:** UsuarioGeek muestra Shorts recientes de accesorios y coche eléctrico, Claseflix aborda agregadores de IA y Alta In-Fidelidad prueba audio; no se ha verificado aceleración individual de esos vídeos. [UsuarioGeek](https://channeldb.com/es/c/@usuariogeek), [Claseflix](https://channeldb.com/es/c/@canaloficialclaseflix), [Alta In-Fidelidad](https://channeldb.com/es/c/@altain-fidelidad).
 
-## 2. Noticias verificadas en las últimas 24 horas — orden de relevancia
+## 2. Noticias verificadas dentro de las últimas 24 horas
 
-**1) ChatGPT Wallet: pagos por agentes con aprobación humana — anuncio confirmado.**
-- **Fecha/hora:** anuncio oficial de OpenAI fechado **13/11/2026** (sin hora visible); cobertura de Engadget **13/11 12:17 EST = 18:17 CET**, dentro de la ventana.
-- **Qué cambia:** el usuario añade su tarjeta y revisa/aprueba cada compra mediante comprobación de seguridad; el agente no recibe el número real. Colaboración con American Express, Mastercard y Visa.
-- **Disponibilidad:** despliegue inicial en **dots para ChatGPT Pro mayores de 18 años en EE. UU., con tarjetas estadounidenses elegibles**. No disponible de forma general en España.
-- **Fuentes:** [OpenAI, anuncio oficial](https://openai.com/index/introducing-chatgpt-wallet/) · [Engadget, publicación con hora](https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/).
+**Confirmada con hora original dentro de la ventana:**
 
-**2) Gemini conecta Google Wallet para explicar gastos — anuncio confirmado.**
-- **Fecha/hora:** anuncio oficial de Google **13/11/2026** (sin hora visible); Engadget **13/11 14:15 EST = 20:15 CET**.
-- **Qué cambia:** conexión voluntaria de Wallet y, opcionalmente, cuentas financieras mediante Plaid; análisis de suscripciones, presupuestos y gráficos. **Solo lectura**, no mueve ni invierte dinero.
-- **Disponibilidad:** Google especifica **usuarios de Gemini en EE. UU.**, en web, Android e iOS. No dar por hecho despliegue español.
-- **Fuentes:** [Google, anuncio oficial](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/) · [Engadget, publicación con hora](https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/).
+- **14/11/2026 14:30 CET — Guía de descuentos anticipados de televisores para Black Friday**, publicada por Engadget el 14/11 a las 08:30 EST. Es una selección comercial de EE. UU., no un lanzamiento ni una confirmación de precios españoles. Interés editorial: «cómo saber si una rebaja de tele es real». [Artículo original](https://www.engadget.com/2316107/deep-discounts-tvs-before-black-friday-deals/).
 
-**3) GTA VI: precarga y picos de tráfico de internet — nueva cobertura, hechos de días anteriores.**
-- **Fecha/hora del artículo:** Xataka **13/11/2026 15:31 UTC = 16:31 CET**. La precarga empezó **10/11**; no presentar esa apertura como noticia ocurrida ayer.
-- **Datos citados por operadores:** Virgin Media O2 reporta récords de tráfico; DE-CIX comunicó un pico en Fráncfort de **22,30 Tb/s** el 10/11, un **19,06 %** por encima de su máximo anterior. Instalación de hasta **212 GB**, según plataforma.
-- **Fuente:** [Xataka — tráfico y precarga](https://www.xataka.com/videojuegos/hay-videojuego-que-pueda-romper-internet-ese-gta-vi-su-precarga-esta-dejando-picos-record-trafico). Las cifras corresponden a redes concretas, no a España en su conjunto.
+**Noticias adicionales con fecha de publicación 14/11 pero sin hora original fiable para garantizar la ventana: no se contabilizan como confirmadas.** Entre ellas, [Drogue y sus centros de datos flotantes](https://www.alextech.ai/en/news/drogue-wants-to-power-floating-data-centers-with-ocean-heat/) y [la propuesta europea sobre loot boxes](https://www.alextech.ai/en/news/eu-wants-to-ban-loot-boxes-for-minors-and-show-real-prices-for-currencies/). La propuesta europea es del 11/11. La información sobre [gafas inteligentes Samsung](https://www.t3.com/tech/vr/samsung-finally-announces-prices-and-dates-for-its-ray-ban-rivalling-smart-glasses) fue publicada el 13/11, fuera de ventana.
 
-**4) Microsoft 365: avance de recuperación y explicación de la caída — actualización sustancial.**
-- **Fecha/hora de actualización:** Engadget **13/11/2026 13:28 EST = 19:28 CET**.
-- **Cambio respecto al radar del 13/11:** de incidencia sin resolución verificada a **recuperación amplia** comunicada por Microsoft, con causa atribuida a una actualización de capacidad de red anterior que afloró tras otro cambio. Microsoft dice haber abordado la causa subyacente.
-- **Cautela:** no se verifica recuperación de todos los usuarios y regiones.
-- **Fuente:** [Engadget — actualización del 13/11](https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/).
+## 3. Diez oportunidades ordenadas — cinco virales y cinco creadores de nicho
 
-**5) Apple HomeView: lanzamiento comercial sin España — hecho de consumo confirmado por cobertura local.**
-- **Fecha/hora del artículo:** Applesfera **13/11/2026 13:01 UTC = 14:01 CET**.
-- **Qué cambia:** el dispositivo se pone a la venta en **ocho países**, entre ellos Reino Unido y EE. UU.; **España y el resto de la UE no están incluidos**. El producto ya se había anunciado en octubre: **no es una presentación nueva**.
-- **Fuente:** [Applesfera — lanzamiento y países](https://www.applesfera.com/accesorios/hoy-sale-a-venta-homeview-espana-olemos-me-he-pagado-vuelo-a-londres-para-ir-a-verlo).
+**Metodología:** referencias V1–V5 del ranking Veedio, última actualización visible **13/11**, no de hoy. Vistas y likes son acumulados a esa fecha; «vistas/día» significa promedio desde publicación, no variación observada en 24 horas. Fechas aproximadas derivadas de etiquetas relativas del ranking del 13/11. E1–E5 proceden de ChannelDB consultado con capturas fechadas 13–15/11. Sus vistas son acumuladas y la fecha se infiere de «hace X días»; los cuatro creadores de nicho no son cinco creadores diferentes. **En todas las fichas:** comentarios, compartidos, retención, velocidad real por vídeo y hora exacta original **no verificables**; gancho inferido del título, no de visionado nativo. Todos son YouTube Shorts; acceso a TikTok/Reels insuficiente para fichas verificadas.
 
-**Señal aún no confirmada (NO noticia factual):** Engadget publicó el **13/11 17:50 EST = 14/11 00:50 CET** reportes sobre códigos de descarga de ciertas cajas de GTA VI presuntamente visibles sin abrirlas. Basado en pocas fotos y publicaciones de usuarios; no hay confirmación de alcance ni respuesta de Take-Two en el artículo. [Fuente y cautelas](https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/).
+### 1. Viral de referencia — Arya Vale: «THIS IS A REAL SPLIT KEYBOARD?!»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/BmglXbDTibM).
+- **Fecha estimada:** aprox. 30/10/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 26,9 M vistas; 94.000 likes. 2 M vistas/día, media desde publicación; no crecimiento diario.
+- **Gancho probable según título (no visionado):** ¿Un teclado partido que funciona de verdad?.
+- **Adaptación original para España:** Probar con demostración propia alternativas de teclados ergonómicos y explicar límites.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-## 3. Diez oportunidades ordenadas: 5 virales + 5 creadores pequeños/medianos
+### 2. Viral de referencia — VisionX Lab: «The Rarest GPU Ever Made»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/v3yS_mLzkVk).
+- **Fecha estimada:** aprox. 06/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 10,9 M vistas; 288.200 likes. 1,5 M vistas/día, media histórica.
+- **Gancho probable según título (no visionado):** La gráfica más rara.
+- **Adaptación original para España:** Contar la historia documentada de una GPU peculiar y comparar con modelos actuales.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-**Cómo interpretar las cifras.** Las cinco fichas virales proceden de [Veedio, ranking YouTube Shorts Ciencia y Tecnología visible en España](https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech), **actualizado el viernes 13/11/2026** (24 Shorts). «Vistas/día» es **media acumulada desde la publicación**, NO variación observada en el último día. Fechas aproximadas calculadas a partir de «hace X días» en la captura; no son marcas horarias originales verificadas. Los vídeos de canales pequeños/medianos proceden de fichas de ChannelDB actualizadas el 13–14/11; sus cifras son acumuladas, no señales de aceleración reciente. **Todos los enlaces son permalinks directos a Shorts identificados por los proveedores; el visionado nativo de YouTube quedó limitado.** En todos los casos: comentarios, compartidos, retención, reproducciones nativas y velocidad real 24 h **no verificables**; los ganchos son inferidos del título y formato, no del primer segundo visual.
+### 3. Viral de referencia — GuessThe Item: «Where is the IPHONE 18 Pro Max!»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/gn91hxFZV9A).
+- **Fecha estimada:** aprox. 10/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 4,2 M vistas; 205.700 likes. 1,3 M vistas/día, media histórica.
+- **Gancho probable según título (no visionado):** Encuentra el móvil escondido.
+- **Adaptación original para España:** Reto visual con modelos reales y fotos propias; no afirmar lanzamientos a partir del título.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-### A. Cinco referencias virales (métricas de captura 13/11)
+### 4. Viral de referencia — hecho Secreta: «¿Qué pasa dentro de un cargador cuando cargas tu móvil?»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/pvPPgc3typQ).
+- **Fecha estimada:** aprox. 25/10/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 16,6 M vistas; likes ocultos. 868.300 vistas/día, media histórica.
+- **Gancho probable según título (no visionado):** Qué hay dentro del cargador.
+- **Adaptación original para España:** Animación propia de conversión de corriente sin abrir cargadores conectados.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-**1. Blintax — «O meu telemóvel não está a carregar...»**
-- **Plataforma/enlace:** [YouTube Short, 0:16](https://www.youtube.com/shorts/PfxSwhY27GQ). Idioma portugués; el problema de carga se adapta bien a España.
-- **Fecha:** el ranking dice «publicado hoy» el 13/11; hora original no comprobada.
-- **Métricas 13/11:** **2,6 M vistas**, **11,4 mil likes**; **2,6 M vistas/día de media desde publicación**, no subida diaria medida.
-- **Gancho según título:** «mi móvil no está cargando»; secuencia visual no verificada.
-- **Adaptación original:** «Tu móvil no carga: tres comprobaciones seguras antes de comprar un cargador» (cable, enchufe, aviso de humedad; no introducir objetos metálicos en el puerto).
+### 5. Viral de referencia — SCUF PE: «Intento reparar Nintendo Switch muerta del tianguis peruano»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/2fRlcG1QmR4).
+- **Fecha estimada:** aprox. 02/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 6,9 M vistas; 348.600 likes. 637.300 vistas/día, media histórica.
+- **Gancho probable según título (no visionado):** ¿Volverá a encender?.
+- **Adaptación original para España:** Diagnóstico sencillo de consola que no arranca, sin soldadura ni abrir baterías.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-**2. Juanl — «Cartoon data cable protective case»**
-- **Plataforma/enlace:** [YouTube Short, 0:24](https://www.youtube.com/shorts/lKmOjvJ2S0Q). Internacional, concepto visual sin barrera de idioma.
-- **Fecha:** aprox. **11/11**.
-- **Métricas 13/11:** **5,7 M vistas**, **28,3 mil likes**; **3 M vistas/día de media desde publicación**, no crecimiento observado.
-- **Gancho según título:** protector de cable con forma de dibujo animado; demostración exacta no visionada.
-- **Adaptación:** probar tres protectores de cables con test propio de comodidad y flexión; distinguir estética de durabilidad real.
+### 6. Creador pequeño/mediano — UsuarioGeek: «3 cosas del Geely E5 que mi Tesla no tiene»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/zr0OdNbhCbo).
+- **Fecha estimada:** aprox. 14/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 1.600 vistas; canal 29.500 suscriptores. Sin crecimiento por vídeo verificable.
+- **Gancho probable según título (no visionado):** Tres diferencias inesperadas.
+- **Adaptación original para España:** Comparativa de funciones de dos gadgets con pruebas propias.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-**3. CarterPCs — «My RAM stick microphone..»**
-- **Plataforma/enlace:** [YouTube Short, 0:20](https://www.youtube.com/shorts/vHORf5coOQs). Inglés; público de PC y gaming.
-- **Fecha:** aprox. **9/11**.
-- **Métricas 13/11:** **6,9 M vistas**, **237,5 mil likes**; **1,9 M vistas/día de media desde publicación**.
-- **Gancho según título:** micrófono con aspecto de módulo de RAM; no se verificó funcionamiento ni construcción.
-- **Adaptación:** «Tres accesorios de escritorio que parecen otra cosa» con pruebas propias y precios españoles comprobados antes de publicar.
+### 7. Creador pequeño/mediano — UsuarioGeek: «¿El mejor accesorio para tu Tesla?»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/NYXs93ZtKzE).
+- **Fecha estimada:** aprox. 14/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 2.000 vistas; canal 29.500 suscriptores. Sin velocidad verificable.
+- **Gancho probable según título (no visionado):** Accesorio sorprendente.
+- **Adaptación original para España:** Probar un accesorio útil de coche con precio y compatibilidad en España.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-**4. JerryRigEverything — «My favorite Smartphone of 2026 (wait to see the insides)»**
-- **Plataforma/enlace:** [YouTube Short, 2:18](https://www.youtube.com/shorts/FDNbcfMaF6o). Inglés; interés para aficionados a reparación.
-- **Fecha:** aprox. **11/11**.
-- **Métricas 13/11:** **1,7 M vistas**, **96,4 mil likes**; **834,4 mil vistas/día de media desde publicación**.
-- **Gancho según título:** sorpresa por el interior del móvil; **modelo exacto y contenido visual no comprobados**.
-- **Adaptación:** explicar qué hace reparable un móvil con despieces autorizados y documentación técnica, sin desmontajes inseguros.
+### 8. Creador pequeño/mediano — Claseflix: «¿ChatGPT, Claude y Gemini desde una misma plataforma?»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/cDaXcGh_4Kg).
+- **Fecha estimada:** aprox. 11/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 872 vistas; canal 42.400 suscriptores. Canal +2,9 % entre 22/10 y 15/11; no atribuir al vídeo.
+- **Gancho probable según título (no visionado):** Tres modelos en una sola herramienta.
+- **Adaptación original para España:** Comparar coste real y privacidad de agregadores de IA.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-**5. Stupy Doo — «Esos foquitos rojos alrededor de la cámara NO están de adorno»**
-- **Plataforma/enlace:** [YouTube Short, 2:18](https://www.youtube.com/shorts/JYWtaI64t_I). Español/LATAM, reutilizable como explicación propia.
-- **Fecha:** aprox. **8/11**.
-- **Métricas 13/11:** **3,9 M vistas**, **176,5 mil likes**; **768,1 mil vistas/día de media desde publicación**.
-- **Gancho según título:** explicar la función de luces rojas cercanas a una cámara; no se ha verificado a qué dispositivo se refiere.
-- **Adaptación:** «Por qué algunas cámaras ven de noche» con ejemplo propio de infrarrojos y límites del sensor, sin copiar escenas.
+### 9. Creador pequeño/mediano — Alta In-Fidelidad: «Punch Audio Patada: basshead a precio contenido»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/jT3eAdi_GMg).
+- **Fecha estimada:** aprox. 12/11/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 80 vistas; canal 5.270 suscriptores. Canal +1 % entre 9 y 14/11; no prueba despegue.
+- **Gancho probable según título (no visionado):** ¿Graves potentes sin gastar mucho?.
+- **Adaptación original para España:** Test original de auriculares con muestras propias y limitaciones de medición.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
-### B. Cinco creadores pequeños/medianos a seguir (no cinco éxitos virales comprobados)
-
-**6. Predi (España) — «Así es el estudio de IA GRATIS de Google en Tokio»**
-- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/IpIMD9gBEfo).
-- **Fecha:** **13/11 aprox.** («ayer» en ficha del 14/11); hora no verificada.
-- **Métricas ChannelDB 13/11:** **210 vistas** del vídeo; canal **98,7 mil suscriptores**, **+0,1 %** en el intervalo 4–13/11. No demuestra despegue del Short.
-- **Gancho según título:** experiencia en estudio gratuito de IA; condiciones y acceso no contrastados.
-- **Adaptación:** «Qué puedes hacer gratis con la IA de Google desde España» con demostración propia y disponibilidad comprobada.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@predigeek).
-
-**7. Pacheco Gadget (República Dominicana) — «Escanea documento en iPhone sin descargar aplicaciones»**
-- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/d_vqvyLmOVs).
-- **Fecha:** aprox. **7/11** («hace 7 días» en ficha del 14/11).
-- **Métricas ChannelDB 13/11:** **140 vistas**; canal **29,2 mil suscriptores**, **+0,3 %** entre 23/10 y 13/11.
-- **Gancho según título:** resolver una necesidad sin instalar apps; no se verificó la ruta exacta mostrada.
-- **Adaptación:** grabar en iOS español cómo escanear y firmar un PDF, indicando versión de sistema.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@pachecogadget).
-
-**8. clipsetplus (español; canal localizado en EE. UU.) — «Apple MacBook prOLED XDR TÁCTIL pero no tanto»**
-- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/3_Q430zMpMo).
-- **Fecha:** aprox. **8/11**.
-- **Métricas ChannelDB 14/11:** **1,2 mil vistas**; canal **11,5 mil suscriptores**, **+0,9 %** entre 18/10 y 14/11.
-- **Gancho según título:** contraste entre promesa táctil y límites; no se verificó el vídeo ni las especificaciones.
-- **Adaptación:** «Qué puedes y qué no puedes hacer con la pantalla táctil del Mac» con pruebas verificadas, no rumores.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@clipsetplus).
-
-**9. Fran Mobile (España) — «Mis móviles de gama alta tienen mote»**
-- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/iMPaiKIqm8Y).
-- **Fecha:** aprox. **29/10**; referencia de formato, no novedad del día.
-- **Métricas ChannelDB 13/11:** **449 vistas**; canal **24,4 mil suscriptores**, **+0,8 %** entre 13/10 y 13/11.
-- **Gancho según título:** personalidad y humor aplicados a modelos premium; ejecución no visionada.
-- **Adaptación:** «Si cada móvil fuera un compañero de trabajo» con personajes originales y datos de uso reales.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@franmobile).
-
-**10. Cris Espinosa | Tecnología (Colombia) — «¿Cómo rastrear el teléfono de tus amigos?»**
-- **Plataforma/enlace:** [YouTube Short](https://www.youtube.com/shorts/TdPVKqjV7ig).
-- **Fecha:** aprox. **4/11**.
-- **Métricas ChannelDB 14/11:** **46 vistas**; canal **8,5 mil suscriptores**, **+0,2 %** entre 27/10 y 14/11.
-- **Gancho según título:** curiosidad sobre localización; **no se verificó el procedimiento del vídeo**.
-- **Adaptación original y segura:** «Compartir ubicación con consentimiento: cómo activarlo y quitarlo en iPhone/Android»; nunca presentar seguimiento oculto como truco.
-- **Ficha:** [ChannelDB](https://channeldb.com/es/c/@crisespinosatech).
+### 10. Creador pequeño/mediano — La Pizarra Explica: «El coche que vuela: Tesla Roadster»
+- **Plataforma y vídeo:** [YouTube Short](https://www.youtube.com/shorts/u4YqrRCFIl0).
+- **Fecha estimada:** aprox. 16/10/2026; fecha/hora nativa no verificadas.
+- **Métricas disponibles:** 2.400 vistas; canal 70.800 suscriptores. Canal +1,6 % entre 18/10 y 13/11; vídeo antiguo, no tendencia reciente.
+- **Gancho probable según título (no visionado):** ¿Un coche que vuela?.
+- **Adaptación original para España:** Separar promesas, prototipos y disponibilidad real con fuentes primarias.
+- **No verificable:** likes cuando no figuran, comentarios, compartidos, retención, evolución 24 h y primeros segundos reales.
 
 ## 4. Radar editorial: nuevo frente a continuidad
 
-**NUEVO y verificable en la ventana:** ChatGPT Wallet (13/11, inicialmente EE. UU.); Google Wallet dentro de Gemini (13/11, EE. UU.); actualización sustancial de la recuperación de Microsoft 365 (13/11); cobertura con datos de la precarga de GTA VI (13/11, cifras originadas el 10/11); disponibilidad comercial del HomeView en ocho países (13/11).
+**NUEVO dentro de la ventana con hora verificable:** cobertura comercial de rebajas de televisores para Black Friday, centrada en EE. UU. La adaptación española requiere comprobar precios históricos locales antes de recomendar productos.
 
-**CONTINUIDAD, no noticia recién anunciada:** salida de Jensen Huang de NVIDIA (anuncio del 12/11 ya cubierto en el radar anterior); características y reseñas de Apple HomeView/Apple TV 4K; rumores y análisis de hardware; juegos de comparativas iPhone/Android. **EN OBSERVACIÓN, sin confirmar:** supuesta visibilidad de códigos de GTA VI a través de cajas físicas (reportes de usuarios; falta verificación independiente y alcance).
+**CONTINUIDAD:** propuestas europeas sobre loot boxes (anunciadas 11/11); integración Tuya–Muse (13/11); gafas Samsung/Google (información del 13/11); ChatGPT Wallet y Gemini/Wallet (ya cubiertos ayer); Microsoft 365 y GTA VI (también cubiertos). No presentar la cobertura del 14/11 como si los anuncios originales hubieran ocurrido hoy.
 
-**Prioridad para España:** (1) qué IA puede tocar datos financieros y qué NO está disponible aquí; (2) cuántos GB pesa GTA VI y cómo prepararse para descargarlo; (3) por qué HomeView no se vende en España; (4) trucos útiles de iPhone/Android probados en castellano; (5) gadgets demostrables, no titulares sobre dispositivos ficticios. No convertir los vídeos de «Galaxy S29» del ranking en lanzamientos reales.
+**SEÑALES DE FORMATOS:** curiosidades de hardware, reparaciones, comparativas visuales, accesorios de movilidad y agregadores de IA. Las cifras de Veedio corresponden al 13/11 y **no son prueba de que estén despegando el 15/11**. Los vídeos de creadores pequeños son ejemplos de enfoque editorial, no éxitos emergentes demostrados.
 
-## 5. Tres guiones originales para Reels/Shorts/TikTok
+**Medios frente a creadores:** Engadget, T3, AlexTech, Xataka, Topes de Gama, Andro4all, Applesfera, ComputerHoy, Hipertextual, El Output, ProAndroid, tuexperto, MuyComputer, Geeknetic y HardZone son fuentes editoriales o pistas de búsqueda; no se clasifican como creadores emergentes. No se ha auditado exhaustivamente cada medio.
 
-**Guion A — «Dos IA quieren mirar tus gastos. ¿Qué diferencia hay?» (35–45 s)**
-- **Gancho (0–4 s):** «Google y ChatGPT han presentado dos cosas que suenan parecidas, pero no hacen lo mismo».
-- **Desarrollo:** «Gemini conecta Wallet para analizar gastos y suscripciones: acceso de lectura. ChatGPT Wallet permite que un agente prepare una compra y tú la apruebes antes de pagar. Ambas novedades han empezado en EE. UU.; no se han anunciado para todos los usuarios de España». Visual: dos columnas con iconos propios, sin pantallas falsas.
-- **CTA:** «¿Confiarías en una IA para revisar tus gastos, para comprar, o para ninguna?».
-- **Verificar antes de publicar:** condiciones y países oficiales de cada producto.
+## 5. Tres guiones originales (30–45 segundos)
 
-**Guion B — «GTA VI pesa tanto que ya está poniendo a prueba internet» (30–40 s)**
-- **Gancho:** «Todavía no ha salido GTA VI y algunas redes europeas ya han batido récords».
-- **Desarrollo:** «La precarga empezó el 10 de noviembre. Según operadores citados por Xataka, DE-CIX registró 22,30 terabits por segundo en Fráncfort. La instalación puede llegar a 212 GB según plataforma. Eso no significa que internet en España esté colapsado». Visual: barra de tamaño y comparación con espacio libre, sin inventar velocidades de descarga.
-- **CTA:** «¿Ya has liberado espacio en tu consola?».
-- **Verificar:** tamaño por plataforma y estado de precarga en la fecha de publicación.
+### Guion A — «¿Te están engañando con el Black Friday?»
+- **Gancho (0–3 s):** «Ese televisor tiene un 40 % de descuento… ¿o eso parece?»
+- **Desarrollo:** enseñar cómo comparar precio actual con histórico en una tienda española, comprobar modelo exacto, gastos de envío y garantías; usar un ejemplo propio con datos comprobados, no precios de EE. UU.
+- **CTA:** «¿Quieres que analice una oferta concreta? Déjame el modelo».
 
-**Guion C — «Apple ha lanzado un producto que no puedes comprar en España» (30–40 s)**
-- **Gancho:** «Apple ya vende HomeView, pero en España no».
-- **Desarrollo:** «El 13 de noviembre empezó a venderse en ocho países, incluido Reino Unido. España y la UE no están en la lista inicial. Es un centro para el hogar con pantalla, pero su disponibilidad y las funciones de Siri AI varían según país». Visual: mapa simple de países confirmados y capturas oficiales.
-- **CTA:** «¿Lo comprarías si llegase a España o prefieres controlar la casa desde el móvil?».
-- **Verificar:** disponibilidad en Apple España antes de grabar.
+### Guion B — «¿Tu cargador está convirtiendo la electricidad?»
+- **Gancho:** «Dentro de tu cargador ocurre algo que casi nadie ve».
+- **Desarrollo:** ilustración propia de entrada de corriente alterna, conversión a corriente continua y negociación de potencia con el teléfono; diferenciar cable, cargador y batería; nunca abrir aparatos conectados.
+- **CTA:** «¿Quieres que compare carga rápida de Android e iPhone?».
 
-## 6. Advertencias y metodología
+### Guion C — «La IA que controla tu casa: lo que sí y lo que no»
+- **Gancho:** «Imagina decirle a una IA que baje la persiana y revise el consumo del aire».
+- **Desarrollo:** explicar la integración Tuya–Muse anunciada el 13/11 y su dependencia de cuentas, nube, permisos y compatibilidad; aclarar que Muse se describe disponible en EE. UU. y Canadá, sin asegurar acceso en España.
+- **CTA:** «¿Qué automatización harías primero en tu casa?».
 
-- **Cobertura parcial de redes:** se exploraron referencias de TikTok, Instagram Reels y YouTube Shorts; **no se pudieron obtener enlaces directos con métricas contrastables de TikTok ni Reels**. Las diez fichas verificables provienen de YouTube Shorts. No se afirma escaneo exhaustivo.
-- **Última captura de viralidad: 13/11, no 14/11.** El ranking regional de Veedio muestra medias «views/day since publish», que no permiten calcular aceleración reciente. Un vídeo puede tener millones de vistas y estar desacelerando.
-- **Creadores emergentes:** «pequeños/medianos a seguir» se refiere al tamaño del canal; sus vídeos seleccionados tienen entre decenas y miles de vistas y **no prueban crecimiento excepcional**. Algunos son antiguos y se incluyen como formatos aprovechables, no como novedades.
-- **Fechas de vídeo:** aproximadas si el proveedor muestra «hace X días». No se verificaron marcas horarias de publicación ni métricas de interacción de YouTube nativo; la plataforma limitó la consulta directa.
-- **Ganchos:** deducidos de títulos; no se afirma haber visionado los primeros segundos ni transcrito escenas. Adaptaciones propuestas son originales.
-- **Fuentes editoriales:** Xataka y Applesfera son medios, no creadores emergentes; Engadget es medio internacional. Los canales de YouTube se identifican por separado. Los medios españoles citados como pistas no equivalen a cobertura exhaustiva de sus portadas.
-- **Comparación:** ningún permalink de vídeo seleccionado coincide con las diez fichas del `RADAR_ACTUAL.md` de 13/11. No se han reutilizado referencias del radar previo sin cambio sustancial.
+## 6. Advertencias y trazabilidad
+
+- **Cobertura parcial real:** no se obtuvieron suficientes vídeos TikTok ni Instagram Reels con permalinks y métricas fiables; las diez fichas son de YouTube Shorts. El acceso directo a los vídeos de YouTube estuvo limitado, por lo que los ganchos son hipótesis basadas en títulos.
+- **Datos no actuales:** ranking viral con corte **13/11**; se prohíbe interpretar «vistas/día» de Veedio como crecimiento reciente observado. ChannelDB aporta capturas de varios días, no incrementos por Short.
+- **Fechas de publicación de vídeos:** estimaciones, no marcas de tiempo originales; algunos vídeos son antiguos y se incluyen como referencia de formato, no como descubrimiento nuevo.
+- **Noticias:** solo una pieza comercial con fecha **y hora** verificadas dentro de la ventana; los temas del 14/11 sin hora original fiable se excluyeron del bloque confirmado. Se evitaron afirmaciones sobre disponibilidad en España no contrastadas.
+- **Comparación GitHub:** se consultaron radar e histórico del 14/11 y se evitaron sus diez URL; no se presume un escaneo exhaustivo de todo el histórico.
+- **Integración:** estos archivos están disponibles en GitHub para Claude u otras herramientas autorizadas; su lectura automática no está verificada.
