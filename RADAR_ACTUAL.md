@@ -1,71 +1,32 @@
-# Radar tecnológico — martes 17 de noviembre de 2026
+# Radar tecnológico — 18 de noviembre de 2026
 
-**Elaboración:** 17/11/2026, desde las 07:36 CET (Europe/Madrid). **Ventana estricta:** 16/11/2026 07:36 a 17/11/2026 07:36 CET (06:36 UTC a 06:36 UTC). **Comparación:** leído RADAR_ACTUAL.md del 16/11; no se reutilizan sus vídeos (no contenía fichas verificadas). Investigación parcial, no rastreo exhaustivo.
+**Corte:** 18/11/2026 07:08 CET (Europe/Madrid). Ventana: 17/11 07:08–18/11 07:08 CET. Investigación parcial. Comparado con RADAR_ACTUAL.md del 17/11, que no contenía vídeos verificables.
 
-## 1. Hasta cinco hallazgos
-1. **Microsoft 365:** Xataka explica el 16/11 a las 14:23 CET la causa técnica de la reciente caída de Outlook, Teams y otros servicios: un fallo latente en una actualización de julio que se manifestó con cambios de capacidad y carga. Es nueva cobertura técnica de un incidente anterior, no una caída nueva.
-2. **Hardware en España:** Xataka identifica el Ryzen 7 7800X3D a **289,99 €** en una oferta flash publicada el 16/11 a las 10:04 CET. Precio puntual, no garantía de disponibilidad actual ni histórico contrastado independientemente.
-3. **Móviles Android:** Xataka publica el 16/11 a las 10:15 CET una oferta del Pixel 10a de 128 GB a **399 €**; es cobertura comercial, no un nuevo lanzamiento.
-4. **Wearables:** Xataka señala el 16/11 a las 16:31 CET una oferta española del Galaxy Watch Ultra original a **304,95 €**. Verificar vendedor, versión y precio antes de grabar.
-5. **Redes sociales:** no se han podido verificar hoy suficientes vídeos recientes con enlace directo, fecha y métricas nativas para sostener un ranking 5+5.
+## Hallazgos
+- Apple reconoce una incidencia de servicios causada por una actualización interna.
+- The Game Awards anuncia nominaciones, con GTA VI entre los candidatos.
+- Las aplicaciones de microdramas y la moderación de estafas son pistas editoriales pendientes de verificar hora.
 
-## 2. Noticias y coberturas fechadas en las últimas 24 horas
-### 1. Microsoft detalla el fallo que tumbó parte de Microsoft 365
-- **Fuente y fecha original:** Xataka, Iván Linares, **16/11/2026 14:23 CET**. https://www.xataka.com/aplicaciones/dia-outlook-fallo-cadena-que-tumbo-a-microsoft-se-sabe-que-bug-que-llevaba-dormido-julio
-- **Qué cambia:** la explicación técnica publicada hoy sobre un fallo de una actualización de julio y su interacción con capacidad y carga. **El incidente ocurrió antes de la ventana**; no presentar como caída ocurrida hoy.
-- **Ángulo:** «¿Cómo puede un error antiguo dejarte sin correo meses después?».
+## Noticias verificadas
+1. **Apple: interrupción de servicios.** The Guardian, publicación original 17/11 20:06 CET, actualización 23:23 CET (14:06 y 17:23 EST). Apple atribuyó los problemas a una actualización interna e informó de recuperación progresiva. Entre los servicios afectados se mencionan App Store e iCloud. Google negó evidencia de una caída generalizada de Gmail. No afirmar que España sufrió idéntico impacto ni que fue un ciberataque. Fuente: https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption
+2. **The Game Awards 2026: nominados.** Anuncio del 17/11 a las 18:00 CET; cobertura de MobileSyrup a las 18:20 CET. GTA VI, 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem y The Legend of Zelda: Ocarina of Time aparecen como candidatos a juego del año según HUDWire. GTA VI está nominado antes de su lanzamiento comercial previsto; no es ganador. Fuente: https://hudwire.com/the-game-awards-2026/ (actualización del 17/11, hora del anuncio explícita); calendario corroborado por https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november . Lista oficial: https://thegameawards.com/
 
-### 2. Ryzen 7 7800X3D a 289,99 € en oferta flash española
-- **Fuente y fecha original:** Xataka Selección, Carlos Castillo, **16/11/2026 10:04 CET**. https://www.xataka.com/seleccion/ryzen-7-7800x3d-a-precio-minimo-antes-black-friday-cpu-brutal-para-jugar-que-ahora-no-llega-a-290-euros
-- **Qué se sabe:** oferta anunciada para Amazon España; precio sujeto a cambios, enlace comercial y afirmación de mínimo histórico del medio, no verificada de forma independiente. **No es lanzamiento ni noticia de producto nuevo**.
+## Oportunidades sociales: 5+5
+**Virales: 0/5; emergentes: 0/5.** La búsqueda pública de TikTok, Reels y Shorts no devolvió fichas suficientemente contrastables con enlaces directos, fecha, creador y métricas. No hay datos verificables de visualizaciones, likes, comentarios, compartidos, velocidad ni ganchos originales. No se reutilizan referencias antiguas. Las ideas siguientes son editoriales, no vídeos virales observados.
 
-### 3. Pixel 10a 128 GB a 399 € en selección de ofertas
-- **Fuente y fecha original:** Xataka Selección, **16/11/2026 10:15 CET**. https://www.xataka.com/seleccion/movil-android-compacto-longevo-que-me-compraria-black-friday-google-ha-vuelto-a-su-precio
-- **Qué se sabe:** selección editorial/comercial de un Pixel 10a con precio anunciado de 399 €. No se ha comprobado precio en tienda en tiempo real.
+## Radar editorial
+- Nuevo: incidencia Apple y nominaciones TGA.
+- Fecha sin hora original verificada (no contabilizar como noticias confirmadas): Applicantes, 17/11, microdramas frente a Netflix https://applicantes.com/apps-microdramas-reelshort-dramabox/ ; Tecnología Geek, 17/11, informe sobre estafas denunciadas https://tecnologiageek.com/estafas-redes-sociales-86-casos/ . Contrastar metodología y fuente primaria antes de utilizar cifras.
+- Continuidad: Black Friday, ofertas de Pixel/Ryzen/Galaxy Watch del informe anterior; comprobar precios españoles antes de recomendar. Google Maps con Gemini en Europa e afiliación en Reels son pistas del 16/11, no novedades confirmadas de esta ventana.
+- Medios editoriales no equivalen a creadores. Las búsquedas en medios españoles no aportaron suficientes resultados con hora verificable; no se afirma haber revisado exhaustivamente todos los medios solicitados.
 
-### 4. Galaxy Watch Ultra original a 304,95 €
-- **Fuente y fecha original:** Xataka Selección, **16/11/2026 16:31 CET**. https://www.xataka.com/seleccion/cuesta-mitad-que-nuevo-modelo-galaxy-watch-ultra-sigue-siendo-uno-mejores-relojes-wearos
-- **Qué se sabe:** oferta publicada de la primera generación, versión española, a 304,95 €. No confundir con Ultra2; disponibilidad y precio requieren comprobación.
+## Tres guiones originales
+### 1. ¿Tu iPhone falla o se ha caído Apple?
+Gancho: «Antes de borrar tus apps, comprueba esto». Desarrollo: explica que Apple comunicó una interrupción tras una actualización interna; muestra cómo consultar https://www.apple.com/es/support/systemstatus/ y cómo distinguir fallo local y remoto. No afirmar que sigue activa. CTA: «¿Te falló iCloud o la App Store?».
+### 2. GTA VI nominado antes de salir
+Gancho: «¿Cómo puede estar nominado un juego que aún no ha salido?». Desarrollo: presenta la lista de nominados y explica que el jurado puede acceder a juegos antes del lanzamiento; distingue nominación y premio, invita a consultar las reglas oficiales. CTA: «¿Cuál elegirías como GOTY?».
+### 3. Tres comprobaciones antes de comprar en Black Friday
+Gancho: «No mires el porcentaje de descuento hasta comprobar estas tres cosas». Desarrollo: compara histórico de precio, referencia exacta del modelo y vendedor/garantía. Demostración con capturas propias de precios vigentes, sin reutilizar precios antiguos como actuales. CTA: «¿Qué gadget quieres que analicemos?».
 
-**Nota de clasificación:** los puntos 2–4 son publicaciones nuevas de **ofertas comerciales**, no anuncios nuevos de fabricantes. Se han excluido publicaciones sin hora original verificable o fuera de ventana.
-
-## 3. Oportunidades de vídeo (objetivo 5 virales + 5 emergentes)
-**Resultado contrastable hoy: 0/5 virales y 0/5 emergentes.** No se han podido reunir URLs directas de TikTok, Instagram Reels o YouTube Shorts con creador, fecha y métricas nativas verificadas. No se atribuyen visualizaciones, likes, comentarios, compartidos, aceleración o crecimiento reciente sin evidencia. No se reciclan vídeos de días anteriores ni se confunden artículos de medios con vídeos de creadores.
-
-| Grupo | Fichas verificadas | Objetivo |
-|---|---:|---:|
-| Virales / rendimiento excepcional | 0 | 5 |
-| Creadores pequeños y medianos emergentes | 0 | 5 |
-
-**Fichas individuales:** ninguna publicable con el nivel de verificación exigido. **Pistas para investigar, no vídeos verificados:** tutoriales sobre el fallo de Microsoft 365; comparativas reales Ryzen 7800X3D vs alternativas; Pixel 10a vs modelos anteriores; Galaxy Watch Ultra vs Ultra2. Son ideas editoriales, no hallazgos de TikTok/Reels/Shorts.
-
-## 4. Radar editorial: nuevo frente a continuidad
-- **Nuevo dentro de la ventana:** explicación técnica del incidente Microsoft 365 (publicada el 16/11); selecciones comerciales fechadas del 16/11 para Ryzen 7800X3D, Pixel 10a y Galaxy Watch Ultra.
-- **Continuidad, NO noticia de hoy:** gafas Apple sin AR y estudio de IA sanitaria de Apple (tratados en radar 16/11); crisis de Microsoft 365 anterior; Black Friday; dimisión de Jensen Huang. Solo retomar con novedades sustanciales verificadas.
-- **Medios frente a creadores:** Xataka es una fuente editorial y comercial, no se contabiliza como creador emergente. Xataka, Topes de Gama, Andro4all, Applesfera, ComputerHoy, Hipertextual, El Output, ProAndroid, tuexperto, MuyComputer, Geeknetic y HardZone son pistas de seguimiento; no se afirma revisión exhaustiva de todos.
-
-## 5. Tres guiones originales
-### Guion 1 — «Un bug de julio te deja sin Outlook en noviembre»
-- **Gancho (0–3 s):** «¿Cómo puede un error de hace meses tumbar servicios que usas todos los días?».
-- **Desarrollo (4–35 s):** «La explicación técnica publicada por Xataka sobre la reciente caída de Microsoft 365 apunta a un fallo latente introducido en julio. Una combinación de cambios y carga lo hizo aflorar. El problema afectó a servicios como Outlook y Teams. Ojo: la caída no es de hoy; lo nuevo es entender mejor la causa».
-- **CTA:** «¿Te quedaste sin correo o Teams durante la incidencia?».
-- **Visual:** cronología julio → incidencia → explicación del 16/11, sin imágenes de datos privados.
-
-### Guion 2 — «¿Merece la pena un Ryzen 7800X3D por menos de 300 €?»
-- **Gancho:** «Este procesador gaming apareció a 289,99 €, pero no lo compres solo por el descuento».
-- **Desarrollo:** «Xataka publicó una oferta flash del Ryzen 7 7800X3D. Antes de comprar, revisa si sigue vigente, tu placa AM5, la RAM compatible y si tu gráfica será el límite. Un precio rebajado no siempre implica la mejor actualización».
-- **CTA:** «Dime tu procesador y gráfica y comparamos opciones».
-- **Visual:** checklist de compatibilidad; rótulo «Precio publicado 16/11, puede cambiar».
-
-### Guion 3 — «Pixel 10a o Galaxy Watch Ultra: cómo detectar un chollo real»
-- **Gancho:** «Dos ofertas tecnológicas parecen espectaculares. ¿Pero cuánto ahorras de verdad?».
-- **Desarrollo:** «Xataka recogió un Pixel 10a de 128 GB por 399 € y un Galaxy Watch Ultra original por 304,95 €. Compara exactamente generación, capacidad, vendedor, garantía y evolución de precio. El Ultra original no es el Ultra2».
-- **CTA:** «¿Qué producto quieres que comprobemos antes de Black Friday?».
-- **Visual:** dos fichas con fecha 16/11 y etiqueta «Precio no comprobado en tiempo real».
-
-## 6. Acceso y verificación
-- Investigación parcial de web pública y plataformas sociales; no escaneo exhaustivo de TikTok, Instagram ni YouTube.
-- **0 fichas sociales verificables**: no inventar URLs, métricas, fechas, ganchos originales ni crecimientos.
-- Las horas citadas proceden de publicaciones originales mostradas por Xataka; todas dentro de la ventana. No se utiliza la fecha de rastreo como publicación.
-- Las ofertas son contenido comercial con precios históricos no contrastados independientemente; no se garantiza disponibilidad ni precio al leer.
-- El informe se publica pese a las carencias, tal como se solicitó.
+## Limitaciones
+Sin acceso exhaustivo a plataformas ni métricas nativas; no hay ranking social fiable. Noticias con fecha pero sin hora inequívoca se han separado. No se garantiza disponibilidad comercial ni impacto local de incidencias. Informe parcial publicado sin inventar datos.
