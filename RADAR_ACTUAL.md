@@ -1,32 +1,38 @@
-# Radar tecnológico — 18 de noviembre de 2026
+# Radar tecnológico — 19 de noviembre de 2026
 
-**Corte:** 18/11/2026 07:08 CET (Europe/Madrid). Ventana: 17/11 07:08–18/11 07:08 CET. Investigación parcial. Comparado con RADAR_ACTUAL.md del 17/11, que no contenía vídeos verificables.
+**Corte:** 19/11/2026 07:57 CET (Europe/Madrid). **Ventana estricta:** 18/11/2026 07:57–19/11/2026 07:57 CET. Investigación parcial, contrastada con el radar del 18/11; no se repiten sus referencias sociales.
 
-## Hallazgos
-- Apple reconoce una incidencia de servicios causada por una actualización interna.
-- The Game Awards anuncia nominaciones, con GTA VI entre los candidatos.
-- Las aplicaciones de microdramas y la moderación de estafas son pistas editoriales pendientes de verificar hora.
+## Hasta cinco hallazgos
+1. **Instagram permite editar Stories durante 15 minutos después de publicarlas** sin borrarlas: oportunidad de tutorial rápido y útil.
+2. **YouTube empieza a incorporar co-visualizaciones estimadas en televisores** a contadores públicos, incluso Shorts: cuidado al interpretar crecimiento de views.
+3. **GTA VI en PS5 requiere firmware 14.23**, según información de soporte de PlayStation recogida por Engadget: oportunidad de vídeo práctico para el lanzamiento.
+4. **Xataka describe a Antonio Roma**, artista flamenco virtual generado con IA que tiene un concierto programado en Madrid: debate local sobre IA y artistas.
+5. **Waymo pausó temporalmente su servicio en San Francisco por inundaciones**: historia visual de límites de los robotaxis; impacto localizado en EE. UU.
 
-## Noticias verificadas
-1. **Apple: interrupción de servicios.** The Guardian, publicación original 17/11 20:06 CET, actualización 23:23 CET (14:06 y 17:23 EST). Apple atribuyó los problemas a una actualización interna e informó de recuperación progresiva. Entre los servicios afectados se mencionan App Store e iCloud. Google negó evidencia de una caída generalizada de Gmail. No afirmar que España sufrió idéntico impacto ni que fue un ciberataque. Fuente: https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption
-2. **The Game Awards 2026: nominados.** Anuncio del 17/11 a las 18:00 CET; cobertura de MobileSyrup a las 18:20 CET. GTA VI, 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem y The Legend of Zelda: Ocarina of Time aparecen como candidatos a juego del año según HUDWire. GTA VI está nominado antes de su lanzamiento comercial previsto; no es ganador. Fuente: https://hudwire.com/the-game-awards-2026/ (actualización del 17/11, hora del anuncio explícita); calendario corroborado por https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november . Lista oficial: https://thegameawards.com/
+## Noticias verificadas dentro de la ventana, ordenadas por potencial para España
+1. **Instagram Stories editables.** Engadget, 18/11 14:14 EST = **18/11 20:14 CET**. Según Adam Mosseri, existe una ventana de 15 minutos para corregir textos, música u otros elementos conservando interacciones. No confundir Stories con Reels. https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/
+2. **YouTube contabilizará co-visualizaciones en TV.** Engadget, 18/11 01:08 EST = **18/11 07:08 CET**, **FUERA** de la ventana por 49 minutos; se conserva exclusivamente como **continuidad editorial**, no como noticia nueva. https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/
+3. **PS5 necesita actualización para GTA VI.** Engadget, 18/11 08:01 EST = **18/11 14:01 CET**. La versión 14.23 se presenta como requisito para jugar; no atribuir el motivo a un parche antipiratería sin confirmación de Sony. https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi/
+4. **Artista virtual de flamenco en Madrid.** Xataka, **18/11 20:01 CET**. Antonio Roma, personaje musical generado con IA, tiene concierto previsto para febrero de 2027 con voz y músicos humanos. Las cifras de seguidores/entradas son atribuidas al medio, no auditadas independientemente. https://www.xataka.com/musica/antonio-roma-tiene-350-000-seguidores-no-existe-loco-que-va-a-dar-concierto-madrid-500-espectadores/amp
+5. **Waymo detiene servicio por calles inundadas.** Engadget, 18/11 18:23 EST = **19/11 00:23 CET**. Pausa temporal localizada en San Francisco; no generalizar a toda la flota. https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/
+6. **Gafas Xreal Aura: análisis.** Engadget, 18/11 14:30 EST = **18/11 20:30 CET**. Reseña (no lanzamiento): destaca pantalla micro-OLED y problemas de madurez de Android XR; precio citado 1.099 USD, no precio confirmado en España. https://www.engadget.com/2320945/xreal-aura-review/
+7. **Voyager 1 a un día-luz de la Tierra, según estimaciones NASA.** Engadget, 18/11 06:49 EST = **18/11 12:49 CET**. El hito todavía requería confirmación por comunicación de la sonda en el momento de la noticia. https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/
 
-## Oportunidades sociales: 5+5
-**Virales: 0/5; emergentes: 0/5.** La búsqueda pública de TikTok, Reels y Shorts no devolvió fichas suficientemente contrastables con enlaces directos, fecha, creador y métricas. No hay datos verificables de visualizaciones, likes, comentarios, compartidos, velocidad ni ganchos originales. No se reutilizan referencias antiguas. Las ideas siguientes son editoriales, no vídeos virales observados.
+## Oportunidades sociales (objetivo 5 virales + 5 emergentes)
+**Vídeos virales verificados: 0/5. Creadores pequeños/medianos con vídeo verificado: 0/5.** Se intentó localizar referencias públicas recientes de TikTok, Instagram Reels y YouTube Shorts; los resultados accesibles no permitieron contrastar simultáneamente vídeo directo, autor, fecha y métricas. TikTok restringe el acceso automatizado y los resultados encontrados de TikTok Shop son productos, no vídeos. No hay fichas de vídeo válidas, ni métricas de views/likes/comentarios/compartidos/velocidad, ni ganchos observados verificables. No se presentan diez ideas editoriales como si fueran diez vídeos virales. **No se afirma haber escaneado exhaustivamente las tres plataformas.**
 
-## Radar editorial
-- Nuevo: incidencia Apple y nominaciones TGA.
-- Fecha sin hora original verificada (no contabilizar como noticias confirmadas): Applicantes, 17/11, microdramas frente a Netflix https://applicantes.com/apps-microdramas-reelshort-dramabox/ ; Tecnología Geek, 17/11, informe sobre estafas denunciadas https://tecnologiageek.com/estafas-redes-sociales-86-casos/ . Contrastar metodología y fuente primaria antes de utilizar cifras.
-- Continuidad: Black Friday, ofertas de Pixel/Ryzen/Galaxy Watch del informe anterior; comprobar precios españoles antes de recomendar. Google Maps con Gemini en Europa e afiliación en Reels son pistas del 16/11, no novedades confirmadas de esta ventana.
-- Medios editoriales no equivalen a creadores. Las búsquedas en medios españoles no aportaron suficientes resultados con hora verificable; no se afirma haber revisado exhaustivamente todos los medios solicitados.
+## Radar editorial — nuevo frente a continuidad
+**Nuevo y prioritario:** edición de Stories (tutorial), firmware PS5/GTA VI (guía práctica), cantante IA en Madrid (debate), robotaxis e inundaciones (explicación), gafas Android XR (análisis crítico), Voyager (curiosidad).
+**Continuidad, no noticia de la ventana:** cambio de conteo de vistas de YouTube en televisores (publicación 18/11 07:08 CET, anterior al corte); caída de Apple y nominaciones de The Game Awards (radar 18/11); Xiaomi 18 Pro presentado en cobertura del 17/11 (no relanzarlo como noticia nueva): https://www.engadget.com/2319013/xiaomi-18-pro-vibe-coded-apps-launch-hands-on/
+**Pistas de medios:** Xataka aporta el caso de Antonio Roma; Engadget las noticias internacionales con hora contrastable. No se pudo verificar una selección equivalente de publicaciones con hora de Topes de Gama, Andro4all, Applesfera, ComputerHoy, Hipertextual, El Output, ProAndroid, tuexperto, MuyComputer, Geeknetic y HardZone; son medios editoriales, no creadores sociales individuales.
 
-## Tres guiones originales
-### 1. ¿Tu iPhone falla o se ha caído Apple?
-Gancho: «Antes de borrar tus apps, comprueba esto». Desarrollo: explica que Apple comunicó una interrupción tras una actualización interna; muestra cómo consultar https://www.apple.com/es/support/systemstatus/ y cómo distinguir fallo local y remoto. No afirmar que sigue activa. CTA: «¿Te falló iCloud o la App Store?».
-### 2. GTA VI nominado antes de salir
-Gancho: «¿Cómo puede estar nominado un juego que aún no ha salido?». Desarrollo: presenta la lista de nominados y explica que el jurado puede acceder a juegos antes del lanzamiento; distingue nominación y premio, invita a consultar las reglas oficiales. CTA: «¿Cuál elegirías como GOTY?».
-### 3. Tres comprobaciones antes de comprar en Black Friday
-Gancho: «No mires el porcentaje de descuento hasta comprobar estas tres cosas». Desarrollo: compara histórico de precio, referencia exacta del modelo y vendedor/garantía. Demostración con capturas propias de precios vigentes, sin reutilizar precios antiguos como actuales. CTA: «¿Qué gadget quieres que analicemos?».
+## Tres guiones originales (20–40 segundos)
+### 1. «¿Te has equivocado en una Story? Ya no hace falta borrarla»
+**Gancho:** «Instagram acaba de solucionar uno de sus fallos más molestos». **Desarrollo:** muestra con una Story propia cómo entrar en editar dentro de los 15 minutos posteriores a la publicación; aclara que no es una función de Reels y que puede desplegarse gradualmente. **CTA:** «¿Qué otra función le pedirías a Instagram?».
+### 2. «Antes de abrir GTA VI en PS5, revisa esto»
+**Gancho:** «Puedes tener el juego descargado y aun así no poder abrirlo». **Desarrollo:** enseña la ruta de actualización del software de sistema de PS5; cita la versión 14.23 y comprueba la información oficial de Sony antes de publicar. No especular con vulnerabilidades como causa confirmada. **CTA:** «¿Lo jugarás de lanzamiento o esperarás?».
+### 3. «Un cantante que no existe dará un concierto en Madrid»
+**Gancho:** «Tiene concierto, entradas y público… pero el artista es virtual». **Desarrollo:** explica Antonio Roma y distingue avatar generado con IA de voz y banda humanas. Plantea la diferencia entre creatividad asistida y sustitución de intérpretes. **CTA:** «¿Pagarías por ver a un artista virtual?».
 
-## Limitaciones
-Sin acceso exhaustivo a plataformas ni métricas nativas; no hay ranking social fiable. Noticias con fecha pero sin hora inequívoca se han separado. No se garantiza disponibilidad comercial ni impacto local de incidencias. Informe parcial publicado sin inventar datos.
+## Advertencias y metodología
+Noticias incluidas solo cuando la hora original permite comprobar el intervalo; conversión EST→CET (+6 h) en noviembre. La noticia sobre YouTube se deja fuera de la sección de novedades confirmadas por 49 minutos. Sin acceso a estadísticas nativas de TikTok/Reels/Shorts: no se pueden afirmar tendencias, velocidad, engagement ni tamaño de creadores. Las cifras de fuentes secundarias no equivalen a métricas sociales verificadas. Este radar es parcial y no inventa referencias. Enlaces a noticias son enlaces editoriales, no enlaces de vídeos sociales.
