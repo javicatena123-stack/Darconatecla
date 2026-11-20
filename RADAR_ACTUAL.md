@@ -1,38 +1,46 @@
-# Radar tecnológico — 19 de noviembre de 2026
+# Radar tecnológico — 20 de noviembre de 2026
 
-**Corte:** 19/11/2026 07:57 CET (Europe/Madrid). **Ventana estricta:** 18/11/2026 07:57–19/11/2026 07:57 CET. Investigación parcial, contrastada con el radar del 18/11; no se repiten sus referencias sociales.
+**Corte:** 20/11/2026 07:19 CET (Europe/Madrid). **Ventana estricta de noticias:** 19/11/2026 07:19–20/11/2026 07:19 CET. **Estado:** investigación parcial; no se sustituyen verificaciones por suposiciones.
 
-## Hasta cinco hallazgos
-1. **Instagram permite editar Stories durante 15 minutos después de publicarlas** sin borrarlas: oportunidad de tutorial rápido y útil.
-2. **YouTube empieza a incorporar co-visualizaciones estimadas en televisores** a contadores públicos, incluso Shorts: cuidado al interpretar crecimiento de views.
-3. **GTA VI en PS5 requiere firmware 14.23**, según información de soporte de PlayStation recogida por Engadget: oportunidad de vídeo práctico para el lanzamiento.
-4. **Xataka describe a Antonio Roma**, artista flamenco virtual generado con IA que tiene un concierto programado en Madrid: debate local sobre IA y artistas.
-5. **Waymo pausó temporalmente su servicio en San Francisco por inundaciones**: historia visual de límites de los robotaxis; impacto localizado en EE. UU.
+## 1. Hasta cinco hallazgos
+1. **Black Friday y compras tecnológicas:** oportunidad de explicar cómo comprobar precios históricos y evitar falsas gangas; es una propuesta editorial, no un viral medido.
+2. **Premios Computer Hoy 2026:** la votación sigue anunciada hasta el 22/11/2026 a las 23:59; fuente original de 28/10, por tanto **continuidad, no noticia de las últimas 24 h**: https://computerhoy.20minutos.es/branded/computer-hoy-premios-2026_7051458_4.html
+3. **Premios Xataka 2026:** resultados publicados el 17/11 a las 23:04, fuera de ventana; posibilidad de comparar ganadores y necesidades reales del comprador: https://www.xataka.com/xataka/90-productos-tecnologicos-ano-estos-ganadores-premios-xataka-verisure-2026/amp
+4. **TDT y DVB-T2:** explicación útil sobre compatibilidad y resintonización, pero la información enlazada es del 5/11 y no constituye novedad de hoy: https://computerhoy.20minutos.es/entretenimiento/apagon-tdt-resintonizacion-dvb-t2-canales-uhd-4k-septima-todo-que-debes-saber-no-perderte-nada_7056403_0.html
 
-## Noticias verificadas dentro de la ventana, ordenadas por potencial para España
-1. **Instagram Stories editables.** Engadget, 18/11 14:14 EST = **18/11 20:14 CET**. Según Adam Mosseri, existe una ventana de 15 minutos para corregir textos, música u otros elementos conservando interacciones. No confundir Stories con Reels. https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/
-2. **YouTube contabilizará co-visualizaciones en TV.** Engadget, 18/11 01:08 EST = **18/11 07:08 CET**, **FUERA** de la ventana por 49 minutos; se conserva exclusivamente como **continuidad editorial**, no como noticia nueva. https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/
-3. **PS5 necesita actualización para GTA VI.** Engadget, 18/11 08:01 EST = **18/11 14:01 CET**. La versión 14.23 se presenta como requisito para jugar; no atribuir el motivo a un parche antipiratería sin confirmación de Sony. https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi/
-4. **Artista virtual de flamenco en Madrid.** Xataka, **18/11 20:01 CET**. Antonio Roma, personaje musical generado con IA, tiene concierto previsto para febrero de 2027 con voz y músicos humanos. Las cifras de seguidores/entradas son atribuidas al medio, no auditadas independientemente. https://www.xataka.com/musica/antonio-roma-tiene-350-000-seguidores-no-existe-loco-que-va-a-dar-concierto-madrid-500-espectadores/amp
-5. **Waymo detiene servicio por calles inundadas.** Engadget, 18/11 18:23 EST = **19/11 00:23 CET**. Pausa temporal localizada en San Francisco; no generalizar a toda la flota. https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/
-6. **Gafas Xreal Aura: análisis.** Engadget, 18/11 14:30 EST = **18/11 20:30 CET**. Reseña (no lanzamiento): destaca pantalla micro-OLED y problemas de madurez de Android XR; precio citado 1.099 USD, no precio confirmado en España. https://www.engadget.com/2320945/xreal-aura-review/
-7. **Voyager 1 a un día-luz de la Tierra, según estimaciones NASA.** Engadget, 18/11 06:49 EST = **18/11 12:49 CET**. El hito todavía requería confirmación por comunicación de la sonda en el momento de la noticia. https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/
+## 2. Noticias confirmadas en las últimas 24 horas
+**Ninguna suficientemente verificada en esta ejecución.** Las búsquedas realizadas no permitieron confirmar simultáneamente fecha/hora original, contenido y pertenencia a la ventana. No se confunde fecha de rastreo con fecha de publicación.
 
-## Oportunidades sociales (objetivo 5 virales + 5 emergentes)
-**Vídeos virales verificados: 0/5. Creadores pequeños/medianos con vídeo verificado: 0/5.** Se intentó localizar referencias públicas recientes de TikTok, Instagram Reels y YouTube Shorts; los resultados accesibles no permitieron contrastar simultáneamente vídeo directo, autor, fecha y métricas. TikTok restringe el acceso automatizado y los resultados encontrados de TikTok Shop son productos, no vídeos. No hay fichas de vídeo válidas, ni métricas de views/likes/comentarios/compartidos/velocidad, ni ganchos observados verificables. No se presentan diez ideas editoriales como si fueran diez vídeos virales. **No se afirma haber escaneado exhaustivamente las tres plataformas.**
+## 3. Diez oportunidades priorizadas (objetivo 5 virales + 5 emergentes)
+**0/5 vídeos virales verificados; 0/5 vídeos de creadores pequeños/medianos verificados.** No se presentan diez vídeos ficticios ni se reutilizan vídeos del informe del 19/11. La tabla siguiente recoge **ideas editoriales**, no vídeos observados ni un ranking de crecimiento social.
 
-## Radar editorial — nuevo frente a continuidad
-**Nuevo y prioritario:** edición de Stories (tutorial), firmware PS5/GTA VI (guía práctica), cantante IA en Madrid (debate), robotaxis e inundaciones (explicación), gafas Android XR (análisis crítico), Voyager (curiosidad).
-**Continuidad, no noticia de la ventana:** cambio de conteo de vistas de YouTube en televisores (publicación 18/11 07:08 CET, anterior al corte); caída de Apple y nominaciones de The Game Awards (radar 18/11); Xiaomi 18 Pro presentado en cobertura del 17/11 (no relanzarlo como noticia nueva): https://www.engadget.com/2319013/xiaomi-18-pro-vibe-coded-apps-launch-hands-on/
-**Pistas de medios:** Xataka aporta el caso de Antonio Roma; Engadget las noticias internacionales con hora contrastable. No se pudo verificar una selección equivalente de publicaciones con hora de Topes de Gama, Andro4all, Applesfera, ComputerHoy, Hipertextual, El Output, ProAndroid, tuexperto, MuyComputer, Geeknetic y HardZone; son medios editoriales, no creadores sociales individuales.
+| Prioridad | Oportunidad original | Tipo | Validación pendiente |
+|---|---|---|---|
+| 1 | Cómo detectar una falsa rebaja en Black Friday | Tutorial | Precio histórico del producto concreto |
+| 2 | ¿Merece la pena el móvil ganador de un premio? | Comparativa | Modelo, precio y prueba independiente |
+| 3 | Tu televisor y DVB-T2: compruébalo en 20 segundos | Tutorial | Compatibilidad del modelo mostrado |
+| 4 | Tres accesorios que no compraría sin revisar esto | Checklist | Pruebas y precios actuales |
+| 5 | IA en móviles: demostración real frente a promesa | Prueba | Función disponible en España |
+| 6 | Móvil económico contra gama alta en foto nocturna | Prueba | Grabación original |
+| 7 | Windows: ajuste de privacidad explicado | Tutorial | Versión exacta de Windows |
+| 8 | Batería de smartwatch: test de un día real | Experimento | Registro propio |
+| 9 | ¿Qué cambia al resintonizar la TDT? | Explicación | Señales locales y dispositivo |
+| 10 | Juego nuevo: rendimiento en portátil antiguo | Benchmark | Hardware y medición propios |
 
-## Tres guiones originales (20–40 segundos)
-### 1. «¿Te has equivocado en una Story? Ya no hace falta borrarla»
-**Gancho:** «Instagram acaba de solucionar uno de sus fallos más molestos». **Desarrollo:** muestra con una Story propia cómo entrar en editar dentro de los 15 minutos posteriores a la publicación; aclara que no es una función de Reels y que puede desplegarse gradualmente. **CTA:** «¿Qué otra función le pedirías a Instagram?».
-### 2. «Antes de abrir GTA VI en PS5, revisa esto»
-**Gancho:** «Puedes tener el juego descargado y aun así no poder abrirlo». **Desarrollo:** enseña la ruta de actualización del software de sistema de PS5; cita la versión 14.23 y comprueba la información oficial de Sony antes de publicar. No especular con vulnerabilidades como causa confirmada. **CTA:** «¿Lo jugarás de lanzamiento o esperarás?».
-### 3. «Un cantante que no existe dará un concierto en Madrid»
-**Gancho:** «Tiene concierto, entradas y público… pero el artista es virtual». **Desarrollo:** explica Antonio Roma y distingue avatar generado con IA de voz y banda humanas. Plantea la diferencia entre creatividad asistida y sustitución de intérpretes. **CTA:** «¿Pagarías por ver a un artista virtual?».
+## 4. Fichas de vídeos y métricas
+**No hay fichas individuales publicables con garantías.** Para TikTok, Instagram Reels y YouTube Shorts no se obtuvieron en esta ejecución enlaces directos de publicaciones individuales acompañados de fecha original y métricas nativas comprobables. Por tanto: creador, URL del vídeo, views, likes, comentarios, compartidos, velocidad, rendimiento relativo y gancho original quedan **no verificados**. No se puede afirmar viralidad reciente a partir de visitas acumuladas ni catalogar como emergente a un creador sin comparar su tamaño y rendimiento.
 
-## Advertencias y metodología
-Noticias incluidas solo cuando la hora original permite comprobar el intervalo; conversión EST→CET (+6 h) en noviembre. La noticia sobre YouTube se deja fuera de la sección de novedades confirmadas por 49 minutos. Sin acceso a estadísticas nativas de TikTok/Reels/Shorts: no se pueden afirmar tendencias, velocidad, engagement ni tamaño de creadores. Las cifras de fuentes secundarias no equivalen a métricas sociales verificadas. Este radar es parcial y no inventa referencias. Enlaces a noticias son enlaces editoriales, no enlaces de vídeos sociales.
+## 5. Radar editorial: nuevo frente a continuidad
+- **Nuevo confirmado en ventana:** ninguno validado.
+- **Continuidad:** premios tecnológicos 2026, transición TDT/DVB-T2 y preparación de compras de Black Friday. Son temas anteriores o estacionales; no se presentan como estrenos de hoy.
+- **Medios, no creadores:** Computer Hoy y Xataka son fuentes editoriales. No se computan como perfiles emergentes de redes.
+
+## 6. Tres guiones originales
+**Guion 1 — Black Friday.** Gancho: «Ese 50 % de descuento puede no ser un chollo». Desarrollo: «Antes de comprar, mira el historial del precio, compara el modelo exacto y comprueba si la rebaja es frente al precio habitual o al recomendado». CTA: «¿Qué gadget quieres que comprobemos?».
+
+**Guion 2 — Premios tecnológicos.** Gancho: «El mejor móvil del año no tiene por qué ser el mejor para ti». Desarrollo: «Los premios valoran distintas categorías; si priorizas batería, cámara o precio, la elección puede cambiar. Compara criterios y pruebas antes de pagar». CTA: «¿Qué valoras más: batería, cámara o rendimiento?».
+
+**Guion 3 — TDT.** Gancho: «¿Tienes que tirar tu televisor por el cambio de la TDT?». Desarrollo: «No necesariamente. La transición es por fases; comprueba compatibilidad DVB-T2 y HEVC, resintoniza y distingue canales HD de UHD». CTA: «Dime el modelo de tu tele y te explico qué mirar».
+
+## 7. Advertencias y metodología
+Se consultaron resultados públicos de medios tecnológicos españoles, pero no se pudo completar una verificación fiable de noticias de las últimas 24 h ni una muestra nativa de vídeos. Los enlaces anteriores son **artículos fechados fuera de ventana**, no enlaces de Shorts/Reels/TikToks. No se atribuyen cifras, creadores ni ganchos que no se observaron. El archivo anterior, de 19/11, se revisó para evitar repetir vídeos. Este informe parcial se publica expresamente en vez de inventar diez oportunidades verificadas.
