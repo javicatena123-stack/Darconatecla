@@ -1,46 +1,47 @@
-# Radar tecnológico — 20 de noviembre de 2026
+# Radar tecnológico — 21 de noviembre de 2026
 
-**Corte:** 20/11/2026 07:19 CET (Europe/Madrid). **Ventana estricta de noticias:** 19/11/2026 07:19–20/11/2026 07:19 CET. **Estado:** investigación parcial; no se sustituyen verificaciones por suposiciones.
+**Ejecución:** 21/11/2026 07:49 CET (Europe/Madrid). **Ventana estricta:** 20/11/2026 07:49–21/11/2026 07:49 CET. **Estado:** parcial; no se inventan noticias, vídeos ni métricas.
 
 ## 1. Hasta cinco hallazgos
-1. **Black Friday y compras tecnológicas:** oportunidad de explicar cómo comprobar precios históricos y evitar falsas gangas; es una propuesta editorial, no un viral medido.
-2. **Premios Computer Hoy 2026:** la votación sigue anunciada hasta el 22/11/2026 a las 23:59; fuente original de 28/10, por tanto **continuidad, no noticia de las últimas 24 h**: https://computerhoy.20minutos.es/branded/computer-hoy-premios-2026_7051458_4.html
-3. **Premios Xataka 2026:** resultados publicados el 17/11 a las 23:04, fuera de ventana; posibilidad de comparar ganadores y necesidades reales del comprador: https://www.xataka.com/xataka/90-productos-tecnologicos-ano-estos-ganadores-premios-xataka-verisure-2026/amp
-4. **TDT y DVB-T2:** explicación útil sobre compatibilidad y resintonización, pero la información enlazada es del 5/11 y no constituye novedad de hoy: https://computerhoy.20minutos.es/entretenimiento/apagon-tdt-resintonizacion-dvb-t2-canales-uhd-4k-septima-todo-que-debes-saber-no-perderte-nada_7056403_0.html
+1. **Black Friday:** explicar cómo verificar el precio histórico y el vendedor antes de comprar tecnología. Oportunidad editorial, no tendencia viral medida.
+2. **Premios Xataka Verisure 2026:** comparar ganadores con necesidades reales y presupuestos. Resultados del 17/11; continuidad, no noticia nueva. https://www.xataka.com/autor/kyra
+3. **TDT DVB-T2:** aclarar que la transición española es gradual y no un apagón total inmediato. Fuente del 20/08/2026, no actualidad de 24 horas: https://computerhoy.20minutos.es/entretenimiento/tdt-no-dara-salto-completo-dvb-t2-noviembre-asi-sera-primera-fase-cambio_7027709_0.html
+4. **Premios Computer Hoy:** seguimiento editorial de la votación anunciada hasta el 22/11, pendiente de confirmar su estado en la web oficial. Referencia previa: https://computerhoy.20minutos.es/branded/computer-hoy-premios-2026_7051458_4.html
 
 ## 2. Noticias confirmadas en las últimas 24 horas
-**Ninguna suficientemente verificada en esta ejecución.** Las búsquedas realizadas no permitieron confirmar simultáneamente fecha/hora original, contenido y pertenencia a la ventana. No se confunde fecha de rastreo con fecha de publicación.
+**Ninguna noticia española de tecnología de consumo con fecha y hora original suficientemente verificadas en esta investigación.** Se excluyen artículos antiguos, fichas de autor y fechas de rastreo. No se afirma que no hayan ocurrido noticias.
 
-## 3. Diez oportunidades priorizadas (objetivo 5 virales + 5 emergentes)
-**0/5 vídeos virales verificados; 0/5 vídeos de creadores pequeños/medianos verificados.** No se presentan diez vídeos ficticios ni se reutilizan vídeos del informe del 19/11. La tabla siguiente recoge **ideas editoriales**, no vídeos observados ni un ranking de crecimiento social.
+## 3. Oportunidades ordenadas: objetivo 5 virales + 5 emergentes
+**Virales confirmados: 0/5. Emergentes confirmados: 0/5.** No se localizaron diez vídeos que permitieran comprobar simultáneamente URL directa, fecha y métricas nativas. Las siguientes son **ideas originales, no vídeos observados ni señales de viralidad**:
+1. [Idea, sin viral verificado] Tres trampas de los descuentos tecnológicos.
+2. [Idea, sin viral verificado] ¿Móvil premiado o móvil que te conviene?
+3. [Idea, sin viral verificado] Tu tele y el cambio DVB-T2: comprobación en 20 segundos.
+4. [Idea, sin viral verificado] Qué revisar antes de comprar un portátil rebajado.
+5. [Idea, sin viral verificado] Cómo detectar reseñas sospechosas de gadgets.
+6. [Idea, sin creador emergente verificado] Prueba real de autonomía de un móvil económico.
+7. [Idea, sin creador emergente verificado] Accesorio USB-C barato: qué promete y qué hace.
+8. [Idea, sin creador emergente verificado] Comparación de dos auriculares asequibles en calle.
+9. [Idea, sin creador emergente verificado] Un ajuste de privacidad útil en Android.
+10. [Idea, sin creador emergente verificado] Una función de accesibilidad útil de iOS.
 
-| Prioridad | Oportunidad original | Tipo | Validación pendiente |
-|---|---|---|---|
-| 1 | Cómo detectar una falsa rebaja en Black Friday | Tutorial | Precio histórico del producto concreto |
-| 2 | ¿Merece la pena el móvil ganador de un premio? | Comparativa | Modelo, precio y prueba independiente |
-| 3 | Tu televisor y DVB-T2: compruébalo en 20 segundos | Tutorial | Compatibilidad del modelo mostrado |
-| 4 | Tres accesorios que no compraría sin revisar esto | Checklist | Pruebas y precios actuales |
-| 5 | IA en móviles: demostración real frente a promesa | Prueba | Función disponible en España |
-| 6 | Móvil económico contra gama alta en foto nocturna | Prueba | Grabación original |
-| 7 | Windows: ajuste de privacidad explicado | Tutorial | Versión exacta de Windows |
-| 8 | Batería de smartwatch: test de un día real | Experimento | Registro propio |
-| 9 | ¿Qué cambia al resintonizar la TDT? | Explicación | Señales locales y dispositivo |
-| 10 | Juego nuevo: rendimiento en portátil antiguo | Benchmark | Hardware y medición propios |
-
-## 4. Fichas de vídeos y métricas
-**No hay fichas individuales publicables con garantías.** Para TikTok, Instagram Reels y YouTube Shorts no se obtuvieron en esta ejecución enlaces directos de publicaciones individuales acompañados de fecha original y métricas nativas comprobables. Por tanto: creador, URL del vídeo, views, likes, comentarios, compartidos, velocidad, rendimiento relativo y gancho original quedan **no verificados**. No se puede afirmar viralidad reciente a partir de visitas acumuladas ni catalogar como emergente a un creador sin comparar su tamaño y rendimiento.
+## 4. Fichas de vídeos
+**No hay fichas de vídeos verificables en esta ejecución.** Para TikTok, Instagram Reels y YouTube Shorts no se pudieron contrastar creadores concretos, enlaces directos a publicaciones, fecha, visualizaciones, me gusta, comentarios, compartidos, velocidad ni rendimiento relativo. No se atribuyen ganchos a vídeos no comprobados. Las diez ideas anteriores son adaptaciones originales propuestas, no fichas de contenido externo.
 
 ## 5. Radar editorial: nuevo frente a continuidad
-- **Nuevo confirmado en ventana:** ninguno validado.
-- **Continuidad:** premios tecnológicos 2026, transición TDT/DVB-T2 y preparación de compras de Black Friday. Son temas anteriores o estacionales; no se presentan como estrenos de hoy.
-- **Medios, no creadores:** Computer Hoy y Xataka son fuentes editoriales. No se computan como perfiles emergentes de redes.
+- **Nuevo confirmado en ventana:** sin hallazgos que superen el criterio de verificación.
+- **Continuidad:** Black Friday, ganadores Premios Xataka, transición DVB-T2 y votaciones de Computer Hoy. No confundir con noticias de hoy.
+- **Medios consultados como pistas:** Xataka, Computer Hoy y Andro4all; son medios, no creadores de Shorts/Reels/TikTok. La búsqueda pública fue parcial y no un escaneo exhaustivo.
 
 ## 6. Tres guiones originales
-**Guion 1 — Black Friday.** Gancho: «Ese 50 % de descuento puede no ser un chollo». Desarrollo: «Antes de comprar, mira el historial del precio, compara el modelo exacto y comprueba si la rebaja es frente al precio habitual o al recomendado». CTA: «¿Qué gadget quieres que comprobemos?».
+**Guion 1 — Black Friday.** Gancho: «Ese 50 % de descuento puede no ser una ganga». Desarrollo: «Antes de pagar, revisa el historial de precio, el modelo exacto, quién vende y las condiciones de devolución. Un porcentaje enorme no garantiza el mejor precio». CTA: «¿Quieres que revisemos una oferta concreta? Déjala en comentarios».
 
-**Guion 2 — Premios tecnológicos.** Gancho: «El mejor móvil del año no tiene por qué ser el mejor para ti». Desarrollo: «Los premios valoran distintas categorías; si priorizas batería, cámara o precio, la elección puede cambiar. Compara criterios y pruebas antes de pagar». CTA: «¿Qué valoras más: batería, cámara o rendimiento?».
+**Guion 2 — Premios tecnológicos.** Gancho: «El mejor móvil del año no tiene por qué ser el mejor para ti». Desarrollo: «Un premio evalúa una categoría; tu compra depende de batería, cámara, soporte, tamaño y precio. Compara esas cinco cosas antes de decidir». CTA: «¿Qué priorizas tú en un móvil?».
 
-**Guion 3 — TDT.** Gancho: «¿Tienes que tirar tu televisor por el cambio de la TDT?». Desarrollo: «No necesariamente. La transición es por fases; comprueba compatibilidad DVB-T2 y HEVC, resintoniza y distingue canales HD de UHD». CTA: «Dime el modelo de tu tele y te explico qué mirar».
+**Guion 3 — TDT.** Gancho: «¿Tienes que tirar tu tele por el DVB-T2? No tan rápido». Desarrollo: «La transición se plantea por fases. Comprueba la compatibilidad de tu televisor o receptor y los canales disponibles antes de gastar dinero». CTA: «Dinos el modelo de tu tele y te explicamos qué mirar».
 
-## 7. Advertencias y metodología
-Se consultaron resultados públicos de medios tecnológicos españoles, pero no se pudo completar una verificación fiable de noticias de las últimas 24 h ni una muestra nativa de vídeos. Los enlaces anteriores son **artículos fechados fuera de ventana**, no enlaces de Shorts/Reels/TikToks. No se atribuyen cifras, creadores ni ganchos que no se observaron. El archivo anterior, de 19/11, se revisó para evitar repetir vídeos. Este informe parcial se publica expresamente en vez de inventar diez oportunidades verificadas.
+## 7. Advertencias y límites
+- Ventana estricta aplicada a noticias: 20/11 07:49 a 21/11 07:49, hora peninsular española.
+- No se han verificado métricas nativas ni crecimiento reciente en TikTok, Instagram o YouTube. **Popularidad acumulada no equivale a crecimiento de hoy**.
+- No se han confirmado noticias con hora original dentro de ventana; no se rellena el apartado con noticias antiguas.
+- La investigación fue parcial y las propuestas de contenido no son tendencias medidas.
+- El radar anterior se consultó para evitar repetir vídeos: no se reutilizó ninguno.
