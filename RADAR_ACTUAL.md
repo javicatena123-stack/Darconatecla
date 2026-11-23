@@ -1,55 +1,75 @@
-# Radar tecnológico — 22 de noviembre de 2026
+# Radar tecnológico español — 23 de noviembre de 2026
 
-Ventana: 21/11 07:35–22/11 07:35 CET. Estado parcial.
+**Estado:** informe parcial publicado con fuentes comprobables. **Corte:** 23/11/2026, 07:27 CET. **Ventana estricta:** 22/11/2026 07:27–23/11/2026 07:27 (Europe/Madrid). Las noticias con hora de publicación acreditada están separadas de contenidos de continuidad. No se inventan métricas de redes sociales.
 
-## Noticias y seguimiento
-- WhatsApp: [EQsNotas, 21/11 20:30 hora local](https://www.eqsnotas.com/actualidad/-que-celulares-se-quedaran-sin-whatsapp-en-2026---los-modelos-android-y-iphone-afectados_a6afaf4e1f3e6d09b5005866c). Artículo reciente sobre incompatibilidades desde el 16/11; no es un cambio nuevo. Confirmar modelos con documentación oficial antes de publicar.
-- [Google Wallet en iOS, YugaTech, 21/11](https://www.yugatech.com/news/google-wallet-now-available-on-ios-in-the-us/): pases, entradas y fidelización en EE. UU., sin pago NFC; España no confirmada. Sin hora exacta ni fecha original del anuncio verificada.
-- [TCL P80, Gadget Pilipinas, 21/11](https://www.gadgetpilipinas.net/2026/11/tcl-p80-series-nxtpaper-amoled/): lanzamiento filipino de P80 Pro/Ultra con AMOLED de 120 Hz y tecnología NXTPAPER; 5800 mAh según el medio. Sin disponibilidad española ni hora exacta confirmadas.
-- Seguimiento [Huawei Mate 90 Air, Xataka Móvil, 20/11](https://www.xatakamovil.com/mercado/apple-samsung-recortaron-bateria-camaras-para-hacer-moviles-ultrafinos-huawei-ensena-como-su-nueva-formula-mate-90-air): presentación anunciada en China para el 24/11. Fuera de ventana.
-- Seguimiento [Black Friday, Xataka, 20/11](https://www.xataka.com/seleccion/mejores-chollos-black-friday-amazon-hoy-20-noviembre-seis-productos-descuentos-65): comprobar precios vigentes e históricos antes de recomendar. Fuera de ventana.
+## Noticias verificadas en las últimas 24 horas
 
-Noticias originales estrictamente verificadas dentro de ventana: 0. No confundir publicaciones secundarias recientes con anuncios nuevos.
+### 1. Google Gemini: confusión entre sus modelos de programación
+- **Fuente:** Xataka, Iván Linares, **22/11/2026 13:00:29 UTC = 14:00:29 CET**.
+- **Enlace:** https://www.xataka.com/robotica-e-ia/google-ha-convertido-gemini-tabla-periodica-problema-que-ahora-hay-dos-modelos-programacion-ninguna-pista-cual-elegir
+- **Hecho contrastado:** el análisis describe la proliferación de nombres Argon, Carbon, Hydrogen y Neon y la dificultad de elegir modelo para programar.
+- **Ángulo para España:** «¿Por qué Gemini tiene tantos modelos y cuál necesitas realmente?». Evitar presentar las conclusiones editoriales como declaraciones oficiales de Google.
+- **Métricas:** 6 comentarios mostrados en la página al consultarla; no son visualizaciones ni métricas sociales.
 
-## Vídeos observados
-Virales: 0/5. Emergentes: 0/5. No hay enlaces directos ni métricas nativas contrastadas de TikTok, Reels o Shorts en esta ejecución. No se afirma viralidad.
+### 2. GTA VI: debate sobre las mecánicas de relación entre protagonistas
+- **Fuente:** Xataka, John Tones, **22/11/2026 15:32:20 UTC = 16:32:20 CET**.
+- **Enlace:** https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina
+- **Hecho contrastado:** Xataka analiza las mecánicas de relación de Jason y Lucía y la reacción de ciertos creadores. La valoración y el encuadre de la polémica son editoriales.
+- **Ángulo:** «GTA VI recompensa cuidar tu relación: ¿evolución de la saga o polémica artificial?». Presentar opiniones como opiniones.
+- **Métricas:** 14 comentarios mostrados en el artículo al consultarlo; no equivalen a engagement de TikTok, Reels o Shorts.
 
-## Diez propuestas editoriales (hipótesis, no vídeos observados)
-Potencial alcance general:
-1. ¿Tu móvil perderá WhatsApp? Mostrar versión del sistema y requisitos oficiales; evitar alarmismo.
-2. Google Wallet en iPhone: comparar pases y pagos; advertir limitación territorial.
-3. Pantalla mate vs brillante: prueba de reflejos con iluminación idéntica.
-4. Black Friday: comparar precio histórico, vendedor y garantía.
-5. Móviles ultrafinos: comparar grosor, autonomía y cámaras sin anticipar resultados de Huawei.
-Potencial nicho:
-6. Cómo exportar chats antes de cambiar de teléfono.
-7. Qué es el NFC y por qué una cartera digital no siempre permite pagar.
-8. AMOLED vs papel electrónico: diferencias y usos.
-9. Cómo comprobar soporte de seguridad de un Android.
-10. Cuándo elegir teleobjetivo frente a ultra gran angular.
-Plataformas propuestas: Shorts, Reels y TikTok. Enlaces de contexto: sección noticias. Métricas, fechas de vídeos y tamaños de creadores: no disponibles. Prioridad editorial: 1, 2 y 3.
+## Seguimiento editorial, NO noticias confirmadas de la ventana
 
-## Tres guiones originales
-### 1. WhatsApp, 30 segundos
-0–3: «¿Necesitas cambiar de móvil para seguir usando WhatsApp? No necesariamente».
-3–12: «Primero entra en ajustes y busca la versión de Android o iOS. Comprueba si tienes actualizaciones pendientes».
-12–24: «Después consulta los requisitos oficiales de WhatsApp. No te fíes de una lista viral sin fecha: el sistema operativo es clave».
-24–30: «Antes de cambiar de móvil, comprueba tu copia de seguridad. Guarda este vídeo».
-Visuales: ajustes de un móvil propio, ocultando datos personales.
+- **Premios Computer Hoy 2026:** el plazo de votación anunciado terminaba el **22/11/2026 a las 23:59**; la gala está anunciada para el **2/12/2026**. No afirmar resultados ni ganadores. Fuente: https://computerhoy.20minutos.es/branded/computer-hoy-premios-2026_7051458_4.html (artículo del 28/10).
+- **Black Friday:** comparar precios históricos y costes de envío antes de recomendar productos. No hay descuentos actuales contrastados en esta ejecución.
+- **DVB-T2 / TDT:** tutorial para resintonizar y comprobar compatibilidad, no presentarlo como novedad de hoy. Fuente de contexto (22/10): https://computerhoy.20minutos.es/entretenimiento/antena-3-avisa-posible-perdida-canales-que-debes-hacer-para-evitarlo-tdt-afronta-una-transformacion-tal-como-conoces-cambia-noviembre_7052062_0.html
+- **Robots aspiradores:** análisis Mova E50 Ultra publicado en el archivo de Xataka del 22/11; la hora exacta no quedó verificada, por tanto no se clasifica como noticia de últimas 24 horas. https://www.xataka.com/analisis/mova-e50-ultra-analisis-caracteristicas-precio-especificaciones
 
-### 2. Wallet, 30 segundos
-0–4: «¿Google Wallet en iPhone? Sí, pero hay un detalle».
-4–17: «Según la información publicada en EE. UU., reúne entradas, tarjetas de fidelización y otros pases».
-17–25: «Eso no significa que puedas pagar acercando el iPhone al datáfono: esta versión no admite pagos NFC y no está confirmada en España».
-25–30: «¿Usarías Google Wallet o Apple Wallet?».
-Visuales: gráficos propios, no simular disponibilidad local.
+## Radar de TikTok, Instagram Reels y YouTube Shorts
 
-### 3. Pantallas, 35 segundos
-0–4: «¿De qué sirve una pantalla espectacular si solo ves tu reflejo?».
-4–18: «TCL combina AMOLED con NXTPAPER en sus P80 presentados en Filipinas. La idea es reducir reflejos sin renunciar a la pantalla OLED».
-18–28: «Pero lo importante es probar brillo, legibilidad y color bajo las mismas condiciones. Todavía no tenemos una prueba propia».
-28–35: «¿Prefieres una pantalla mate o brillante?».
-Visuales: demostración con dispositivos disponibles, sin hacer pasar otro equipo por el TCL.
+**Resultado verificable:** 0/5 oportunidades virales y 0/5 creadores emergentes. No se consiguieron vídeos nativos con **URL directa + fecha/hora + vistas + me gusta + comentarios + tamaño de cuenta + crecimiento temporal** suficientemente contrastados. No atribuir viralidad, tasas de interacción ni tendencia medida a contenidos sin esos datos.
 
-## Limitaciones
-No se han verificado métricas de vídeos ni su crecimiento, ni disponibilidad española de productos internacionales. No se inventan cifras. Informe parcial, mantener siguiente ejecución.
+**Ficha de vídeo requerida para próximas comprobaciones:** plataforma | URL nativa | autor y seguidores | publicación (hora/zona) | vistas y hora de captura | likes | comentarios | compartidos | ratio de interacción calculable | segunda captura para crecimiento | idea de adaptación. Todos los campos no disponibles deben figurar como «no verificado».
+
+### Diez hipótesis editoriales, NO diez vídeos detectados
+
+**Cinco posibles formatos de alto alcance (hipótesis, no virales comprobados):**
+1. «Gemini tiene cuatro nombres y nadie sabe cuál usar»: carrusel rápido de decisiones; fuente noticia 1.
+2. «GTA VI y las misiones de pareja»: contraste de mecánicas y debate; fuente noticia 2.
+3. «Tres trampas al comprar en Black Friday»: checklist sin afirmar descuentos concretos.
+4. «¿Tu tele sirve para DVB-T2?»: demostración paso a paso, tema de continuidad.
+5. «¿Cuál es la compra tecnológica más sobrevalorada de 2026?»: encuesta de comunidad, opinión.
+
+**Cinco ideas para creadores emergentes (hipótesis, no cuentas detectadas):**
+1. Tutorial vertical de cómo ver el modelo de Gemini seleccionado.
+2. Mini experimento comparando respuestas de dos modelos con el mismo prompt, documentando versiones.
+3. Guía de historial de precios en una compra real, con capturas fechadas.
+4. Cómo comprobar versión y soporte de tu Android en 20 segundos.
+5. Configuración de privacidad del móvil antes de regalarlo o venderlo.
+
+## Tres guiones originales para Shorts / Reels / TikTok
+
+### Guion 1 — «Gemini: demasiados modelos» (35–45 s)
+**Gancho (0–3 s):** «¿Abres Gemini y te pierdes entre nombres? No eres el único».
+**Desarrollo (4–30 s):** «Un análisis publicado ayer explica cómo Google ha ido acumulando nombres como Argon, Carbon, Hydrogen y Neon. El problema no es solo el nombre: elegir uno para programar puede ser confuso. Antes de comparar resultados, mira qué versión estás usando y si realmente está disponible en tu aplicación».
+**Cierre (31–45 s):** «¿Quieres una prueba con el mismo prompt en dos modelos? Escríbelo en comentarios».
+**Visuales:** captura propia de selector real, títulos grandes, fuente enlazada. No mostrar pantallas simuladas como reales.
+
+### Guion 2 — «La nueva polémica de GTA VI» (35–45 s)
+**Gancho:** «¿Y si un GTA también premiara cuidar de tu pareja?».
+**Desarrollo:** «Xataka analiza cómo las mecánicas de Jason y Lucía incluyen acciones cotidianas y cómo algunos creadores han reaccionado. Más allá de la polémica, la pregunta interesante es si este tipo de sistemas hace que los personajes se sientan más humanos».
+**Cierre:** «¿Te gusta que GTA experimente con esto o prefieres las mecánicas clásicas?».
+**Visuales:** material propio o autorizado; distinguir información reportada y opinión.
+
+### Guion 3 — «Black Friday: el descuento que engaña» (30–40 s)
+**Gancho:** «Un 50 % de descuento no significa que sea una ganga».
+**Desarrollo:** «Antes de comprar, revisa el historial del precio, compara exactamente el mismo modelo y capacidad, suma envío y comprueba las condiciones de devolución. Si no hay histórico fiable, no puedes asegurar que sea su precio mínimo».
+**Cierre:** «Guarda este vídeo antes de comprar tecnología esta semana».
+**Visuales:** demostración con ejemplos ficticios claramente rotulados; no inventar precios de tiendas reales.
+
+## Transparencia y carencias
+
+- Solo **dos artículos** quedaron acreditados con fecha y hora dentro de la ventana estricta; no extrapolar la cantidad de noticias.
+- Sin verificación nativa de TikTok, Reels y Shorts ni métricas de crecimiento. Las diez ideas son **hipótesis editoriales**, no tendencias medidas.
+- Sin verificación de disponibilidad, precios o stock de ofertas españolas en tiempo real.
+- Se publica el informe parcial deliberadamente: una ejecución incompleta no es motivo para detener la publicación futura.
