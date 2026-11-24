@@ -1,75 +1,63 @@
-# Radar tecnológico español — 23 de noviembre de 2026
+# Radar tecnológico español — 24 de noviembre de 2026
 
-**Estado:** informe parcial publicado con fuentes comprobables. **Corte:** 23/11/2026, 07:27 CET. **Ventana estricta:** 22/11/2026 07:27–23/11/2026 07:27 (Europe/Madrid). Las noticias con hora de publicación acreditada están separadas de contenidos de continuidad. No se inventan métricas de redes sociales.
+Estado: parcial. Corte: 24/11/2026 07:48 CET. Ventana estricta: 23/11 07:48–24/11 07:48 CET. Mercado: España. Se distingue publicación periodística reciente de lanzamiento confirmado, rumor y oferta comercial. 
 
-## Noticias verificadas en las últimas 24 horas
+## Actualidad publicada dentro de la ventana
 
-### 1. Google Gemini: confusión entre sus modelos de programación
-- **Fuente:** Xataka, Iván Linares, **22/11/2026 13:00:29 UTC = 14:00:29 CET**.
-- **Enlace:** https://www.xataka.com/robotica-e-ia/google-ha-convertido-gemini-tabla-periodica-problema-que-ahora-hay-dos-modelos-programacion-ninguna-pista-cual-elegir
-- **Hecho contrastado:** el análisis describe la proliferación de nombres Argon, Carbon, Hydrogen y Neon y la dificultad de elegir modelo para programar.
-- **Ángulo para España:** «¿Por qué Gemini tiene tantos modelos y cuál necesitas realmente?». Evitar presentar las conclusiones editoriales como declaraciones oficiales de Google.
-- **Métricas:** 6 comentarios mostrados en la página al consultarla; no son visualizaciones ni métricas sociales.
+1. **Galaxy Watch: posible cambio de cadencia.** El Nacional, 23/11 19:00 CET, actualizado 19:26. Informa de que Samsung podría espaciar las generaciones de relojes por costes. No es confirmación oficial. Impacto: reconsiderar si merece la pena esperar al siguiente modelo. [Fuente](https://www.elnacional.cat/es/tecnologia/samsung-prepara-cambio-importante-en-sus-galaxy-watch-ya-no-llegarian-cada-ano_1730102_102.html).
+2. **Windows en un iPhone plegable mediante IA.** Qué!, 23/11 10:46 (hora mostrada, presumiblemente peninsular). Describe una demostración atribuida a Ammaar Reshi con Windows ARM y Gemini. No se ha contrastado el repositorio original ni el rendimiento; tratar como pista, no como funcionalidad comercial confirmada. [Fuente](https://www.que.es/2026/11/23/windows-11-iphone-duo-gemini/).
+3. **Black Friday: AirPods Pro 3.** Xataka, 23/11 16:00:49 CET. Precio publicado de 198 € frente a 249 € de referencia (51 € de diferencia, 20,5%). No se ha comprobado stock, vendedor ni precio histórico de 30 días. [Fuente](https://www.xataka.com/seleccion/chollo-hoy-23-noviembre-black-friday-mediamarkt-airpods-pro-3-cuestan-ahora-200-euros).
+4. **Galaxy Watch8 reacondicionado.** Xataka, 23/11 13:16:47 CET. Bluetooth 40 mm, 218 € anunciados, estado excelente y garantía anunciada de 24 meses. No equiparar directamente con producto nuevo. [Fuente](https://www.xataka.com/seleccion/samsung-galaxy-watch8-a-preciazo-black-friday-back-market-cae-a-218-euros-reacondicionado-dos-anos-garantia).
+5. **Portátiles y PC.** Xataka, 23/11 15:46:49 CET. Recopilación de ofertas previa al viernes 27. Comparar configuración exacta, RAM, SSD, GPU y garantía antes de comprar. [Fuente](https://www.xataka.com/seleccion/black-friday-2026-mejores-chollos-portatiles-pc-ano-que-precios-hardware-no-han-dejado-subir).
+6. **Móviles Samsung, Xiaomi y Google.** Xataka, 23/11 17:16:49 CET. Selección comercial de descuentos; no equivale a nuevos lanzamientos. [Fuente](https://www.xataka.com/seleccion/mejores-ofertas-moviles-durante-black-friday-2026-descuentos-samsung-xiaomi-google).
+7. **El Corte Inglés.** Xataka, 23/11 18:46:49 CET. Recopilación de electrónica, campaña anunciada hasta el 29/11. Verificar condiciones por producto. [Fuente](https://www.xataka.com/seleccion/televisores-portatiles-moviles-mucho-black-friday-corte-ingles-nos-deja-grandes-descuentos).
 
-### 2. GTA VI: debate sobre las mecánicas de relación entre protagonistas
-- **Fuente:** Xataka, John Tones, **22/11/2026 15:32:20 UTC = 16:32:20 CET**.
-- **Enlace:** https://www.xataka.com/videojuegos/primera-vez-rockstar-premia-gta-vi-relacion-pareja-saludable-machosfera-esta-que-trina
-- **Hecho contrastado:** Xataka analiza las mecánicas de relación de Jason y Lucía y la reacción de ciertos creadores. La valoración y el encuadre de la polémica son editoriales.
-- **Ángulo:** «GTA VI recompensa cuidar tu relación: ¿evolución de la saga o polémica artificial?». Presentar opiniones como opiniones.
-- **Métricas:** 14 comentarios mostrados en el artículo al consultarlo; no equivalen a engagement de TikTok, Reels o Shorts.
+## Pistas sin hora acreditada (fuera del recuento estricto)
+- O2 amplía catálogo de dispositivos asociados a tarifas desde 40/50 € según Tecnología Geek, 23/11. Revisar coste total y condiciones oficiales. [Fuente](https://tecnologiageek.com/dispositivos-o2-desde-0-euros-moto-g37/).
+- Huawei MatePad Mini 2 con 5G: filtración, no anuncio ni disponibilidad española confirmada. [Fuente](https://tecnologiageek.com/matepad-mini-2-5g-registro/).
 
-## Seguimiento editorial, NO noticias confirmadas de la ventana
+## Señales sociales
+- [Ignix, semana del 23/11](https://ignix.social/es/trends): atribuye a #gta6 en TikTok España 748,6 millones de vistas y el primer puesto de su clasificación. Ventana semanal, no crecimiento de 24 h; metodología y cifra no contrastadas con plataforma nativa.
+- La misma fuente muestra un Reel de transformación de una foto con ChatGPT: 30,2 millones de vistas y 28 segundos según el agregador. Sin enlace individual ni fecha original verificados; no se contabiliza como ficha viral validada.
+- [Ignix TikTok creadores](https://ignix.social/es/trends/tiktok/creators): ejemplo @ibtiktokcoach, One Clip, 18,3 millones de vistas y 464.100 seguidores reportados; muestra vídeos de EE. UU., no España. No validado nativamente.
+- [DiscoTok 16/11](https://discotok.com/es/blog/hashtags-tiktok-tendencia-espana-20261116): señal histórica de #blackfriday, 262,5 millones de vistas y 61.822 vídeos según tercero. No es dato de hoy.
+- Shorts: la búsqueda devolvió vídeos antiguos; excluidos. TikTok y Reels: no se consiguieron suficientes enlaces individuales con fecha y métricas nativas.
 
-- **Premios Computer Hoy 2026:** el plazo de votación anunciado terminaba el **22/11/2026 a las 23:59**; la gala está anunciada para el **2/12/2026**. No afirmar resultados ni ganadores. Fuente: https://computerhoy.20minutos.es/branded/computer-hoy-premios-2026_7051458_4.html (artículo del 28/10).
-- **Black Friday:** comparar precios históricos y costes de envío antes de recomendar productos. No hay descuentos actuales contrastados en esta ejecución.
-- **DVB-T2 / TDT:** tutorial para resintonizar y comprobar compatibilidad, no presentarlo como novedad de hoy. Fuente de contexto (22/10): https://computerhoy.20minutos.es/entretenimiento/antena-3-avisa-posible-perdida-canales-que-debes-hacer-para-evitarlo-tdt-afronta-una-transformacion-tal-como-conoces-cambia-noviembre_7052062_0.html
-- **Robots aspiradores:** análisis Mova E50 Ultra publicado en el archivo de Xataka del 22/11; la hora exacta no quedó verificada, por tanto no se clasifica como noticia de últimas 24 horas. https://www.xataka.com/analisis/mova-e50-ultra-analisis-caracteristicas-precio-especificaciones
+## Fichas de oportunidades editoriales (no vídeos observados)
+Virales verificadas 0/5; emergentes verificadas 0/5. Las siguientes son hipótesis de producción, no clasificaciones de creadores. Para todas: autor, enlace de vídeo, fecha, seguidores, vistas, likes, comentarios, compartidos y velocidad de crecimiento: no disponibles/no aplicables. Los enlaces son fuentes temáticas, no vídeos. Prioridad editorial cualitativa.
 
-## Radar de TikTok, Instagram Reels y YouTube Shorts
+| Tipo | Tema y gancho | Formato y adaptación | Fuente |
+|---|---|---|---|
+| Potencial viral | AirPods por 198 €: ¿oferta real? | Captura de precio y comparador; 25 s | [Xataka](https://www.xataka.com/seleccion/chollo-hoy-23-noviembre-black-friday-mediamarkt-airpods-pro-3-cuestan-ahora-200-euros) |
+| Potencial viral | ¿Samsung dejará de renovar sus relojes cada año? | Rumor frente a hecho, 30 s | [El Nacional](https://www.elnacional.cat/es/tecnologia/samsung-prepara-cambio-importante-en-sus-galaxy-watch-ya-no-llegarian-cada-ano_1730102_102.html) |
+| Potencial viral | Windows en un móvil: ¿realmente útil? | Explicar emulación sin afirmar rendimiento, 30 s | [Qué!](https://www.que.es/2026/11/23/windows-11-iphone-duo-gemini/) |
+| Potencial viral | GTA VI: qué significa un hashtag masivo | Explicar métricas acumuladas, 25 s | [Ignix](https://ignix.social/es/trends) |
+| Potencial viral | Tres trampas al comprar móvil rebajado | Checklist visual, 25 s | [Xataka](https://www.xataka.com/seleccion/mejores-ofertas-moviles-durante-black-friday-2026-descuentos-samsung-xiaomi-google) |
+| Nicho emergente | Smartwatch reacondicionado | Comparar batería, estado y garantía | [Xataka](https://www.xataka.com/seleccion/samsung-galaxy-watch8-a-preciazo-black-friday-back-market-cae-a-218-euros-reacondicionado-dos-anos-garantia) |
+| Nicho emergente | Portátil barato: RAM y SSD | Dos fichas técnicas lado a lado | [Xataka](https://www.xataka.com/seleccion/black-friday-2026-mejores-chollos-portatiles-pc-ano-que-precios-hardware-no-han-dejado-subir) |
+| Nicho emergente | Tablet pequeña con 5G | Caso de uso fuera de casa, aclarar rumor | [Tecnología Geek](https://tecnologiageek.com/matepad-mini-2-5g-registro/) |
+| Nicho emergente | Dispositivo a 0 € con tarifa | Calcular coste total de contrato | [Tecnología Geek](https://tecnologiageek.com/dispositivos-o2-desde-0-euros-moto-g37/) |
+| Nicho emergente | Una foto, tres estilos con IA | Demostración propia, etiquetar IA | [Ignix](https://ignix.social/es/trends) |
 
-**Resultado verificable:** 0/5 oportunidades virales y 0/5 creadores emergentes. No se consiguieron vídeos nativos con **URL directa + fecha/hora + vistas + me gusta + comentarios + tamaño de cuenta + crecimiento temporal** suficientemente contrastados. No atribuir viralidad, tasas de interacción ni tendencia medida a contenidos sin esos datos.
+## Tres guiones originales verticales
 
-**Ficha de vídeo requerida para próximas comprobaciones:** plataforma | URL nativa | autor y seguidores | publicación (hora/zona) | vistas y hora de captura | likes | comentarios | compartidos | ratio de interacción calculable | segunda captura para crecimiento | idea de adaptación. Todos los campos no disponibles deben figurar como «no verificado».
+### 1. AirPods: descuento con lupa (25–30 s)
+0–3 s: «¿AirPods Pro por menos de 200 euros? Mira esto antes de pagar».
+3–12 s: «Ayer Xataka publicó un precio de 198 euros frente a 249. Son 51 euros de diferencia».
+12–23 s: «Pero comprueba el vendedor, el precio de los últimos 30 días y si son nuevos. Una rebaja anunciada no garantiza el mejor precio».
+23–30 s: «Guarda este vídeo para el viernes». Visual: cifras y comparador; rótulo precio publicado 23/11, sujeto a cambios.
 
-### Diez hipótesis editoriales, NO diez vídeos detectados
+### 2. Samsung y los relojes (30 s)
+0–3 s: «¿Y si tu Galaxy Watch tarda más en quedarse anticuado?».
+3–13 s: «Una información publicada ayer apunta a que Samsung podría espaciar sus lanzamientos de relojes».
+13–24 s: «No está confirmado. Pero si tu reloj tiene buena batería y sigue recibiendo soporte, no necesitas cambiarlo solo por el número de generación».
+24–30 s: «¿Cada año o cada dos? ¿Qué prefieres?». Visual: reloj y calendario, rótulo rumor.
 
-**Cinco posibles formatos de alto alcance (hipótesis, no virales comprobados):**
-1. «Gemini tiene cuatro nombres y nadie sabe cuál usar»: carrusel rápido de decisiones; fuente noticia 1.
-2. «GTA VI y las misiones de pareja»: contraste de mecánicas y debate; fuente noticia 2.
-3. «Tres trampas al comprar en Black Friday»: checklist sin afirmar descuentos concretos.
-4. «¿Tu tele sirve para DVB-T2?»: demostración paso a paso, tema de continuidad.
-5. «¿Cuál es la compra tecnológica más sobrevalorada de 2026?»: encuesta de comunidad, opinión.
+### 3. Reacondicionado sin sorpresas (30 s)
+0–3 s: «Un smartwatch de oferta puede salir caro si ignoras estas tres cosas».
+3–12 s: «Ayer se anunció un Galaxy Watch8 reacondicionado por 218 euros».
+12–25 s: «Primero, revisa el estado y la batería. Segundo, la garantía y devolución. Tercero, compara exactamente el mismo tamaño y conectividad con uno nuevo».
+25–30 s: «¿Comprarías reacondicionado?». Visual: checklist; precio histórico publicado, no stock confirmado.
 
-**Cinco ideas para creadores emergentes (hipótesis, no cuentas detectadas):**
-1. Tutorial vertical de cómo ver el modelo de Gemini seleccionado.
-2. Mini experimento comparando respuestas de dos modelos con el mismo prompt, documentando versiones.
-3. Guía de historial de precios en una compra real, con capturas fechadas.
-4. Cómo comprobar versión y soporte de tu Android en 20 segundos.
-5. Configuración de privacidad del móvil antes de regalarlo o venderlo.
-
-## Tres guiones originales para Shorts / Reels / TikTok
-
-### Guion 1 — «Gemini: demasiados modelos» (35–45 s)
-**Gancho (0–3 s):** «¿Abres Gemini y te pierdes entre nombres? No eres el único».
-**Desarrollo (4–30 s):** «Un análisis publicado ayer explica cómo Google ha ido acumulando nombres como Argon, Carbon, Hydrogen y Neon. El problema no es solo el nombre: elegir uno para programar puede ser confuso. Antes de comparar resultados, mira qué versión estás usando y si realmente está disponible en tu aplicación».
-**Cierre (31–45 s):** «¿Quieres una prueba con el mismo prompt en dos modelos? Escríbelo en comentarios».
-**Visuales:** captura propia de selector real, títulos grandes, fuente enlazada. No mostrar pantallas simuladas como reales.
-
-### Guion 2 — «La nueva polémica de GTA VI» (35–45 s)
-**Gancho:** «¿Y si un GTA también premiara cuidar de tu pareja?».
-**Desarrollo:** «Xataka analiza cómo las mecánicas de Jason y Lucía incluyen acciones cotidianas y cómo algunos creadores han reaccionado. Más allá de la polémica, la pregunta interesante es si este tipo de sistemas hace que los personajes se sientan más humanos».
-**Cierre:** «¿Te gusta que GTA experimente con esto o prefieres las mecánicas clásicas?».
-**Visuales:** material propio o autorizado; distinguir información reportada y opinión.
-
-### Guion 3 — «Black Friday: el descuento que engaña» (30–40 s)
-**Gancho:** «Un 50 % de descuento no significa que sea una ganga».
-**Desarrollo:** «Antes de comprar, revisa el historial del precio, compara exactamente el mismo modelo y capacidad, suma envío y comprueba las condiciones de devolución. Si no hay histórico fiable, no puedes asegurar que sea su precio mínimo».
-**Cierre:** «Guarda este vídeo antes de comprar tecnología esta semana».
-**Visuales:** demostración con ejemplos ficticios claramente rotulados; no inventar precios de tiendas reales.
-
-## Transparencia y carencias
-
-- Solo **dos artículos** quedaron acreditados con fecha y hora dentro de la ventana estricta; no extrapolar la cantidad de noticias.
-- Sin verificación nativa de TikTok, Reels y Shorts ni métricas de crecimiento. Las diez ideas son **hipótesis editoriales**, no tendencias medidas.
-- Sin verificación de disponibilidad, precios o stock de ofertas españolas en tiempo real.
-- Se publica el informe parcial deliberadamente: una ejecución incompleta no es motivo para detener la publicación futura.
+## Prioridad y limitaciones
+Publicar primero el guion AirPods por utilidad inmediata y cercanía al Black Friday; segundo Samsung por debate, tercero reacondicionados por intención de compra. No hay evidencia suficiente para pronosticar viralidad. No se ha verificado precio en comercio, fuentes primarias de rumores, métricas nativas, crecimiento, ni diez vídeos individuales. La cobertura de noticias está concentrada en ofertas de Xataka y no es exhaustiva. No confundir datos semanales con últimas 24 horas. Informe parcial deliberado.
