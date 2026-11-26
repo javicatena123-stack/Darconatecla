@@ -1,64 +1,47 @@
-# Radar tecnológico español — 25 de noviembre de 2026
+# Radar tecnológico español — 26 de noviembre de 2026
 
-Estado: parcial. Corte 07:33 CET. Ventana: 24/11 07:33–25/11 07:33 CET. Mercado: España. Black Friday: viernes 27. Las fechas corresponden a publicaciones, no necesariamente a lanzamientos.
+Estado: parcial. Ventana 25/11 07:07–26/11 07:07 CET. Mercado España. Mañana es Black Friday.
 
-## Actualidad verificada por fecha de publicación
+## Actualidad: publicaciones fechadas dentro de la ventana
+- 25/11 08:02 CET, Xataka: Galaxy S26 256 GB anunciado a 729 € con garantía adicional. Es seguimiento de la oferta de ayer, no lanzamiento nuevo; verificar vendedor y condiciones. https://www.xataka.com/seleccion/movil-top-samsung-baja-precio-regalo-ano-garantia-adicional-asi-su-nueva-oferta-black-friday
+- 25/11 10:17 CET, Xataka: Switch 2 anunciada a 439 €, TV LG Mini LED 55 pulgadas a 535 € y Samsung OLED 48 pulgadas a 669 €. La oferta LG era temporal; no asumir vigencia. https://www.xataka.com/seleccion/gangas-dia-hoy-25-noviembre-amazon-mediamarkt-ninja
+- 25/11 13:46 CET, Xataka: recopilación de ofertas Amazon en móviles, audio y ordenadores. https://www.xataka.com/seleccion/mejores-ofertas-black-friday-amazon-hoy-25-noviembre-chollos-moviles-auriculares-portatiles
+- 25/11 16:23 CET, Xataka: selección de cupones AliExpress para móviles, tablets y otros dispositivos. https://www.xataka.com/seleccion/moviles-nintendo-switch-2-mejores-chollos-que-hemos-encontrado-black-friday-aliexpress-hoy-25-noviembre
+Son publicaciones comerciales, no anuncios de lanzamientos ni comprobaciones independientes de precios. 
+### Seguimiento sin hora exacta confirmada
+Huawei Band 11 Pro anunciada a 47 € en verde, otras variantes a 59 €, según Xataka; comprobar precio final. https://www.xataka.com/seleccion/mejores-pulseras-actividad-2026-se-suma-a-ultimos-dias-black-friday-su-mayor-descuento
 
-1. **Agentes de compra con IA.** Xataka, 24/11 09:43 CET. Experimento con Instinct para vigilar un Pixel 11 Pro por debajo de 699 €; la confirmación final queda en manos del usuario. No es prueba de disponibilidad universal ni de ahorro real. [Fuente](https://www.xataka.com/robotica-e-ia/le-he-pedido-a-instinct-que-vigile-precio-movil-black-friday-baja-200-euros-compra). Ángulo: automatizar búsqueda sin delegar pagos.
-2. **Alertas de ofertas con ChatGPT.** Xataka, 24/11 16:11 CET. Experiencia de uso de tareas programadas para comparar productos por requisitos y presupuesto. No es anuncio de una función nueva. [Fuente](https://www.xataka.com/robotica-e-ia/no-se-que-movil-quiero-se-como-quiero-asi-uso-chatgpt-para-encontrar-chollos-este-black-friday). Ángulo: demostración práctica y límites.
-3. **Galaxy S26 de 256 GB.** Xataka, 24/11 16:47 CET. Precio anunciado 729 € y promoción de un año adicional de garantía. Comprobar vendedor, condiciones y precio final; no verificados directamente en tienda. [Fuente](https://www.xataka.com/seleccion/movil-top-samsung-baja-precio-regalo-ano-garantia-adicional-asi-su-nueva-oferta-black-friday).
-
-### Seguimiento fuera de ventana estrictamente comprobada
-[Selección Amazon del 24/11](https://www.xataka.com/seleccion/mejores-ofertas-amazon-antes-black-friday-hoy-24-noviembre-chollos-50-descuento): sin hora absoluta disponible en el resultado consultado. Precios publicados, no vigencia comprobada: portátil RTX 5060 1.399 €, tablet Alexa 114 €, aspiradora Shark 349,99 €. No confundir contenido afiliado con verificación independiente.
-
-## Radar social: cinco candidatos virales de YouTube Shorts
-
-Fuente común: [Veedio, ciencia y tecnología, España, actualización 24/11](https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech). Muestra de 24 vídeos. Las cifras son de un agregador, no verificadas en YouTube: los cinco intentos de lectura directa fueron limitados por el servicio. La velocidad indicada no equivale necesariamente a incremento medido en las últimas 24 horas. No se conoce la nacionalidad del creador, comentarios, compartidos, seguidores ni hora exacta de publicación. Selección editorial, no top cinco absoluto.
-
-| Creador y enlace | Antigüedad reportada / duración | Vistas totales / vistas por día / likes | Adaptación original |
+## Cinco candidatos virales
+Fuente secundaria: https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech — actualización 25/11, 24 vídeos, mediana 1,6 M vistas/día. Las vistas son globales y la velocidad es promedio desde publicación, no incremento de últimas 24 h. Selección editorial distinta de ayer; no top absoluto.
+| Creador y enlace | Antigüedad / duración | Vistas totales / día / likes | Adaptación |
 |---|---|---|---|
-| [CarterPCs: monitor OLED dañado](https://www.youtube.com/shorts/yvhIJI39hZ4) | 2 días / 19 s | 12,6 M / 4,5 M / 292,4 mil | Explicar cuidados de OLED sin dañar equipos |
-| [Print It Forge 3D: mini PS5](https://www.youtube.com/shorts/D7-BdPyTeKI) | 2 días / 14 s | 5,2 M / 2,7 M / 16,8 mil | Crear una miniatura propia y mostrar proceso |
-| [Crazy zone: prueba JBL GO4](https://www.youtube.com/shorts/nZRhGF9ybs0) | 3 días / 25 s | 7,4 M / 2,6 M / 29 mil | Explicar límites de protección IP sin pruebas destructivas |
-| [Buffy: diseño de ratón](https://www.youtube.com/shorts/2Cr_jryTFks) | 2 días / 19 s | 2,7 M / 1,2 M / 31,5 mil | Comparar ergonomía con objetos propios |
-| [Gohar Khan: acelerar portátil](https://www.youtube.com/shorts/UJBtWEfHlro) | 3 días / 35 s | 2,7 M / 912 mil / 99,4 mil | Medir arranque antes y después de revisar aplicaciones de inicio |
+| [Classy Dash, miniproyector](https://www.youtube.com/shorts/dW9frVFnDfE) | 1 día / 16 s | 20,7 M / 13,3 M / ocultos | Comparar imagen con luz y oscuridad |
+| [Classy Girl, móvil diminuto](https://www.youtube.com/shorts/eRc63YpZO9Y) | 9 días / 11 s | 19,2 M / 2,2 M / 162,5 mil | Probar ergonomía y legibilidad |
+| [Foeko, Face ID](https://www.youtube.com/shorts/PqxgwGCYaD8) | 2 días / 25 s | 5,2 M / 2,1 M / 81 mil | Explicar desbloqueo facial frente a huella |
+| [Boom Cerebral, alfombrilla](https://www.youtube.com/shorts/V7CiYFgRbiE) | 4 días / 13 s | 3,9 M / 874 mil / 25,2 mil | Comparar superficies de ratón |
+| [Milka Ranks, protectores](https://www.youtube.com/shorts/gfdf4bnLoMg) | 7 días / 21 s | 5,9 M / 813,6 mil / 21,8 mil | Mostrar instalación sin burbujas |
 
-El agregador también muestra conceptos de futuros Galaxy; no se recomienda presentarlos como productos anunciados. Patrones editoriales inferidos: demostración visual, sorpresa, problemas cotidianos y transformación antes/después. No se ha comprobado el montaje ni el gancho exacto de los vídeos.
+Cuatro enlaces limitados por YouTube; el del móvil diminuto devuelve título pero no métricas. No se verificaron seguidores, comentarios, compartidos ni fecha exacta. No afirmar que sean creadores españoles. Los conceptos de futuros Galaxy presentes en el ranking no prueban lanzamientos reales.
 
-## Emergentes y otras plataformas
+## TikTok, Reels y emergentes
+Sin datos nativos contrastables de TikTok o Instagram. 0/5 emergentes verificados por falta de tamaño de audiencia e historial. Cinco hipótesis de nicho (no tendencias observadas): medir brillo de miniproyectores; comparar pulsera y reloj por autonomía; comparar cupones con precio final; probar protectores sin dañar pantallas; comparar OLED y Mini LED en habitaciones iluminadas.
 
-0/5 creadores emergentes verificados: no hay tamaño de audiencia ni historial suficiente. TikTok y Reels: sin vídeos nativos recientes con métricas contrastables. No extrapolar Shorts a esas plataformas. Cinco candidatos virales de fuente secundaria; 0/5 verificados nativamente.
+## Tres guiones originales 9:16
+### 1. Miniproyector: ¿cine de bolsillo? (30 s)
+0–3: «¿Un proyector pequeño puede sustituir tu tele?»
+3–12: mostrar una proyección propia con luz ambiente y luego a oscuras.
+12–23: «Comprueba brillo ANSI, resolución nativa y distancia. No confundas resolución compatible con resolución real».
+23–30: «Si no puedes oscurecer la habitación, compara antes de comprar. ¿Lo usarías en casa?». No simular pruebas; si no hay equipo, usar gráficos propios identificados como ilustración.
+### 2. El cupón que no siempre ahorra (30 s)
+0–3: «Mañana es Black Friday: no mires solo el porcentaje».
+3–12: mostrar dos carritos del mismo producto, capacidad y vendedor identificados.
+12–23: «Suma envío, comprueba el precio final y revisa el menor precio de los últimos 30 días cuando proceda».
+23–30: «Comprueba también devolución y garantía. Guarda este vídeo antes de pagar». Fuente editorial: selecciones Amazon y AliExpress anteriores.
+### 3. Pulsera o reloj: ¿qué necesitas? (30 s)
+0–3: «¿De verdad necesitas un reloj de 200 euros?»
+3–12: mostrar pulsera y reloj propios o ilustraciones identificadas.
+12–23: «Para pasos, avisos y actividad básica puede bastar una pulsera. Si necesitas GPS, pagos o apps, comprueba cada modelo».
+23–30: «La Band 11 Pro se anunció a 47 euros en un color; revisa si sigue disponible. ¿Pulsera o reloj?». No prometer precisión médica ni autonomía medida sin prueba.
 
-## Cinco oportunidades editoriales de nicho (hipótesis, no tendencias observadas)
-
-- Garantía adicional: comparar condiciones de dos vendedores de un mismo teléfono.
-- IA para comprar: enseñar una alerta con presupuesto máximo y confirmación manual.
-- OLED: explicar mantenimiento y diferencia entre retención temporal y quemado.
-- Portátil lento: cronometrar el inicio antes y después de revisar programas de arranque.
-- Altavoz portátil: interpretar IP67 y consultar el manual antes de exponerlo al agua.
-
-## Tres guiones originales (vertical 9:16)
-
-### 1. No dejes que la IA compre por ti (30 s)
-0–3 s: «¿Y si una IA encontrara tu móvil ideal mientras duermes?»
-3–12 s: captura propia de una consulta con presupuesto, almacenamiento y tiendas españolas.
-12–23 s: «Pídele que compare el precio final, el vendedor y el histórico. Que te avise, no que pague automáticamente».
-23–30 s: «Comprueba tú el carrito antes de pagar. ¿Qué móvil quieres que vigilemos?»
-Texto: alerta, comparación, confirmación. Fuente: los dos artículos de IA anteriores.
-
-### 2. Galaxy S26: ¿729 euros merecen la pena? (30 s)
-0–3 s: «El descuento no es lo único que importa».
-3–12 s: mostrar precio publicado el 24/11 y aclarar que puede cambiar.
-12–23 s: «Compara los mismos 256 GB, quién vende y qué cubre ese año adicional de garantía».
-23–30 s: «Si no necesitas cambiar de móvil, la mejor oferta puede ser no comprar. Guarda este vídeo».
-Texto: 729 € anunciados el 24/11; revisar condiciones. Fuente: artículo Galaxy S26.
-
-### 3. Tu portátil lento: prueba esto antes de comprar otro (35 s)
-0–3 s: «Antes de gastar dinero en otro portátil, mide esto».
-3–15 s: grabar arranque propio con cronómetro y abrir Administrador de tareas > Aplicaciones de inicio.
-15–27 s: desactivar solo aplicaciones conocidas e innecesarias; no tocar seguridad ni controladores. Reiniciar y medir de nuevo.
-27–35 s: «Si no mejora, revisa almacenamiento y memoria. No prometas una mejora que no has medido».
-Texto: antes/después real. Inspiración: candidato de Gohar Khan, sin copiar imágenes ni guion.
-
-## Prioridad y carencias
-Publicar primero el tutorial de alertas de compra con IA, por utilidad inmediata antes del viernes; después el comparador de garantía. No hay predicción cuantitativa de viralidad. Cobertura periodística concentrada en Xataka; no se obtuvieron resultados útiles adicionales de Android4all o Topes de Gama. Sin comprobación directa de precios, métricas nativas, seguidores o crecimiento diario real. Informe parcial deliberado, sin rellenar huecos con datos inventados.
+## Prioridad y limitaciones
+Prioridad: vídeo del cupón, por proximidad del Black Friday; miniproyector como segunda pieza por señal social secundaria. Cuatro publicaciones con hora comprobada, cinco candidatos secundarios, cero vídeos con métricas nativas comprobadas, cero emergentes, tres guiones. Cobertura concentrada en Xataka; sin confirmación directa de tiendas ni fuentes sociales nativas. No inventar métricas ni presentar hipótesis como tendencias.
