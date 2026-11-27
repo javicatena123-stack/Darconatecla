@@ -1,47 +1,46 @@
-# Radar tecnológico español — 26 de noviembre de 2026
+# Radar tecnológico español — 27 de noviembre de 2026
 
-Estado: parcial. Ventana 25/11 07:07–26/11 07:07 CET. Mercado España. Mañana es Black Friday.
+Estado: parcial. Ventana 26/11 07:56–27/11 07:56 CET. Hoy es Black Friday.
 
-## Actualidad: publicaciones fechadas dentro de la ventana
-- 25/11 08:02 CET, Xataka: Galaxy S26 256 GB anunciado a 729 € con garantía adicional. Es seguimiento de la oferta de ayer, no lanzamiento nuevo; verificar vendedor y condiciones. https://www.xataka.com/seleccion/movil-top-samsung-baja-precio-regalo-ano-garantia-adicional-asi-su-nueva-oferta-black-friday
-- 25/11 10:17 CET, Xataka: Switch 2 anunciada a 439 €, TV LG Mini LED 55 pulgadas a 535 € y Samsung OLED 48 pulgadas a 669 €. La oferta LG era temporal; no asumir vigencia. https://www.xataka.com/seleccion/gangas-dia-hoy-25-noviembre-amazon-mediamarkt-ninja
-- 25/11 13:46 CET, Xataka: recopilación de ofertas Amazon en móviles, audio y ordenadores. https://www.xataka.com/seleccion/mejores-ofertas-black-friday-amazon-hoy-25-noviembre-chollos-moviles-auriculares-portatiles
-- 25/11 16:23 CET, Xataka: selección de cupones AliExpress para móviles, tablets y otros dispositivos. https://www.xataka.com/seleccion/moviles-nintendo-switch-2-mejores-chollos-que-hemos-encontrado-black-friday-aliexpress-hoy-25-noviembre
-Son publicaciones comerciales, no anuncios de lanzamientos ni comprobaciones independientes de precios. 
-### Seguimiento sin hora exacta confirmada
-Huawei Band 11 Pro anunciada a 47 € en verde, otras variantes a 59 €, según Xataka; comprobar precio final. https://www.xataka.com/seleccion/mejores-pulseras-actividad-2026-se-suma-a-ultimos-dias-black-friday-su-mayor-descuento
+## Actualidad verificada por fecha de publicación
+- 26/11 08:46 CET, Xataka: Roborock Qrevo 2 Pro Set anunciado a 299 € en Amazon y PcComponentes; monitor MSI MAG 275QF E20 a 138,95 € en Coolmod. https://www.xataka.com/seleccion/gangas-dia-hoy-26-noviembre-amazon-pccomponentes
+- 26/11 14:16 CET, Xataka: selección de ofertas de portátiles y televisores de gran formato en Amazon. https://www.xataka.com/seleccion/mejores-ofertas-amazon-visperas-black-friday-descuentazos-portatiles-teles-75-pulgadas
+- 26/11 18:00 CET, Xataka: análisis que relaciona descuentos menos atractivos con el encarecimiento de componentes. Es una explicación editorial, no una medición independiente de todos los comercios. https://www.xataka.com/componentes/black-friday-crisis-chips-que-descuentos-productos-este-ano-no-que-eran
+
+Seguimiento con hora exacta pendiente: Switch 2 anunciada a 407,86 € en AliExpress frente a 439 € en Amazon y MediaMarkt, sujeto a descuentos de carrito. https://www.xataka.com/seleccion/chollo-nintendo-switch-2-justo-antes-black-friday-2026-aqui-descuentazo-a-pocas-horas-medianoche-viernes-27
+Precios publicados por medios con afiliación; stock, garantía, vendedor y precio final no contrastados directamente. No son lanzamientos nuevos.
 
 ## Cinco candidatos virales
-Fuente secundaria: https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech — actualización 25/11, 24 vídeos, mediana 1,6 M vistas/día. Las vistas son globales y la velocidad es promedio desde publicación, no incremento de últimas 24 h. Selección editorial distinta de ayer; no top absoluto.
-| Creador y enlace | Antigüedad / duración | Vistas totales / día / likes | Adaptación |
+Fuente secundaria actualizada 27/11: https://www.veedio.co/trending/youtube-shorts/country/spain/science-and-tech . 24 vídeos, siete nuevas entradas respecto al 26/11. Selección editorial, no top absoluto. Vistas globales; vistas/día promedio, no crecimiento de las últimas 24 h.
+| Creador y enlace | Antigüedad / duración | Vistas totales / día / likes | Adaptación original |
 |---|---|---|---|
-| [Classy Dash, miniproyector](https://www.youtube.com/shorts/dW9frVFnDfE) | 1 día / 16 s | 20,7 M / 13,3 M / ocultos | Comparar imagen con luz y oscuridad |
-| [Classy Girl, móvil diminuto](https://www.youtube.com/shorts/eRc63YpZO9Y) | 9 días / 11 s | 19,2 M / 2,2 M / 162,5 mil | Probar ergonomía y legibilidad |
-| [Foeko, Face ID](https://www.youtube.com/shorts/PqxgwGCYaD8) | 2 días / 25 s | 5,2 M / 2,1 M / 81 mil | Explicar desbloqueo facial frente a huella |
-| [Boom Cerebral, alfombrilla](https://www.youtube.com/shorts/V7CiYFgRbiE) | 4 días / 13 s | 3,9 M / 874 mil / 25,2 mil | Comparar superficies de ratón |
-| [Milka Ranks, protectores](https://www.youtube.com/shorts/gfdf4bnLoMg) | 7 días / 21 s | 5,9 M / 813,6 mil / 21,8 mil | Mostrar instalación sin burbujas |
+| [Mrwhosetheboss](https://www.youtube.com/shorts/KfLqv_aqybY) | hoy / 60 s | 2,2 M / 2,2 M / 110,5 mil | Explicar cómo se gestionan móviles de prueba y sorteos |
+| [Greylin](https://www.youtube.com/shorts/dG6v9xsOrL0) | ayer / 19 s | 3,2 M / 2 M / 49,7 mil | Comparar disposición de botones Nintendo y Xbox |
+| [Classy Dash](https://www.youtube.com/shorts/dW9frVFnDfE) | 3 días / 16 s | 20,8 M / 5,8 M / ocultos | Seguimiento del miniproyector: medir calidad real |
+| [CarterPCs](https://www.youtube.com/shorts/yvhIJI39hZ4) | 5 días / 19 s | 16 M / 2,7 M / 352,7 mil | Prevención de daños en OLED |
+| [Foeko](https://www.youtube.com/shorts/PqxgwGCYaD8) | 4 días / 25 s | 9,3 M / 2,1 M / 147,1 mil | Comparar huella y reconocimiento facial |
 
-Cuatro enlaces limitados por YouTube; el del móvil diminuto devuelve título pero no métricas. No se verificaron seguidores, comentarios, compartidos ni fecha exacta. No afirmar que sean creadores españoles. Los conceptos de futuros Galaxy presentes en el ranking no prueban lanzamientos reales.
+Los dos primeros son nuevas entradas; los otros tres son seguimiento explícito con cifras actualizadas. Los cinco enlaces directos devolvieron limitación de acceso; métricas nativas, comentarios, compartidos, seguidores y hora exacta no comprobados. No atribuir nacionalidad española a los creadores. Se excluyen vídeos de supuestos Galaxy futuros como prueba de novedades reales.
 
 ## TikTok, Reels y emergentes
-Sin datos nativos contrastables de TikTok o Instagram. 0/5 emergentes verificados por falta de tamaño de audiencia e historial. Cinco hipótesis de nicho (no tendencias observadas): medir brillo de miniproyectores; comparar pulsera y reloj por autonomía; comparar cupones con precio final; probar protectores sin dañar pantallas; comparar OLED y Mini LED en habitaciones iluminadas.
+Sin métricas nativas verificables en TikTok o Instagram Reels. 0/5 creadores emergentes acreditados. Cinco hipótesis editoriales, no tendencias demostradas: mandos multiplataforma y compatibilidad real; coste por GB de SSD; comparar robot aspirador con y sin base; monitores QHD de alta frecuencia y requisitos de GPU; comprobar descuentos de consola con envío y garantía.
 
 ## Tres guiones originales 9:16
-### 1. Miniproyector: ¿cine de bolsillo? (30 s)
-0–3: «¿Un proyector pequeño puede sustituir tu tele?»
-3–12: mostrar una proyección propia con luz ambiente y luego a oscuras.
-12–23: «Comprueba brillo ANSI, resolución nativa y distancia. No confundas resolución compatible con resolución real».
-23–30: «Si no puedes oscurecer la habitación, compara antes de comprar. ¿Lo usarías en casa?». No simular pruebas; si no hay equipo, usar gráficos propios identificados como ilustración.
-### 2. El cupón que no siempre ahorra (30 s)
-0–3: «Mañana es Black Friday: no mires solo el porcentaje».
-3–12: mostrar dos carritos del mismo producto, capacidad y vendedor identificados.
-12–23: «Suma envío, comprueba el precio final y revisa el menor precio de los últimos 30 días cuando proceda».
-23–30: «Comprueba también devolución y garantía. Guarda este vídeo antes de pagar». Fuente editorial: selecciones Amazon y AliExpress anteriores.
-### 3. Pulsera o reloj: ¿qué necesitas? (30 s)
-0–3: «¿De verdad necesitas un reloj de 200 euros?»
-3–12: mostrar pulsera y reloj propios o ilustraciones identificadas.
-12–23: «Para pasos, avisos y actividad básica puede bastar una pulsera. Si necesitas GPS, pagos o apps, comprueba cada modelo».
-23–30: «La Band 11 Pro se anunció a 47 euros en un color; revisa si sigue disponible. ¿Pulsera o reloj?». No prometer precisión médica ni autonomía medida sin prueba.
+### 1. ¿Por qué este Black Friday parece más caro? (35 s)
+0–4: «¿Te parece que este año los descuentos son peores?».
+4–15: «El encarecimiento de componentes puede reducir el margen para rebajar dispositivos. Pero no significa que todas las ofertas sean malas».
+15–27: mostrar historial de un producto concreto, misma capacidad y vendedor; comparar precio final y menor precio previo cuando proceda.
+27–35: «Compra por precio real, no por el porcentaje. Guarda esto antes de pagar». Fuente: análisis de Xataka citado arriba. No simular históricos.
+### 2. Switch 2: ¿408 o 439 euros? (30 s)
+0–3: «La misma consola puede costarte más de 30 euros de diferencia».
+3–13: mostrar los precios publicados de 407,86 y 439 €, identificados como anuncios pendientes de verificar.
+13–24: «Comprueba que el descuento entra en el carrito, quién vende, envío, garantía y devolución».
+24–30: «Si no aparece ese precio, no fuerces la compra. ¿Cuánto pagarías tú?». Actualizar cifras antes de grabar.
+### 3. ¿Por qué los botones del mando cambian de sitio? (30 s)
+0–4: «¿Has pulsado A pensando que era B al cambiar de consola?».
+4–15: mostrar mandos propios o diagramas originales de las disposiciones.
+15–24: «La posición y las etiquetas cambian según el sistema. Algunos mandos permiten remapear, pero comprueba compatibilidad con cada consola».
+24–30: «¿Qué distribución prefieres?». No afirmar que un mando concreto funciona en todas las consolas sin probarlo.
 
-## Prioridad y limitaciones
-Prioridad: vídeo del cupón, por proximidad del Black Friday; miniproyector como segunda pieza por señal social secundaria. Cuatro publicaciones con hora comprobada, cinco candidatos secundarios, cero vídeos con métricas nativas comprobadas, cero emergentes, tres guiones. Cobertura concentrada en Xataka; sin confirmación directa de tiendas ni fuentes sociales nativas. No inventar métricas ni presentar hipótesis como tendencias.
+## Balance
+Tres publicaciones con hora comprobada, un seguimiento comercial sin hora exacta, cinco candidatos secundarios (dos nuevos), cero vídeos con métricas nativas verificadas, cero emergentes acreditados, tres guiones. Cobertura periodística concentrada en Xataka; faltan fuentes adicionales, datos sociales nativos y comprobación de tiendas. Prioridad editorial: crisis de componentes y descuentos reales, seguida de Switch 2. Publicación parcial sin inventar datos.
